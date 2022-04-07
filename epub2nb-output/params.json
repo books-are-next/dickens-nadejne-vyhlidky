@@ -1,11 +1,14 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Nadějné vyhlídky",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Charles Dickens",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-03-10T00:00:00.000Z"
+      "modified": "2021-03-10T00:00:00.000Z",
+      "isbn": "978-80-274-1260-0"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -30,17 +33,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "nadejne_vyhlidky_001.md",
             "xhtml": "nadejne_vyhlidky_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "nadejne_vyhlidky_002.md",
@@ -48,10 +53,11 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "nadejne_vyhlidky_003.md",
@@ -59,21 +65,23 @@
             "id": 2,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "nadejne_vyhlidky_004.md",
             "xhtml": "nadejne_vyhlidky_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "nadejne_vyhlidky_005.md",
@@ -84,7 +92,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola první"
           },
           {
             "filename": "nadejne_vyhlidky_006.md",
@@ -95,7 +105,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola druhá"
           },
           {
             "filename": "nadejne_vyhlidky_007.md",
@@ -106,7 +118,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třetí"
           },
           {
             "filename": "nadejne_vyhlidky_008.md",
@@ -117,7 +131,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtvrtá"
           },
           {
             "filename": "nadejne_vyhlidky_009.md",
@@ -128,7 +144,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola pátá"
           },
           {
             "filename": "nadejne_vyhlidky_010.md",
@@ -139,7 +157,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola šestá"
           },
           {
             "filename": "nadejne_vyhlidky_011.md",
@@ -150,7 +170,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola sedmá"
           },
           {
             "filename": "nadejne_vyhlidky_012.md",
@@ -161,7 +183,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola osmá"
           },
           {
             "filename": "nadejne_vyhlidky_013.md",
@@ -172,7 +196,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola devátá"
           },
           {
             "filename": "nadejne_vyhlidky_014.md",
@@ -183,7 +209,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola desátá"
           },
           {
             "filename": "nadejne_vyhlidky_015.md",
@@ -194,7 +222,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola jedenáctá"
           },
           {
             "filename": "nadejne_vyhlidky_016.md",
@@ -205,7 +235,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvanáctá"
           },
           {
             "filename": "nadejne_vyhlidky_017.md",
@@ -216,7 +248,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třináctá"
           },
           {
             "filename": "nadejne_vyhlidky_018.md",
@@ -227,7 +261,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtrnáctá"
           },
           {
             "filename": "nadejne_vyhlidky_019.md",
@@ -238,7 +274,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola patnáctá"
           },
           {
             "filename": "nadejne_vyhlidky_020.md",
@@ -249,7 +287,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola šestnáctá"
           },
           {
             "filename": "nadejne_vyhlidky_021.md",
@@ -260,7 +300,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola sedumnáctá"
           },
           {
             "filename": "nadejne_vyhlidky_022.md",
@@ -271,7 +313,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola osmnáctá"
           },
           {
             "filename": "nadejne_vyhlidky_023.md",
@@ -282,7 +326,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola devatenáctá"
           },
           {
             "filename": "nadejne_vyhlidky_024.md",
@@ -293,7 +339,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá"
           },
           {
             "filename": "nadejne_vyhlidky_025.md",
@@ -304,7 +352,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá první"
           },
           {
             "filename": "nadejne_vyhlidky_026.md",
@@ -315,7 +365,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá druhá"
           },
           {
             "filename": "nadejne_vyhlidky_027.md",
@@ -326,7 +378,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá třetí"
           },
           {
             "filename": "nadejne_vyhlidky_028.md",
@@ -337,7 +391,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá čtvrtá"
           },
           {
             "filename": "nadejne_vyhlidky_029.md",
@@ -348,7 +404,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá pátá"
           },
           {
             "filename": "nadejne_vyhlidky_030.md",
@@ -359,7 +417,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá šestá"
           },
           {
             "filename": "nadejne_vyhlidky_031.md",
@@ -370,7 +430,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá sedmá"
           },
           {
             "filename": "nadejne_vyhlidky_032.md",
@@ -381,7 +443,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá osmá"
           },
           {
             "filename": "nadejne_vyhlidky_033.md",
@@ -392,7 +456,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola dvacátá devátá"
           },
           {
             "filename": "nadejne_vyhlidky_034.md",
@@ -403,7 +469,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá"
           },
           {
             "filename": "nadejne_vyhlidky_035.md",
@@ -414,7 +482,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá první"
           },
           {
             "filename": "nadejne_vyhlidky_036.md",
@@ -425,7 +495,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá druhá"
           },
           {
             "filename": "nadejne_vyhlidky_037.md",
@@ -436,7 +508,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá třetí"
           },
           {
             "filename": "nadejne_vyhlidky_038.md",
@@ -447,7 +521,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá čtvrtá"
           },
           {
             "filename": "nadejne_vyhlidky_039.md",
@@ -458,7 +534,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá pátá"
           },
           {
             "filename": "nadejne_vyhlidky_040.md",
@@ -469,7 +547,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá šestá"
           },
           {
             "filename": "nadejne_vyhlidky_041.md",
@@ -480,7 +560,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá sedmá"
           },
           {
             "filename": "nadejne_vyhlidky_042.md",
@@ -491,7 +573,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá osmá"
           },
           {
             "filename": "nadejne_vyhlidky_043.md",
@@ -502,7 +586,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola třicátá devátá"
           },
           {
             "filename": "nadejne_vyhlidky_044.md",
@@ -513,7 +599,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá"
           },
           {
             "filename": "nadejne_vyhlidky_045.md",
@@ -524,7 +612,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá první"
           },
           {
             "filename": "nadejne_vyhlidky_046.md",
@@ -535,7 +625,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá druhá"
           },
           {
             "filename": "nadejne_vyhlidky_047.md",
@@ -546,7 +638,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá třetí"
           },
           {
             "filename": "nadejne_vyhlidky_048.md",
@@ -557,7 +651,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá čtvrtá"
           },
           {
             "filename": "nadejne_vyhlidky_049.md",
@@ -568,7 +664,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá pátá"
           },
           {
             "filename": "nadejne_vyhlidky_050.md",
@@ -579,7 +677,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá šestá"
           },
           {
             "filename": "nadejne_vyhlidky_051.md",
@@ -590,7 +690,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá sedmá"
           },
           {
             "filename": "nadejne_vyhlidky_052.md",
@@ -601,7 +703,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá osmá"
           },
           {
             "filename": "nadejne_vyhlidky_053.md",
@@ -612,7 +716,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola čtyřicátá devátá"
           },
           {
             "filename": "nadejne_vyhlidky_054.md",
@@ -623,7 +729,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá"
           },
           {
             "filename": "nadejne_vyhlidky_055.md",
@@ -634,7 +742,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá první"
           },
           {
             "filename": "nadejne_vyhlidky_056.md",
@@ -645,7 +755,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá druhá"
           },
           {
             "filename": "nadejne_vyhlidky_057.md",
@@ -656,7 +768,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá třetí"
           },
           {
             "filename": "nadejne_vyhlidky_058.md",
@@ -667,7 +781,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá čtvrtá"
           },
           {
             "filename": "nadejne_vyhlidky_059.md",
@@ -678,7 +794,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá pátá"
           },
           {
             "filename": "nadejne_vyhlidky_060.md",
@@ -689,7 +807,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá šestá"
           },
           {
             "filename": "nadejne_vyhlidky_061.md",
@@ -700,7 +820,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá sedmá"
           },
           {
             "filename": "nadejne_vyhlidky_062.md",
@@ -711,7 +833,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá osmá"
           },
           {
             "filename": "nadejne_vyhlidky_063.md",
@@ -722,29 +846,33 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola padesátá devátá"
           },
           {
             "filename": "nadejne_vyhlidky_064.md",
             "xhtml": "nadejne_vyhlidky_064.xhtml",
             "id": 63,
-            "role": "chapter",
+            "role": "remove",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "nadejne_vyhlidky_065.md",
             "xhtml": "nadejne_vyhlidky_065.xhtml",
             "id": 64,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -1231,6 +1359,6 @@
       "user": "books-are-next",
       "repo": "dickens-nadejne-vyhlidky"
     },
-    "generatedAt": 1649246594804
+    "generatedAt": 1649312811754
   }
 }
