@@ -4,6 +4,15 @@ title: Tiráž
 
 ***
 
+Nadějné vyhlídky
+
+Charles Dickens
+
+_Přeložili Emanuel a Emanuela Tilschovi_
+
+
+***
+
 Znění tohoto textu vychází z díla [Nadějné vyhlídky](https://aleph.nkp.cz/F/?func=direct&doc_number=000124272&local_base=CNB) tak, jak bylo vydáno nakladatelstvím Odeon v Praze v roce 1972. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 §
