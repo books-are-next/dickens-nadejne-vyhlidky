@@ -15,7 +15,6 @@ meta:
   publisherShort: MKP
 readingOrder:
   - nadejne_vyhlidky_002.html
-  - nadejne_vyhlidky_003.html
   - nadejne_vyhlidky_005.html
   - nadejne_vyhlidky_006.html
   - nadejne_vyhlidky_007.html

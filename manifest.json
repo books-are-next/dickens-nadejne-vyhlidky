@@ -1,17 +1,17 @@
 {
   "author": "Charles Dickens",
   "contenttype": "prose",
-  "identifier": "dickens-nadejne-vyhlidky-990eea6",
+  "identifier": "dickens-nadejne-vyhlidky-e8ee5e2",
   "isbn": "978-80-274-1260-0; 978-80-274-1259-4; 978-80-274-1261-7",
   "languagecode": "cs",
   "modified": "2021-03-10T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Nadějné vyhlídky",
-  "revision": "990eea6",
+  "revision": "e8ee5e2",
   "generatedAt": {
-    "date": "Thu Apr 07 2022 06:53:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649314397131
+    "date": "Thu Apr 07 2022 07:06:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649315169016
   },
   "documents": [
     {
@@ -23,26 +23,6 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "nadejne_vyhlidky_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Nadějné vyhlídky",
-      "file": "nadejne_vyhlidky_003.html",
-      "words": 9,
-      "chars": 69,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 1,
-      "prev": "nadejne_vyhlidky_002.html",
       "next": "nadejne_vyhlidky_005.html",
       "toc": [
         {
@@ -61,8 +41,8 @@
       "chars": 9922,
       "ideas": 46,
       "role": "chapter",
-      "order": 2,
-      "prev": "nadejne_vyhlidky_003.html",
+      "order": 1,
+      "prev": "nadejne_vyhlidky_002.html",
       "next": "nadejne_vyhlidky_006.html",
       "toc": [
         {
@@ -81,7 +61,7 @@
       "chars": 18955,
       "ideas": 65,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "nadejne_vyhlidky_005.html",
       "next": "nadejne_vyhlidky_007.html",
       "toc": [
@@ -101,7 +81,7 @@
       "chars": 10348,
       "ideas": 46,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "nadejne_vyhlidky_006.html",
       "next": "nadejne_vyhlidky_008.html",
       "toc": [
@@ -121,7 +101,7 @@
       "chars": 18682,
       "ideas": 56,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "nadejne_vyhlidky_007.html",
       "next": "nadejne_vyhlidky_009.html",
       "toc": [
@@ -141,7 +121,7 @@
       "chars": 22444,
       "ideas": 74,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "nadejne_vyhlidky_008.html",
       "next": "nadejne_vyhlidky_010.html",
       "toc": [
@@ -161,7 +141,7 @@
       "chars": 4314,
       "ideas": 6,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "nadejne_vyhlidky_009.html",
       "next": "nadejne_vyhlidky_011.html",
       "toc": [
@@ -181,7 +161,7 @@
       "chars": 21937,
       "ideas": 97,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "nadejne_vyhlidky_010.html",
       "next": "nadejne_vyhlidky_012.html",
       "toc": [
@@ -201,7 +181,7 @@
       "chars": 25592,
       "ideas": 110,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "nadejne_vyhlidky_011.html",
       "next": "nadejne_vyhlidky_013.html",
       "toc": [
@@ -221,7 +201,7 @@
       "chars": 14568,
       "ideas": 73,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "nadejne_vyhlidky_012.html",
       "next": "nadejne_vyhlidky_014.html",
       "toc": [
@@ -241,7 +221,7 @@
       "chars": 13404,
       "ideas": 58,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "nadejne_vyhlidky_013.html",
       "next": "nadejne_vyhlidky_015.html",
       "toc": [
@@ -261,7 +241,7 @@
       "chars": 28838,
       "ideas": 130,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "nadejne_vyhlidky_014.html",
       "next": "nadejne_vyhlidky_016.html",
       "toc": [
@@ -281,7 +261,7 @@
       "chars": 12101,
       "ideas": 27,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "nadejne_vyhlidky_015.html",
       "next": "nadejne_vyhlidky_017.html",
       "toc": [
@@ -301,7 +281,7 @@
       "chars": 16005,
       "ideas": 69,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "nadejne_vyhlidky_016.html",
       "next": "nadejne_vyhlidky_018.html",
       "toc": [
@@ -321,7 +301,7 @@
       "chars": 4415,
       "ideas": 9,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "nadejne_vyhlidky_017.html",
       "next": "nadejne_vyhlidky_019.html",
       "toc": [
@@ -341,7 +321,7 @@
       "chars": 23506,
       "ideas": 100,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "nadejne_vyhlidky_018.html",
       "next": "nadejne_vyhlidky_020.html",
       "toc": [
@@ -361,7 +341,7 @@
       "chars": 10121,
       "ideas": 18,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "nadejne_vyhlidky_019.html",
       "next": "nadejne_vyhlidky_021.html",
       "toc": [
@@ -381,7 +361,7 @@
       "chars": 17951,
       "ideas": 76,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "nadejne_vyhlidky_020.html",
       "next": "nadejne_vyhlidky_022.html",
       "toc": [
@@ -401,7 +381,7 @@
       "chars": 26964,
       "ideas": 135,
       "role": "chapter",
-      "order": 19,
+      "order": 18,
       "prev": "nadejne_vyhlidky_021.html",
       "next": "nadejne_vyhlidky_023.html",
       "toc": [
@@ -421,7 +401,7 @@
       "chars": 31025,
       "ideas": 116,
       "role": "chapter",
-      "order": 20,
+      "order": 19,
       "prev": "nadejne_vyhlidky_022.html",
       "next": "nadejne_vyhlidky_024.html",
       "toc": [
@@ -441,7 +421,7 @@
       "chars": 16972,
       "ideas": 74,
       "role": "chapter",
-      "order": 21,
+      "order": 20,
       "prev": "nadejne_vyhlidky_023.html",
       "next": "nadejne_vyhlidky_025.html",
       "toc": [
@@ -461,7 +441,7 @@
       "chars": 9272,
       "ideas": 46,
       "role": "chapter",
-      "order": 22,
+      "order": 21,
       "prev": "nadejne_vyhlidky_024.html",
       "next": "nadejne_vyhlidky_026.html",
       "toc": [
@@ -481,7 +461,7 @@
       "chars": 26921,
       "ideas": 113,
       "role": "chapter",
-      "order": 23,
+      "order": 22,
       "prev": "nadejne_vyhlidky_025.html",
       "next": "nadejne_vyhlidky_027.html",
       "toc": [
@@ -501,7 +481,7 @@
       "chars": 17285,
       "ideas": 50,
       "role": "chapter",
-      "order": 24,
+      "order": 23,
       "prev": "nadejne_vyhlidky_026.html",
       "next": "nadejne_vyhlidky_028.html",
       "toc": [
@@ -521,7 +501,7 @@
       "chars": 12711,
       "ideas": 52,
       "role": "chapter",
-      "order": 25,
+      "order": 24,
       "prev": "nadejne_vyhlidky_027.html",
       "next": "nadejne_vyhlidky_029.html",
       "toc": [
@@ -541,7 +521,7 @@
       "chars": 15656,
       "ideas": 55,
       "role": "chapter",
-      "order": 26,
+      "order": 25,
       "prev": "nadejne_vyhlidky_028.html",
       "next": "nadejne_vyhlidky_030.html",
       "toc": [
@@ -561,7 +541,7 @@
       "chars": 15232,
       "ideas": 57,
       "role": "chapter",
-      "order": 27,
+      "order": 26,
       "prev": "nadejne_vyhlidky_029.html",
       "next": "nadejne_vyhlidky_031.html",
       "toc": [
@@ -581,7 +561,7 @@
       "chars": 16522,
       "ideas": 67,
       "role": "chapter",
-      "order": 28,
+      "order": 27,
       "prev": "nadejne_vyhlidky_030.html",
       "next": "nadejne_vyhlidky_032.html",
       "toc": [
@@ -601,7 +581,7 @@
       "chars": 13125,
       "ideas": 45,
       "role": "chapter",
-      "order": 29,
+      "order": 28,
       "prev": "nadejne_vyhlidky_031.html",
       "next": "nadejne_vyhlidky_033.html",
       "toc": [
@@ -621,7 +601,7 @@
       "chars": 26411,
       "ideas": 124,
       "role": "chapter",
-      "order": 30,
+      "order": 29,
       "prev": "nadejne_vyhlidky_032.html",
       "next": "nadejne_vyhlidky_034.html",
       "toc": [
@@ -641,7 +621,7 @@
       "chars": 18421,
       "ideas": 76,
       "role": "chapter",
-      "order": 31,
+      "order": 30,
       "prev": "nadejne_vyhlidky_033.html",
       "next": "nadejne_vyhlidky_035.html",
       "toc": [
@@ -661,7 +641,7 @@
       "chars": 11848,
       "ideas": 38,
       "role": "chapter",
-      "order": 32,
+      "order": 31,
       "prev": "nadejne_vyhlidky_034.html",
       "next": "nadejne_vyhlidky_036.html",
       "toc": [
@@ -681,7 +661,7 @@
       "chars": 12379,
       "ideas": 47,
       "role": "chapter",
-      "order": 33,
+      "order": 32,
       "prev": "nadejne_vyhlidky_035.html",
       "next": "nadejne_vyhlidky_037.html",
       "toc": [
@@ -701,7 +681,7 @@
       "chars": 14888,
       "ideas": 66,
       "role": "chapter",
-      "order": 34,
+      "order": 33,
       "prev": "nadejne_vyhlidky_036.html",
       "next": "nadejne_vyhlidky_038.html",
       "toc": [
@@ -721,7 +701,7 @@
       "chars": 13157,
       "ideas": 31,
       "role": "chapter",
-      "order": 35,
+      "order": 34,
       "prev": "nadejne_vyhlidky_037.html",
       "next": "nadejne_vyhlidky_039.html",
       "toc": [
@@ -741,7 +721,7 @@
       "chars": 16469,
       "ideas": 62,
       "role": "chapter",
-      "order": 36,
+      "order": 35,
       "prev": "nadejne_vyhlidky_038.html",
       "next": "nadejne_vyhlidky_040.html",
       "toc": [
@@ -761,7 +741,7 @@
       "chars": 13936,
       "ideas": 76,
       "role": "chapter",
-      "order": 37,
+      "order": 36,
       "prev": "nadejne_vyhlidky_039.html",
       "next": "nadejne_vyhlidky_041.html",
       "toc": [
@@ -781,7 +761,7 @@
       "chars": 15546,
       "ideas": 40,
       "role": "chapter",
-      "order": 38,
+      "order": 37,
       "prev": "nadejne_vyhlidky_040.html",
       "next": "nadejne_vyhlidky_042.html",
       "toc": [
@@ -801,7 +781,7 @@
       "chars": 26934,
       "ideas": 113,
       "role": "chapter",
-      "order": 39,
+      "order": 38,
       "prev": "nadejne_vyhlidky_041.html",
       "next": "nadejne_vyhlidky_043.html",
       "toc": [
@@ -821,7 +801,7 @@
       "chars": 25509,
       "ideas": 108,
       "role": "chapter",
-      "order": 40,
+      "order": 39,
       "prev": "nadejne_vyhlidky_042.html",
       "next": "nadejne_vyhlidky_044.html",
       "toc": [
@@ -841,7 +821,7 @@
       "chars": 28287,
       "ideas": 120,
       "role": "chapter",
-      "order": 41,
+      "order": 40,
       "prev": "nadejne_vyhlidky_043.html",
       "next": "nadejne_vyhlidky_045.html",
       "toc": [
@@ -861,7 +841,7 @@
       "chars": 11957,
       "ideas": 54,
       "role": "chapter",
-      "order": 42,
+      "order": 41,
       "prev": "nadejne_vyhlidky_044.html",
       "next": "nadejne_vyhlidky_046.html",
       "toc": [
@@ -881,7 +861,7 @@
       "chars": 15883,
       "ideas": 50,
       "role": "chapter",
-      "order": 43,
+      "order": 42,
       "prev": "nadejne_vyhlidky_045.html",
       "next": "nadejne_vyhlidky_047.html",
       "toc": [
@@ -901,7 +881,7 @@
       "chars": 10835,
       "ideas": 59,
       "role": "chapter",
-      "order": 44,
+      "order": 43,
       "prev": "nadejne_vyhlidky_046.html",
       "next": "nadejne_vyhlidky_048.html",
       "toc": [
@@ -921,7 +901,7 @@
       "chars": 15858,
       "ideas": 78,
       "role": "chapter",
-      "order": 45,
+      "order": 44,
       "prev": "nadejne_vyhlidky_047.html",
       "next": "nadejne_vyhlidky_049.html",
       "toc": [
@@ -941,7 +921,7 @@
       "chars": 16215,
       "ideas": 57,
       "role": "chapter",
-      "order": 46,
+      "order": 45,
       "prev": "nadejne_vyhlidky_048.html",
       "next": "nadejne_vyhlidky_050.html",
       "toc": [
@@ -961,7 +941,7 @@
       "chars": 16643,
       "ideas": 49,
       "role": "chapter",
-      "order": 47,
+      "order": 46,
       "prev": "nadejne_vyhlidky_049.html",
       "next": "nadejne_vyhlidky_051.html",
       "toc": [
@@ -981,7 +961,7 @@
       "chars": 14429,
       "ideas": 43,
       "role": "chapter",
-      "order": 48,
+      "order": 47,
       "prev": "nadejne_vyhlidky_050.html",
       "next": "nadejne_vyhlidky_052.html",
       "toc": [
@@ -1001,7 +981,7 @@
       "chars": 14785,
       "ideas": 68,
       "role": "chapter",
-      "order": 49,
+      "order": 48,
       "prev": "nadejne_vyhlidky_051.html",
       "next": "nadejne_vyhlidky_053.html",
       "toc": [
@@ -1021,7 +1001,7 @@
       "chars": 19747,
       "ideas": 88,
       "role": "chapter",
-      "order": 50,
+      "order": 49,
       "prev": "nadejne_vyhlidky_052.html",
       "next": "nadejne_vyhlidky_054.html",
       "toc": [
@@ -1041,7 +1021,7 @@
       "chars": 8028,
       "ideas": 50,
       "role": "chapter",
-      "order": 51,
+      "order": 50,
       "prev": "nadejne_vyhlidky_053.html",
       "next": "nadejne_vyhlidky_055.html",
       "toc": [
@@ -1061,7 +1041,7 @@
       "chars": 16636,
       "ideas": 73,
       "role": "chapter",
-      "order": 52,
+      "order": 51,
       "prev": "nadejne_vyhlidky_054.html",
       "next": "nadejne_vyhlidky_056.html",
       "toc": [
@@ -1081,7 +1061,7 @@
       "chars": 11366,
       "ideas": 44,
       "role": "chapter",
-      "order": 53,
+      "order": 52,
       "prev": "nadejne_vyhlidky_055.html",
       "next": "nadejne_vyhlidky_057.html",
       "toc": [
@@ -1101,7 +1081,7 @@
       "chars": 27644,
       "ideas": 93,
       "role": "chapter",
-      "order": 54,
+      "order": 53,
       "prev": "nadejne_vyhlidky_056.html",
       "next": "nadejne_vyhlidky_058.html",
       "toc": [
@@ -1121,7 +1101,7 @@
       "chars": 31226,
       "ideas": 90,
       "role": "chapter",
-      "order": 55,
+      "order": 54,
       "prev": "nadejne_vyhlidky_057.html",
       "next": "nadejne_vyhlidky_059.html",
       "toc": [
@@ -1141,7 +1121,7 @@
       "chars": 15558,
       "ideas": 66,
       "role": "chapter",
-      "order": 56,
+      "order": 55,
       "prev": "nadejne_vyhlidky_058.html",
       "next": "nadejne_vyhlidky_060.html",
       "toc": [
@@ -1161,7 +1141,7 @@
       "chars": 11871,
       "ideas": 42,
       "role": "chapter",
-      "order": 57,
+      "order": 56,
       "prev": "nadejne_vyhlidky_059.html",
       "next": "nadejne_vyhlidky_061.html",
       "toc": [
@@ -1181,7 +1161,7 @@
       "chars": 25742,
       "ideas": 110,
       "role": "chapter",
-      "order": 58,
+      "order": 57,
       "prev": "nadejne_vyhlidky_060.html",
       "next": "nadejne_vyhlidky_062.html",
       "toc": [
@@ -1201,7 +1181,7 @@
       "chars": 16416,
       "ideas": 69,
       "role": "chapter",
-      "order": 59,
+      "order": 58,
       "prev": "nadejne_vyhlidky_061.html",
       "next": "nadejne_vyhlidky_063.html",
       "toc": [
@@ -1221,7 +1201,7 @@
       "chars": 7920,
       "ideas": 45,
       "role": "chapter",
-      "order": 60,
+      "order": 59,
       "prev": "nadejne_vyhlidky_062.html",
       "next": "colophon.html",
       "toc": [
@@ -1237,9 +1217,9 @@
     {
       "title": "Tiráž • Nadějné vyhlídky",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 946,
-      "ideas": 20,
+      "words": 151,
+      "chars": 1015,
+      "ideas": 23,
       "role": "colophon",
       "order": null,
       "prev": "nadejne_vyhlidky_063.html",
@@ -1262,9 +1242,9 @@
       "ideas": 4025
     },
     "chapters": {
-      "words": 173297,
-      "chars": 1007401,
-      "ideas": 4002
+      "words": 173288,
+      "chars": 1007332,
+      "ideas": 3999
     }
   }
 }

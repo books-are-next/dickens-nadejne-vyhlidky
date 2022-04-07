@@ -12,21 +12,21 @@
       "publisherShort": "MKP"
     },
     "elements": {
-      "title": "MLP-uroven2-kapitola",
+      "title": "MLP-uroven2-kapitola\nMLP_uroven1_cast\nMLP_uroven1_zvlastni_pripady",
       "subtitle": "",
-      "h2": "",
+      "h2": "MLP-uroven2-nadpis",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "MLP-dopis-bez1radku--I\nMLP_verse_-0-12-\nMLP_verse_-12-12-",
+      "figure": "MLP-obrazky\nMLP_obrazky",
+      "em": "MLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_znak_kurziva_11b",
+      "strong": "MLP-licence-paragraf\nMLP-tiraz-autor-a-nazev",
       "remove": "",
       "ignore": ""
     },
@@ -52,7 +52,7 @@
             "filename": "nadejne_vyhlidky_002.md",
             "xhtml": "nadejne_vyhlidky_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -64,7 +64,7 @@
             "filename": "nadejne_vyhlidky_003.md",
             "xhtml": "nadejne_vyhlidky_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -78,7 +78,7 @@
             "id": 3,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -1360,6 +1360,6 @@
       "user": "books-are-next",
       "repo": "dickens-nadejne-vyhlidky"
     },
-    "generatedAt": 1649314339899
+    "generatedAt": 1649315107291
   }
 }
