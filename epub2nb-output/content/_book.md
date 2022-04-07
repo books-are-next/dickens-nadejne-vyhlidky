@@ -11,7 +11,8 @@ meta:
   author: Charles Dickens
   publisher: Městská knihovna v Praze
   modified: '2021-03-10T00:00:00.000Z'
-  isbn: 978-80-274-1260-0
+  isbn: 978-80-274-1260-0; 978-80-274-1259-4; 978-80-274-1261-7
+  publisherShort: MKP
 readingOrder:
   - nadejne_vyhlidky_002.html
   - nadejne_vyhlidky_003.html
