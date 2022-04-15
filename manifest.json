@@ -1,17 +1,17 @@
 {
   "author": "Charles Dickens",
   "contenttype": "prose",
-  "identifier": "dickens-nadejne-vyhlidky-caa554d",
+  "identifier": "dickens-nadejne-vyhlidky-55cc28f",
   "isbn": "978-80-274-1260-0; 978-80-274-1259-4; 978-80-274-1261-7",
   "languagecode": "cs",
   "modified": "2021-03-10T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Nadějné vyhlídky",
-  "revision": "caa554d",
+  "revision": "55cc28f",
   "generatedAt": {
-    "date": "Fri Apr 15 2022 20:42:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650055352094
+    "date": "Fri Apr 15 2022 21:04:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650056690800
   },
   "documents": [
     {
