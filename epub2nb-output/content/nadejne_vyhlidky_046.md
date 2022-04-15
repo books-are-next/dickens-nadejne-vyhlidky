@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtyřicátá druhá
 contentType: prose
 ---
-
-Kapitola čtyřicátá druhá
 
   
 

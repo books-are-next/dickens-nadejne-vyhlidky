@@ -1,8 +1,7 @@
 ---
+title: Kapitola patnáctá
 contentType: prose
 ---
-
-Kapitola patnáctá
 
   
 

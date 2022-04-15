@@ -1,8 +1,7 @@
 ---
+title: Kapitola třicátá první
 contentType: prose
 ---
-
-Kapitola třicátá první
 
   
 

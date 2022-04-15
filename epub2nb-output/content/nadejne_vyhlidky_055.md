@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá první
 contentType: prose
 ---
-
-Kapitola padesátá první
 
   
 

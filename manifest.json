@@ -1,29 +1,29 @@
 {
   "author": "Charles Dickens",
   "contenttype": "prose",
-  "identifier": "dickens-nadejne-vyhlidky-7c82a96",
+  "identifier": "dickens-nadejne-vyhlidky-ca0f5a5",
   "isbn": "978-80-274-1260-0; 978-80-274-1259-4; 978-80-274-1261-7",
   "languagecode": "cs",
   "modified": "2021-03-10T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Nadějné vyhlídky",
-  "revision": "7c82a96",
+  "revision": "ca0f5a5",
   "generatedAt": {
-    "date": "Fri Apr 15 2022 19:46:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650052002098
+    "date": "Fri Apr 15 2022 20:20:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650054050875
   },
   "documents": [
     {
       "title": "Nadějné vyhlídky",
-      "file": "nadejne_vyhlidky_005.html",
-      "words": 1733,
-      "chars": 9922,
-      "ideas": 46,
+      "file": "nadejne_vyhlidky_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "nadejne_vyhlidky_006.html",
+      "next": "nadejne_vyhlidky_005.html",
       "toc": [
         {
           "index": 0,
@@ -35,1160 +35,1180 @@
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola první • Nadějné vyhlídky",
+      "file": "nadejne_vyhlidky_005.html",
+      "words": 1733,
+      "chars": 9922,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 1,
+      "prev": "nadejne_vyhlidky_002.html",
+      "next": "nadejne_vyhlidky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola druhá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_006.html",
       "words": 3303,
       "chars": 18955,
       "ideas": 65,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "nadejne_vyhlidky_005.html",
       "next": "nadejne_vyhlidky_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola druhá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třetí • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_007.html",
       "words": 1883,
       "chars": 10348,
       "ideas": 46,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "nadejne_vyhlidky_006.html",
       "next": "nadejne_vyhlidky_008.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třetí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtvrtá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_008.html",
       "words": 3125,
       "chars": 18682,
       "ideas": 56,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "nadejne_vyhlidky_007.html",
       "next": "nadejne_vyhlidky_009.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtvrtá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola pátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_009.html",
       "words": 3874,
       "chars": 22444,
       "ideas": 74,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "nadejne_vyhlidky_008.html",
       "next": "nadejne_vyhlidky_010.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola pátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola šestá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_010.html",
       "words": 757,
       "chars": 4314,
       "ideas": 6,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "nadejne_vyhlidky_009.html",
       "next": "nadejne_vyhlidky_011.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola šestá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola sedmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_011.html",
       "words": 3825,
       "chars": 21937,
       "ideas": 97,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "nadejne_vyhlidky_010.html",
       "next": "nadejne_vyhlidky_012.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola sedmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola osmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_012.html",
       "words": 4430,
       "chars": 25592,
       "ideas": 110,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "nadejne_vyhlidky_011.html",
       "next": "nadejne_vyhlidky_013.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola osmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola devátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_013.html",
       "words": 2513,
       "chars": 14568,
       "ideas": 73,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "nadejne_vyhlidky_012.html",
       "next": "nadejne_vyhlidky_014.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola devátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola desátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_014.html",
       "words": 2287,
       "chars": 13404,
       "ideas": 58,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "nadejne_vyhlidky_013.html",
       "next": "nadejne_vyhlidky_015.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola desátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola jedenáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_015.html",
       "words": 4975,
       "chars": 28838,
       "ideas": 130,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "nadejne_vyhlidky_014.html",
       "next": "nadejne_vyhlidky_016.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola jedenáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvanáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_016.html",
       "words": 2071,
       "chars": 12101,
       "ideas": 27,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "nadejne_vyhlidky_015.html",
       "next": "nadejne_vyhlidky_017.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvanáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třináctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_017.html",
       "words": 2736,
       "chars": 16005,
       "ideas": 69,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "nadejne_vyhlidky_016.html",
       "next": "nadejne_vyhlidky_018.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třináctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtrnáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_018.html",
       "words": 780,
       "chars": 4415,
       "ideas": 9,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "nadejne_vyhlidky_017.html",
       "next": "nadejne_vyhlidky_019.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtrnáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola patnáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_019.html",
       "words": 4077,
       "chars": 23506,
       "ideas": 100,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "nadejne_vyhlidky_018.html",
       "next": "nadejne_vyhlidky_020.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola patnáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola šestnáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_020.html",
       "words": 1744,
       "chars": 10121,
       "ideas": 18,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "nadejne_vyhlidky_019.html",
       "next": "nadejne_vyhlidky_021.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola šestnáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola sedmnáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_021.html",
       "words": 3169,
       "chars": 17951,
       "ideas": 76,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "nadejne_vyhlidky_020.html",
       "next": "nadejne_vyhlidky_022.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola sedmnáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola osmnáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_022.html",
       "words": 4672,
       "chars": 26964,
       "ideas": 135,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "nadejne_vyhlidky_021.html",
       "next": "nadejne_vyhlidky_023.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola osmnáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola devatenáctá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_023.html",
       "words": 5364,
       "chars": 31025,
       "ideas": 116,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "nadejne_vyhlidky_022.html",
       "next": "nadejne_vyhlidky_024.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola devatenáctá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_024.html",
       "words": 2879,
       "chars": 16972,
       "ideas": 74,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "nadejne_vyhlidky_023.html",
       "next": "nadejne_vyhlidky_025.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá první • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_025.html",
       "words": 1592,
       "chars": 9272,
       "ideas": 46,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "nadejne_vyhlidky_024.html",
       "next": "nadejne_vyhlidky_026.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá první",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá druhá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_026.html",
       "words": 4580,
       "chars": 26921,
       "ideas": 113,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "nadejne_vyhlidky_025.html",
       "next": "nadejne_vyhlidky_027.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá druhá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá třetí • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_027.html",
       "words": 2825,
       "chars": 17285,
       "ideas": 50,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "nadejne_vyhlidky_026.html",
       "next": "nadejne_vyhlidky_028.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá třetí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá čtvrtá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_028.html",
       "words": 2152,
       "chars": 12711,
       "ideas": 52,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "nadejne_vyhlidky_027.html",
       "next": "nadejne_vyhlidky_029.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá čtvrtá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá pátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_029.html",
       "words": 2644,
       "chars": 15656,
       "ideas": 55,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "nadejne_vyhlidky_028.html",
       "next": "nadejne_vyhlidky_030.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá pátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá šestá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_030.html",
       "words": 2592,
       "chars": 15232,
       "ideas": 57,
       "role": "chapter",
-      "order": 25,
+      "order": 26,
       "prev": "nadejne_vyhlidky_029.html",
       "next": "nadejne_vyhlidky_031.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá šestá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá sedmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_031.html",
       "words": 2858,
       "chars": 16522,
       "ideas": 67,
       "role": "chapter",
-      "order": 26,
+      "order": 27,
       "prev": "nadejne_vyhlidky_030.html",
       "next": "nadejne_vyhlidky_032.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá sedmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá osmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_032.html",
       "words": 2227,
       "chars": 13125,
       "ideas": 45,
       "role": "chapter",
-      "order": 27,
+      "order": 28,
       "prev": "nadejne_vyhlidky_031.html",
       "next": "nadejne_vyhlidky_033.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá osmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola dvacátá devátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_033.html",
       "words": 4515,
       "chars": 26411,
       "ideas": 124,
       "role": "chapter",
-      "order": 28,
+      "order": 29,
       "prev": "nadejne_vyhlidky_032.html",
       "next": "nadejne_vyhlidky_034.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola dvacátá devátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_034.html",
       "words": 3094,
       "chars": 18421,
       "ideas": 76,
       "role": "chapter",
-      "order": 29,
+      "order": 30,
       "prev": "nadejne_vyhlidky_033.html",
       "next": "nadejne_vyhlidky_035.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá první • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_035.html",
       "words": 1931,
       "chars": 11848,
       "ideas": 38,
       "role": "chapter",
-      "order": 30,
+      "order": 31,
       "prev": "nadejne_vyhlidky_034.html",
       "next": "nadejne_vyhlidky_036.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá první",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá druhá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_036.html",
       "words": 2087,
       "chars": 12379,
       "ideas": 47,
       "role": "chapter",
-      "order": 31,
+      "order": 32,
       "prev": "nadejne_vyhlidky_035.html",
       "next": "nadejne_vyhlidky_037.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá druhá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá třetí • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_037.html",
       "words": 2530,
       "chars": 14888,
       "ideas": 66,
       "role": "chapter",
-      "order": 32,
+      "order": 33,
       "prev": "nadejne_vyhlidky_036.html",
       "next": "nadejne_vyhlidky_038.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá třetí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá čtvrtá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_038.html",
       "words": 2150,
       "chars": 13157,
       "ideas": 31,
       "role": "chapter",
-      "order": 33,
+      "order": 34,
       "prev": "nadejne_vyhlidky_037.html",
       "next": "nadejne_vyhlidky_039.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá čtvrtá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá pátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_039.html",
       "words": 2825,
       "chars": 16469,
       "ideas": 62,
       "role": "chapter",
-      "order": 34,
+      "order": 35,
       "prev": "nadejne_vyhlidky_038.html",
       "next": "nadejne_vyhlidky_040.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá pátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá šestá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_040.html",
       "words": 2380,
       "chars": 13936,
       "ideas": 76,
       "role": "chapter",
-      "order": 35,
+      "order": 36,
       "prev": "nadejne_vyhlidky_039.html",
       "next": "nadejne_vyhlidky_041.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá šestá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá sedmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_041.html",
       "words": 2575,
       "chars": 15546,
       "ideas": 40,
       "role": "chapter",
-      "order": 36,
+      "order": 37,
       "prev": "nadejne_vyhlidky_040.html",
       "next": "nadejne_vyhlidky_042.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá sedmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá osmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_042.html",
       "words": 4482,
       "chars": 26934,
       "ideas": 113,
       "role": "chapter",
-      "order": 37,
+      "order": 38,
       "prev": "nadejne_vyhlidky_041.html",
       "next": "nadejne_vyhlidky_043.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá osmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola třicátá devátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_043.html",
       "words": 4563,
       "chars": 25509,
       "ideas": 108,
       "role": "chapter",
-      "order": 38,
+      "order": 39,
       "prev": "nadejne_vyhlidky_042.html",
       "next": "nadejne_vyhlidky_044.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola třicátá devátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_044.html",
       "words": 4905,
       "chars": 28287,
       "ideas": 120,
       "role": "chapter",
-      "order": 39,
+      "order": 40,
       "prev": "nadejne_vyhlidky_043.html",
       "next": "nadejne_vyhlidky_045.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá první • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_045.html",
       "words": 2091,
       "chars": 11957,
       "ideas": 54,
       "role": "chapter",
-      "order": 40,
+      "order": 41,
       "prev": "nadejne_vyhlidky_044.html",
       "next": "nadejne_vyhlidky_046.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá první",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá druhá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_046.html",
       "words": 2878,
       "chars": 15883,
       "ideas": 50,
       "role": "chapter",
-      "order": 41,
+      "order": 42,
       "prev": "nadejne_vyhlidky_045.html",
       "next": "nadejne_vyhlidky_047.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá druhá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá třetí • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_047.html",
       "words": 1881,
       "chars": 10835,
       "ideas": 59,
       "role": "chapter",
-      "order": 42,
+      "order": 43,
       "prev": "nadejne_vyhlidky_046.html",
       "next": "nadejne_vyhlidky_048.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá třetí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá čtvrtá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_048.html",
       "words": 2688,
       "chars": 15858,
       "ideas": 78,
       "role": "chapter",
-      "order": 43,
+      "order": 44,
       "prev": "nadejne_vyhlidky_047.html",
       "next": "nadejne_vyhlidky_049.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá čtvrtá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá pátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_049.html",
       "words": 2790,
       "chars": 16215,
       "ideas": 57,
       "role": "chapter",
-      "order": 44,
+      "order": 45,
       "prev": "nadejne_vyhlidky_048.html",
       "next": "nadejne_vyhlidky_050.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá pátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá šestá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_050.html",
       "words": 2846,
       "chars": 16643,
       "ideas": 49,
       "role": "chapter",
-      "order": 45,
+      "order": 46,
       "prev": "nadejne_vyhlidky_049.html",
       "next": "nadejne_vyhlidky_051.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá šestá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá sedmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_051.html",
       "words": 2479,
       "chars": 14429,
       "ideas": 43,
       "role": "chapter",
-      "order": 46,
+      "order": 47,
       "prev": "nadejne_vyhlidky_050.html",
       "next": "nadejne_vyhlidky_052.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá sedmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá osmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_052.html",
       "words": 2532,
       "chars": 14785,
       "ideas": 68,
       "role": "chapter",
-      "order": 47,
+      "order": 48,
       "prev": "nadejne_vyhlidky_051.html",
       "next": "nadejne_vyhlidky_053.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá osmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá devátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_053.html",
       "words": 3429,
       "chars": 19747,
       "ideas": 88,
       "role": "chapter",
-      "order": 48,
+      "order": 49,
       "prev": "nadejne_vyhlidky_052.html",
       "next": "nadejne_vyhlidky_054.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola čtyřicátá devátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_054.html",
       "words": 1422,
       "chars": 8028,
       "ideas": 50,
       "role": "chapter",
-      "order": 49,
+      "order": 50,
       "prev": "nadejne_vyhlidky_053.html",
       "next": "nadejne_vyhlidky_055.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá první • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_055.html",
       "words": 2810,
       "chars": 16636,
       "ideas": 73,
       "role": "chapter",
-      "order": 50,
+      "order": 51,
       "prev": "nadejne_vyhlidky_054.html",
       "next": "nadejne_vyhlidky_056.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá první",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá druhá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_056.html",
       "words": 1931,
       "chars": 11366,
       "ideas": 44,
       "role": "chapter",
-      "order": 51,
+      "order": 52,
       "prev": "nadejne_vyhlidky_055.html",
       "next": "nadejne_vyhlidky_057.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá druhá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá třetí • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_057.html",
       "words": 4939,
       "chars": 27644,
       "ideas": 93,
       "role": "chapter",
-      "order": 52,
+      "order": 53,
       "prev": "nadejne_vyhlidky_056.html",
       "next": "nadejne_vyhlidky_058.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá třetí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá čtvrtá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_058.html",
       "words": 5402,
       "chars": 31226,
       "ideas": 90,
       "role": "chapter",
-      "order": 53,
+      "order": 54,
       "prev": "nadejne_vyhlidky_057.html",
       "next": "nadejne_vyhlidky_059.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá čtvrtá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá pátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_059.html",
       "words": 2620,
       "chars": 15558,
       "ideas": 66,
       "role": "chapter",
-      "order": 54,
+      "order": 55,
       "prev": "nadejne_vyhlidky_058.html",
       "next": "nadejne_vyhlidky_060.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá pátá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá šestá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_060.html",
       "words": 2021,
       "chars": 11871,
       "ideas": 42,
       "role": "chapter",
-      "order": 55,
+      "order": 56,
       "prev": "nadejne_vyhlidky_059.html",
       "next": "nadejne_vyhlidky_061.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá šestá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá sedmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_061.html",
       "words": 4594,
       "chars": 25742,
       "ideas": 110,
       "role": "chapter",
-      "order": 56,
+      "order": 57,
       "prev": "nadejne_vyhlidky_060.html",
       "next": "nadejne_vyhlidky_062.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá sedmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá osmá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_062.html",
       "words": 2847,
       "chars": 16416,
       "ideas": 69,
       "role": "chapter",
-      "order": 57,
+      "order": 58,
       "prev": "nadejne_vyhlidky_061.html",
       "next": "nadejne_vyhlidky_063.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá osmá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nadějné vyhlídky",
+      "title": "Kapitola padesátá devátá • Nadějné vyhlídky",
       "file": "nadejne_vyhlidky_063.html",
       "words": 1384,
       "chars": 7920,
       "ideas": 45,
       "role": "chapter",
-      "order": 58,
+      "order": 59,
       "prev": "nadejne_vyhlidky_062.html",
       "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola padesátá devátá",
           "id": null,
           "children": []
         }
@@ -1197,9 +1217,9 @@
     {
       "title": "Tiráž • Nadějné vyhlídky",
       "file": "colophon.html",
-      "words": 152,
+      "words": 151,
       "chars": 1015,
-      "ideas": 24,
+      "ideas": 23,
       "role": "colophon",
       "order": null,
       "prev": "nadejne_vyhlidky_063.html",
@@ -1217,9 +1237,9 @@
   ],
   "totals": {
     "all": {
-      "words": 173445,
+      "words": 173444,
       "chars": 1008381,
-      "ideas": 4026
+      "ideas": 4025
     },
     "chapters": {
       "words": 173288,

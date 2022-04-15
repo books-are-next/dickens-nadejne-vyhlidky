@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtyřicátá šestá
 contentType: prose
 ---
-
-Kapitola čtyřicátá šestá
 
   
 

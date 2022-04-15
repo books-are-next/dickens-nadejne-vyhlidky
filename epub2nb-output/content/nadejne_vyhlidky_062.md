@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá osmá
 contentType: prose
 ---
-
-Kapitola padesátá osmá
 
   
 

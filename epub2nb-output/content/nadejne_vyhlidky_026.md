@@ -1,8 +1,7 @@
 ---
+title: Kapitola dvacátá druhá
 contentType: prose
 ---
-
-Kapitola dvacátá druhá
 
   
 

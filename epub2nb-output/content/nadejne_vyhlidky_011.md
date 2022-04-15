@@ -1,8 +1,7 @@
 ---
+title: Kapitola sedmá
 contentType: prose
 ---
-
-Kapitola sedmá
 
   
 

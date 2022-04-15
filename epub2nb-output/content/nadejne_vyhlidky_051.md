@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtyřicátá sedmá
 contentType: prose
 ---
-
-Kapitola čtyřicátá sedmá
 
   
 

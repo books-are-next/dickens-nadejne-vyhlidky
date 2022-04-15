@@ -1,8 +1,7 @@
 ---
+title: Kapitola osmá
 contentType: prose
 ---
-
-Kapitola osmá
 
   
 

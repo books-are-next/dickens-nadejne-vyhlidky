@@ -1,8 +1,7 @@
 ---
+title: Kapitola třicátá sedmá
 contentType: prose
 ---
-
-Kapitola třicátá sedmá
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Kapitola třináctá
 contentType: prose
 ---
-
-Kapitola třináctá
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtyřicátá
 contentType: prose
 ---
-
-Kapitola čtyřicátá
 
   
 

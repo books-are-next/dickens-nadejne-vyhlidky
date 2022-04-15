@@ -1,8 +1,7 @@
 ---
+title: Kapitola dvacátá čtvrtá
 contentType: prose
 ---
-
-Kapitola dvacátá čtvrtá
 
   
 

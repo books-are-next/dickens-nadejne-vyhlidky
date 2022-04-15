@@ -1,8 +1,7 @@
 ---
+title: Kapitola dvacátá osmá
 contentType: prose
 ---
-
-Kapitola dvacátá osmá
 
   
 

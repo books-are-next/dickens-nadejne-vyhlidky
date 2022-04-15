@@ -1,8 +1,7 @@
 ---
+title: Kapitola třicátá třetí
 contentType: prose
 ---
-
-Kapitola třicátá třetí
 
   
 

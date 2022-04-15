@@ -1,8 +1,7 @@
 ---
+title: Kapitola pátá
 contentType: prose
 ---
-
-Kapitola pátá
 
   
 

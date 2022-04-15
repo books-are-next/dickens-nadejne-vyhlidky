@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá sedmá
 contentType: prose
 ---
-
-Kapitola padesátá sedmá
 
   
 

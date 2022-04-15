@@ -1,8 +1,7 @@
 ---
+title: Kapitola třicátá čtvrtá
 contentType: prose
 ---
-
-Kapitola třicátá čtvrtá
 
   
 

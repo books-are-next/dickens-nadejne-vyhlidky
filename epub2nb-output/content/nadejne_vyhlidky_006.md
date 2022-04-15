@@ -1,8 +1,7 @@
 ---
+title: Kapitola druhá
 contentType: prose
 ---
-
-Kapitola druhá
 
   
 

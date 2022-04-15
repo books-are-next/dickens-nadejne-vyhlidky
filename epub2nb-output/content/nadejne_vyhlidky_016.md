@@ -1,8 +1,7 @@
 ---
+title: Kapitola dvanáctá
 contentType: prose
 ---
-
-Kapitola dvanáctá
 
   
 
