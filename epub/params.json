@@ -52,12 +52,9 @@
             "filename": "nadejne_vyhlidky_002.md",
             "xhtml": "nadejne_vyhlidky_002.xhtml",
             "id": 1,
-            "role": "chapter",
-            "listType": "plain",
+            "role": "break",
             "inToc": false,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": true,
+            "listType": "plain",
             "children": []
           },
           {
@@ -1361,6 +1358,6 @@
       "user": "books-are-next",
       "repo": "dickens-nadejne-vyhlidky"
     },
-    "generatedAt": 1650053996869
+    "generatedAt": 1650055287367
   }
 }
