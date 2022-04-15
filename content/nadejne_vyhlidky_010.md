@@ -1,8 +1,7 @@
 ---
+title: Kapitola šestá
 contentType: prose
 ---
-
-Kapitola šestá
 
   
 

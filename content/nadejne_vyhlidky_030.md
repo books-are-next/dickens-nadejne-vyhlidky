@@ -1,8 +1,7 @@
 ---
+title: Kapitola dvacátá šestá
 contentType: prose
 ---
-
-Kapitola dvacátá šestá
 
   
 

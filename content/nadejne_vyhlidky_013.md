@@ -1,8 +1,7 @@
 ---
+title: Kapitola devátá
 contentType: prose
 ---
-
-Kapitola devátá
 
   
 

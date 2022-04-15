@@ -1,8 +1,7 @@
 ---
+title: Kapitola šestnáctá
 contentType: prose
 ---
-
-Kapitola šestnáctá
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtyřicátá první
 contentType: prose
 ---
-
-Kapitola čtyřicátá první
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtyřicátá osmá
 contentType: prose
 ---
-
-Kapitola čtyřicátá osmá
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá šestá
 contentType: prose
 ---
-
-Kapitola padesátá šestá
 
   
 

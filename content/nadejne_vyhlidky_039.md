@@ -1,8 +1,7 @@
 ---
+title: Kapitola třicátá pátá
 contentType: prose
 ---
-
-Kapitola třicátá pátá
 
   
 

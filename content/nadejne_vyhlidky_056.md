@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá druhá
 contentType: prose
 ---
-
-Kapitola padesátá druhá
 
   
 

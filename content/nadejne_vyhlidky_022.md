@@ -1,8 +1,7 @@
 ---
+title: Kapitola osmnáctá
 contentType: prose
 ---
-
-Kapitola osmnáctá
 
   
 

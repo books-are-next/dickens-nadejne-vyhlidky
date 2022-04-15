@@ -1,8 +1,7 @@
 ---
+title: "Kapitola třicátá\_osmá"
 contentType: prose
 ---
-
-Kapitola třicátá osmá
 
   
 

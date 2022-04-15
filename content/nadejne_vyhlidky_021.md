@@ -1,8 +1,7 @@
 ---
+title: Kapitola sedmnáctá
 contentType: prose
 ---
-
-Kapitola sedmnáctá
 
   
 

@@ -4,11 +4,6 @@ title: Tiráž
 
 ***
 
-![](../Images/upoutavka_eknihy.jpg)
-
-
-***
-
 Nadějné vyhlídky
 
 Charles Dickens

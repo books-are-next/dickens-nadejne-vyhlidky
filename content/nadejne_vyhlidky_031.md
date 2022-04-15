@@ -1,8 +1,7 @@
 ---
+title: Kapitola dvacátá sedmá
 contentType: prose
 ---
-
-Kapitola dvacátá sedmá
 
 „Milý pane Pipe,
 

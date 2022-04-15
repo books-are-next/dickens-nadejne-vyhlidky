@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá čtvrtá
 contentType: prose
 ---
-
-Kapitola padesátá čtvrtá
 
   
 

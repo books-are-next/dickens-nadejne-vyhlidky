@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtvrtá
 contentType: prose
 ---
-
-Kapitola čtvrtá
 
   
 

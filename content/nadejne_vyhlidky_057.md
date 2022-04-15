@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá třetí
 contentType: prose
 ---
-
-Kapitola padesátá třetí
 
   
 

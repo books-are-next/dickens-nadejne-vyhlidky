@@ -1,8 +1,7 @@
 ---
+title: Kapitola dvacátá první
 contentType: prose
 ---
-
-Kapitola dvacátá první
 
   
 

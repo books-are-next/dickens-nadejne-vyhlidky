@@ -1,8 +1,7 @@
 ---
+title: Kapitola třicátá devátá
 contentType: prose
 ---
-
-Kapitola třicátá devátá
 
   
 

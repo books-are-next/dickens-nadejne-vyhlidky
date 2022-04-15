@@ -1,8 +1,7 @@
 ---
+title: Kapitola čtyřicátá pátá
 contentType: prose
 ---
-
-Kapitola čtyřicátá pátá
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Kapitola první
 contentType: prose
 ---
-
-Kapitola první
 
   
 

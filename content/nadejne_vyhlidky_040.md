@@ -1,8 +1,7 @@
 ---
+title: Kapitola třicátá šestá
 contentType: prose
 ---
-
-Kapitola třicátá šestá
 
   
 

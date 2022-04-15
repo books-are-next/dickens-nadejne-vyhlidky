@@ -1,8 +1,7 @@
 ---
+title: Kapitola padesátá pátá
 contentType: prose
 ---
-
-Kapitola padesátá pátá
 
   
 
