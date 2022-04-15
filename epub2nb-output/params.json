@@ -57,7 +57,7 @@
             "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
+            "hiddenTitle": true,
             "children": []
           },
           {
@@ -1360,6 +1360,6 @@
       "user": "books-are-next",
       "repo": "dickens-nadejne-vyhlidky"
     },
-    "generatedAt": 1650053996869
+    "generatedAt": 1650055287367
   }
 }
