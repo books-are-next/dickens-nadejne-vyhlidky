@@ -12,9 +12,9 @@
       "publisherShort": "MKP"
     },
     "elements": {
-      "title": "MLP-uroven2-kapitola\n\n\n",
+      "title": "MLP_uroven2_kapitola\n\n\n",
       "subtitle": "",
-      "h2": "MLP-uroven2-kapitola\n",
+      "h2": "MLP_uroven2_kapitola\n",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -52,7 +52,7 @@
             "filename": "nadejne_vyhlidky_002.md",
             "xhtml": "nadejne_vyhlidky_002.xhtml",
             "id": 1,
-            "role": "colophon",
+            "role": "chapter",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1361,6 +1361,6 @@
       "user": "books-are-next",
       "repo": "dickens-nadejne-vyhlidky"
     },
-    "generatedAt": 1649315107291
+    "generatedAt": 1650051954424
   }
 }
