@@ -1,22 +1,85 @@
 {
-  "author": "Charles Dickens",
-  "contenttype": "prose",
-  "identifier": "dickens-nadejne-vyhlidky-55cc28f",
-  "isbn": "978-80-274-1260-0; 978-80-274-1259-4; 978-80-274-1261-7",
-  "languagecode": "cs",
-  "modified": "2021-03-10T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Nadějné vyhlídky",
-  "revision": "55cc28f",
+  "author": "Charles Dickens",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "dickens-nadejne-vyhlidky-69fc2df",
+  "revision": "69fc2df",
+  "readingOrder": [
+    "promo.html",
+    "nadejne_vyhlidky_005.html",
+    "nadejne_vyhlidky_006.html",
+    "nadejne_vyhlidky_007.html",
+    "nadejne_vyhlidky_008.html",
+    "nadejne_vyhlidky_009.html",
+    "nadejne_vyhlidky_010.html",
+    "nadejne_vyhlidky_011.html",
+    "nadejne_vyhlidky_012.html",
+    "nadejne_vyhlidky_013.html",
+    "nadejne_vyhlidky_014.html",
+    "nadejne_vyhlidky_015.html",
+    "nadejne_vyhlidky_016.html",
+    "nadejne_vyhlidky_017.html",
+    "nadejne_vyhlidky_018.html",
+    "nadejne_vyhlidky_019.html",
+    "nadejne_vyhlidky_020.html",
+    "nadejne_vyhlidky_021.html",
+    "nadejne_vyhlidky_022.html",
+    "nadejne_vyhlidky_023.html",
+    "nadejne_vyhlidky_024.html",
+    "nadejne_vyhlidky_025.html",
+    "nadejne_vyhlidky_026.html",
+    "nadejne_vyhlidky_027.html",
+    "nadejne_vyhlidky_028.html",
+    "nadejne_vyhlidky_029.html",
+    "nadejne_vyhlidky_030.html",
+    "nadejne_vyhlidky_031.html",
+    "nadejne_vyhlidky_032.html",
+    "nadejne_vyhlidky_033.html",
+    "nadejne_vyhlidky_034.html",
+    "nadejne_vyhlidky_035.html",
+    "nadejne_vyhlidky_036.html",
+    "nadejne_vyhlidky_037.html",
+    "nadejne_vyhlidky_038.html",
+    "nadejne_vyhlidky_039.html",
+    "nadejne_vyhlidky_040.html",
+    "nadejne_vyhlidky_041.html",
+    "nadejne_vyhlidky_042.html",
+    "nadejne_vyhlidky_043.html",
+    "nadejne_vyhlidky_044.html",
+    "nadejne_vyhlidky_045.html",
+    "nadejne_vyhlidky_046.html",
+    "nadejne_vyhlidky_047.html",
+    "nadejne_vyhlidky_048.html",
+    "nadejne_vyhlidky_049.html",
+    "nadejne_vyhlidky_050.html",
+    "nadejne_vyhlidky_051.html",
+    "nadejne_vyhlidky_052.html",
+    "nadejne_vyhlidky_053.html",
+    "nadejne_vyhlidky_054.html",
+    "nadejne_vyhlidky_055.html",
+    "nadejne_vyhlidky_056.html",
+    "nadejne_vyhlidky_057.html",
+    "nadejne_vyhlidky_058.html",
+    "nadejne_vyhlidky_059.html",
+    "nadejne_vyhlidky_060.html",
+    "nadejne_vyhlidky_061.html",
+    "nadejne_vyhlidky_062.html",
+    "nadejne_vyhlidky_063.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 15 2022 21:04:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650056690800
+    "date": "Thu May 12 2022 10:43:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352200018
   },
   "documents": [
     {
-      "title": "Nadějné vyhlídky",
-      "file": "nadejne_vyhlidky_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +87,17 @@
       "order": 0,
       "prev": null,
       "next": "nadejne_vyhlidky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Kapitola první • Nadějné vyhlídky",
+      "title": "Kapitola první",
       "file": "nadejne_vyhlidky_005.html",
       "words": 1733,
       "chars": 9922,
       "ideas": 46,
       "role": "chapter",
       "order": 1,
-      "prev": "nadejne_vyhlidky_002.html",
+      "prev": "promo.html",
       "next": "nadejne_vyhlidky_006.html",
       "toc": [
         {
@@ -55,7 +110,7 @@
       ]
     },
     {
-      "title": "Kapitola druhá • Nadějné vyhlídky",
+      "title": "Kapitola druhá",
       "file": "nadejne_vyhlidky_006.html",
       "words": 3303,
       "chars": 18955,
@@ -75,7 +130,7 @@
       ]
     },
     {
-      "title": "Kapitola třetí • Nadějné vyhlídky",
+      "title": "Kapitola třetí",
       "file": "nadejne_vyhlidky_007.html",
       "words": 1883,
       "chars": 10348,
@@ -95,7 +150,7 @@
       ]
     },
     {
-      "title": "Kapitola čtvrtá • Nadějné vyhlídky",
+      "title": "Kapitola čtvrtá",
       "file": "nadejne_vyhlidky_008.html",
       "words": 3125,
       "chars": 18682,
@@ -115,7 +170,7 @@
       ]
     },
     {
-      "title": "Kapitola pátá • Nadějné vyhlídky",
+      "title": "Kapitola pátá",
       "file": "nadejne_vyhlidky_009.html",
       "words": 3874,
       "chars": 22444,
@@ -135,7 +190,7 @@
       ]
     },
     {
-      "title": "Kapitola šestá • Nadějné vyhlídky",
+      "title": "Kapitola šestá",
       "file": "nadejne_vyhlidky_010.html",
       "words": 757,
       "chars": 4314,
@@ -155,7 +210,7 @@
       ]
     },
     {
-      "title": "Kapitola sedmá • Nadějné vyhlídky",
+      "title": "Kapitola sedmá",
       "file": "nadejne_vyhlidky_011.html",
       "words": 3825,
       "chars": 21937,
@@ -175,7 +230,7 @@
       ]
     },
     {
-      "title": "Kapitola osmá • Nadějné vyhlídky",
+      "title": "Kapitola osmá",
       "file": "nadejne_vyhlidky_012.html",
       "words": 4430,
       "chars": 25592,
@@ -195,7 +250,7 @@
       ]
     },
     {
-      "title": "Kapitola devátá • Nadějné vyhlídky",
+      "title": "Kapitola devátá",
       "file": "nadejne_vyhlidky_013.html",
       "words": 2513,
       "chars": 14568,
@@ -215,7 +270,7 @@
       ]
     },
     {
-      "title": "Kapitola desátá • Nadějné vyhlídky",
+      "title": "Kapitola desátá",
       "file": "nadejne_vyhlidky_014.html",
       "words": 2287,
       "chars": 13404,
@@ -235,7 +290,7 @@
       ]
     },
     {
-      "title": "Kapitola jedenáctá • Nadějné vyhlídky",
+      "title": "Kapitola jedenáctá",
       "file": "nadejne_vyhlidky_015.html",
       "words": 4975,
       "chars": 28838,
@@ -255,7 +310,7 @@
       ]
     },
     {
-      "title": "Kapitola dvanáctá • Nadějné vyhlídky",
+      "title": "Kapitola dvanáctá",
       "file": "nadejne_vyhlidky_016.html",
       "words": 2071,
       "chars": 12101,
@@ -275,7 +330,7 @@
       ]
     },
     {
-      "title": "Kapitola třináctá • Nadějné vyhlídky",
+      "title": "Kapitola třináctá",
       "file": "nadejne_vyhlidky_017.html",
       "words": 2736,
       "chars": 16005,
@@ -295,7 +350,7 @@
       ]
     },
     {
-      "title": "Kapitola čtrnáctá • Nadějné vyhlídky",
+      "title": "Kapitola čtrnáctá",
       "file": "nadejne_vyhlidky_018.html",
       "words": 780,
       "chars": 4415,
@@ -315,7 +370,7 @@
       ]
     },
     {
-      "title": "Kapitola patnáctá • Nadějné vyhlídky",
+      "title": "Kapitola patnáctá",
       "file": "nadejne_vyhlidky_019.html",
       "words": 4077,
       "chars": 23506,
@@ -335,7 +390,7 @@
       ]
     },
     {
-      "title": "Kapitola šestnáctá • Nadějné vyhlídky",
+      "title": "Kapitola šestnáctá",
       "file": "nadejne_vyhlidky_020.html",
       "words": 1744,
       "chars": 10121,
@@ -355,7 +410,7 @@
       ]
     },
     {
-      "title": "Kapitola sedmnáctá • Nadějné vyhlídky",
+      "title": "Kapitola sedmnáctá",
       "file": "nadejne_vyhlidky_021.html",
       "words": 3169,
       "chars": 17951,
@@ -375,7 +430,7 @@
       ]
     },
     {
-      "title": "Kapitola osmnáctá • Nadějné vyhlídky",
+      "title": "Kapitola osmnáctá",
       "file": "nadejne_vyhlidky_022.html",
       "words": 4672,
       "chars": 26964,
@@ -395,7 +450,7 @@
       ]
     },
     {
-      "title": "Kapitola devatenáctá • Nadějné vyhlídky",
+      "title": "Kapitola devatenáctá",
       "file": "nadejne_vyhlidky_023.html",
       "words": 5364,
       "chars": 31025,
@@ -415,7 +470,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá",
       "file": "nadejne_vyhlidky_024.html",
       "words": 2879,
       "chars": 16972,
@@ -435,7 +490,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá první • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá první",
       "file": "nadejne_vyhlidky_025.html",
       "words": 1592,
       "chars": 9272,
@@ -455,7 +510,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá druhá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá druhá",
       "file": "nadejne_vyhlidky_026.html",
       "words": 4580,
       "chars": 26921,
@@ -475,7 +530,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá třetí • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá třetí",
       "file": "nadejne_vyhlidky_027.html",
       "words": 2825,
       "chars": 17285,
@@ -495,7 +550,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá čtvrtá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá čtvrtá",
       "file": "nadejne_vyhlidky_028.html",
       "words": 2152,
       "chars": 12711,
@@ -515,7 +570,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá pátá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá pátá",
       "file": "nadejne_vyhlidky_029.html",
       "words": 2644,
       "chars": 15656,
@@ -535,7 +590,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá šestá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá šestá",
       "file": "nadejne_vyhlidky_030.html",
       "words": 2592,
       "chars": 15232,
@@ -555,7 +610,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá sedmá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá sedmá",
       "file": "nadejne_vyhlidky_031.html",
       "words": 2858,
       "chars": 16522,
@@ -575,7 +630,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá osmá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá osmá",
       "file": "nadejne_vyhlidky_032.html",
       "words": 2227,
       "chars": 13125,
@@ -595,7 +650,7 @@
       ]
     },
     {
-      "title": "Kapitola dvacátá devátá • Nadějné vyhlídky",
+      "title": "Kapitola dvacátá devátá",
       "file": "nadejne_vyhlidky_033.html",
       "words": 4515,
       "chars": 26411,
@@ -615,7 +670,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá",
       "file": "nadejne_vyhlidky_034.html",
       "words": 3094,
       "chars": 18421,
@@ -635,7 +690,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá první • Nadějné vyhlídky",
+      "title": "Kapitola třicátá první",
       "file": "nadejne_vyhlidky_035.html",
       "words": 1931,
       "chars": 11848,
@@ -655,7 +710,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá druhá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá druhá",
       "file": "nadejne_vyhlidky_036.html",
       "words": 2087,
       "chars": 12379,
@@ -675,7 +730,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá třetí • Nadějné vyhlídky",
+      "title": "Kapitola třicátá třetí",
       "file": "nadejne_vyhlidky_037.html",
       "words": 2530,
       "chars": 14888,
@@ -695,7 +750,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá čtvrtá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá čtvrtá",
       "file": "nadejne_vyhlidky_038.html",
       "words": 2150,
       "chars": 13157,
@@ -715,7 +770,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá pátá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá pátá",
       "file": "nadejne_vyhlidky_039.html",
       "words": 2825,
       "chars": 16469,
@@ -735,7 +790,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá šestá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá šestá",
       "file": "nadejne_vyhlidky_040.html",
       "words": 2380,
       "chars": 13936,
@@ -755,7 +810,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá sedmá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá sedmá",
       "file": "nadejne_vyhlidky_041.html",
       "words": 2575,
       "chars": 15546,
@@ -775,7 +830,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá osmá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá osmá",
       "file": "nadejne_vyhlidky_042.html",
       "words": 4482,
       "chars": 26934,
@@ -795,7 +850,7 @@
       ]
     },
     {
-      "title": "Kapitola třicátá devátá • Nadějné vyhlídky",
+      "title": "Kapitola třicátá devátá",
       "file": "nadejne_vyhlidky_043.html",
       "words": 4563,
       "chars": 25509,
@@ -815,7 +870,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá",
       "file": "nadejne_vyhlidky_044.html",
       "words": 4905,
       "chars": 28287,
@@ -835,7 +890,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá první • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá první",
       "file": "nadejne_vyhlidky_045.html",
       "words": 2091,
       "chars": 11957,
@@ -855,7 +910,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá druhá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá druhá",
       "file": "nadejne_vyhlidky_046.html",
       "words": 2878,
       "chars": 15883,
@@ -875,7 +930,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá třetí • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá třetí",
       "file": "nadejne_vyhlidky_047.html",
       "words": 1881,
       "chars": 10835,
@@ -895,7 +950,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá čtvrtá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá čtvrtá",
       "file": "nadejne_vyhlidky_048.html",
       "words": 2688,
       "chars": 15858,
@@ -915,7 +970,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá pátá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá pátá",
       "file": "nadejne_vyhlidky_049.html",
       "words": 2790,
       "chars": 16215,
@@ -935,7 +990,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá šestá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá šestá",
       "file": "nadejne_vyhlidky_050.html",
       "words": 2846,
       "chars": 16643,
@@ -955,7 +1010,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá sedmá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá sedmá",
       "file": "nadejne_vyhlidky_051.html",
       "words": 2479,
       "chars": 14429,
@@ -975,7 +1030,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá osmá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá osmá",
       "file": "nadejne_vyhlidky_052.html",
       "words": 2532,
       "chars": 14785,
@@ -995,7 +1050,7 @@
       ]
     },
     {
-      "title": "Kapitola čtyřicátá devátá • Nadějné vyhlídky",
+      "title": "Kapitola čtyřicátá devátá",
       "file": "nadejne_vyhlidky_053.html",
       "words": 3429,
       "chars": 19747,
@@ -1015,7 +1070,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá",
       "file": "nadejne_vyhlidky_054.html",
       "words": 1422,
       "chars": 8028,
@@ -1035,7 +1090,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá první • Nadějné vyhlídky",
+      "title": "Kapitola padesátá první",
       "file": "nadejne_vyhlidky_055.html",
       "words": 2810,
       "chars": 16636,
@@ -1055,7 +1110,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá druhá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá druhá",
       "file": "nadejne_vyhlidky_056.html",
       "words": 1931,
       "chars": 11366,
@@ -1075,7 +1130,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá třetí • Nadějné vyhlídky",
+      "title": "Kapitola padesátá třetí",
       "file": "nadejne_vyhlidky_057.html",
       "words": 4939,
       "chars": 27644,
@@ -1095,7 +1150,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá čtvrtá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá čtvrtá",
       "file": "nadejne_vyhlidky_058.html",
       "words": 5402,
       "chars": 31226,
@@ -1115,7 +1170,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá pátá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá pátá",
       "file": "nadejne_vyhlidky_059.html",
       "words": 2620,
       "chars": 15558,
@@ -1135,7 +1190,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá šestá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá šestá",
       "file": "nadejne_vyhlidky_060.html",
       "words": 2021,
       "chars": 11871,
@@ -1155,7 +1210,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá sedmá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá sedmá",
       "file": "nadejne_vyhlidky_061.html",
       "words": 4594,
       "chars": 25742,
@@ -1175,7 +1230,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá osmá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá osmá",
       "file": "nadejne_vyhlidky_062.html",
       "words": 2847,
       "chars": 16416,
@@ -1195,7 +1250,7 @@
       ]
     },
     {
-      "title": "Kapitola padesátá devátá • Nadějné vyhlídky",
+      "title": "Kapitola padesátá devátá",
       "file": "nadejne_vyhlidky_063.html",
       "words": 1384,
       "chars": 7920,
@@ -1215,11 +1270,11 @@
       ]
     },
     {
-      "title": "Tiráž • Nadějné vyhlídky",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 151,
-      "chars": 1015,
-      "ideas": 23,
+      "words": 127,
+      "chars": 836,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "nadejne_vyhlidky_063.html",
@@ -1237,9 +1292,9 @@
   ],
   "totals": {
     "all": {
-      "words": 173444,
-      "chars": 1008381,
-      "ideas": 4025
+      "words": 173420,
+      "chars": 1008202,
+      "ideas": 4018
     },
     "chapters": {
       "words": 173288,
