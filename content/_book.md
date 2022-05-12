@@ -14,7 +14,7 @@ meta:
   isbn: 978-80-274-1260-0; 978-80-274-1259-4; 978-80-274-1261-7
   publisherShort: MKP
 readingOrder:
-  - nadejne_vyhlidky_002.html
+  - promo.html
   - nadejne_vyhlidky_005.html
   - nadejne_vyhlidky_006.html
   - nadejne_vyhlidky_007.html
