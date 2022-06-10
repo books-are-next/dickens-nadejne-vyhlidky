@@ -3,8 +3,6 @@ title: Kapitola šestnáctá
 contentType: prose
 ---
 
-  
-
 S hlavou plnou Jiřího Barnwella jsem se zprvu klonil k víře, že nějaký podíl na přepadení sestry musí padat i na hlavu mou, nebo alespoň že já – jako její blízký příbuzný, o němž se všeobecně ví, jaké závazky ho k ní pojí – jsem vystaven oprávněnějšímu podezření než kterákoli jiná osoba. Ale když jsem v jasnějším světle příštího rána začal znovu o věci uvažovat a slyšel o ní ze všech stran kolem sebe rozprávět, začal jsem se na případ dívat jinak, a to z hlediska rozumnějšího.
 
 Joe si šel večer posedět ke Třem veselým bárkařům a od čtvrt na devět do tři čtvrtě na deset si tam pokuřoval dýmku. Mezitímco tam byl, postávala moje sestra ve dveřích do kuchyně a pozdravila se na dobrou noc s jedním čeledínem, který se vracel domů. Řečený muž nedovedl určit čas, kdy ji viděl, přesněji (zabředl do silných rozpaků, když se o to pokoušel), než že to jistojistě bylo před devátou. Když Joe přišel pět minut před desátou domů, našel ji omráčenou na podlaze a okamžitě přivolal pomoc. Oheň nebyl dosud nijak neobvykle vyhořelý, ani knot svíčky tuze dlouhý; svíčka však byla zhaslá.

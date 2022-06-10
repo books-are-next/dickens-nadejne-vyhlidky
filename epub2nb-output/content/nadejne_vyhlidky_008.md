@@ -3,8 +3,6 @@ title: Kapitola čtvrtá
 contentType: prose
 ---
 
-  
-
 Očekával jsem s určitostí, že v kuchyni zastihnu čekat strážníka, aby mě sebral. Ale nejenže tam nečekal žádný strážník, nýbrž dokonce se dosud na tu krádež vůbec ani nepřišlo. Kovářka se horečně zabývala uklízením domu co přípravou na sváteční den a Joea vystrnadila na schůdek před kuchyňskými dveřmi, aby nepřišel do styku s lopatkou na smetí – s předmětem, do něhož mu osud dříve nebo později zavedl kroky pokaždé, kdykoli sestra s vervou uklízela podlahy ve své domácnosti.
 
 „A kde jsi, u všech kozlů, byl ty?“ zněl kovářčin vánoční pozdrav, když jsem se spolu se svým svědomím ukázal doma.

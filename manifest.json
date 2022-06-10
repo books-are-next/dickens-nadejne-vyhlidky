@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-nadejne-vyhlidky-69fc2df",
-  "revision": "69fc2df",
+  "identifier": "dickens-nadejne-vyhlidky-3e2e15e",
+  "revision": "3e2e15e",
   "readingOrder": [
     "promo.html",
     "nadejne_vyhlidky_005.html",
@@ -73,8 +73,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:43:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352200018
+    "date": "Fri Jun 10 2022 14:16:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870579283
   },
   "documents": [
     {
@@ -1272,9 +1272,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 127,
-      "chars": 836,
-      "ideas": 16,
+      "words": 120,
+      "chars": 786,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "nadejne_vyhlidky_063.html",
@@ -1292,9 +1292,9 @@
   ],
   "totals": {
     "all": {
-      "words": 173420,
-      "chars": 1008202,
-      "ideas": 4018
+      "words": 173413,
+      "chars": 1008152,
+      "ideas": 4017
     },
     "chapters": {
       "words": 173288,

@@ -3,8 +3,6 @@ title: Kapitola čtyřicátá druhá
 contentType: prose
 ---
 
-  
-
 „Hochu drahá a Pipovo kamaráde. Nemám v oumyslu tahat povídačku o svým životě jako nějakou písničku nebo román. Ale abych to podal krátce a vejstižně, řeknu to hned naplno a jadrně. Do vězení a z vězení, do vězení a z vězení, do vězení a z vězení. Tak teď to už teda víte. To je tak skoro celej můj život až do tý chvíle, co mě odlifrovali lodí po tom, co se Pip ukázal jako můj přítel.
 
 Dělali se mnou skoro všecko, co se dá – až na to, že mě nepověsili. Zavírali mě tak pořád, skoro jako nějakej stříbrnej čajník. Vozili mě sem a vozili mě tam, vykazovali mě z tohohle města a vykazovali mě z tamtoho města, strkali mě do klády a mrskali a tejrali mě a štvali. Nemám o nic víc ponětí, kde jsem se narodil, než ho máte vy – jestli tolik. Prvně jsem si uvědomil, že jsem vůbec na světě, tamhle v Essexu, když jsem kradl tuřín, abych měl co jíst. Někdo mi tenkrát utekl – nějakej muž – kotlář – a odnesl s sebou oheň a nechal mě ukrutně mrznout.

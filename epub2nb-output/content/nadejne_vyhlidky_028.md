@@ -3,8 +3,6 @@ title: Kapitola dvacátá čtvrtá
 contentType: prose
 ---
 
-  
-
 Po dvou třech dnech, když jsem se ve svém pokoji zařídil a vykonal několikrát cestu do Londýna a zpátky a objednal si všechno, co jsem od svých dodavatelů potřeboval, jsem měl dlouhou rozmluvu s panem Pocketem. Věděl o mé chystané životní dráze víc než já, neboť poukázal na slova pana Jaggerse, který mu prý řekl, že nejsem určen pro žádné povolání a že budu pro svůj budoucí život dost dobře vzdělaný, dokážu-li „udržet krok“ s průměrem mladých lidí v zámožných poměrech. Samozřejmě jsem souhlasil, protože jsem nevěděl nic, co by tomu odporovalo.
 
 Radil mi, abych k získání oněch prostých základů, jichž se mi nedostává, navštěvoval jistá místa v Londýně a jeho abych pověřil funkcí učitele, který mi bude látku vysvětlovat a řídit veškeré moje studium. Doufá prý, že s rozumnou podporou sotva narazím na nějaké překážky, které by mi braly odvahu, a že se brzy budu moci obejít bez jakékoli pomoci kromě přispění jeho. Způsobem, jakým mi říkal toto i ještě mnohé v podobném smyslu, dokázal obdivuhodnou formou vytvořit mezi sebou a mnou důvěrný vztah; a mohu uvést hned, že svou dohodu se mnou plnil vždycky tak horlivě a poctivě, že mě přiměl, abych stejně horlivě a poctivě plnil i já svou dohodu s ním. Kdyby býval jako učitel jevil lhostejnost, nepochybuji, že bych mu byl jako žák oplácel stejnou mincí; neposkytl mi však žádnou takovou omluvu a oba jsme byli druhému právi. Nikdy jsem se také při jeho vychovatelském styku se mnou na něho nedíval, jako by na jeho osobě bylo cokoli směšného – ani cokoli jiného, než co je vážné, poctivé a dobré.

@@ -3,8 +3,6 @@ title: Kapitola sedmá
 contentType: prose
 ---
 
-  
-
 V čase, kdy jsem stál na hřbitově a četl jména na rodinných náhrobcích, stačilo mé vzdělání právě na to, abych si dovedl ty nápisy přeslabikovat. Ba ani můj výklad jejich prostého významu nebyl tuze správný, protože jsem ve slovech „manželka výše uvedeného“ spatřoval lichotivý náznak otcova povznesení do lepšího světa – a kdyby se o kterémkoli mém zesnulém příbuzném bylo mluvilo jako o „níže uvedeném“, nepochybuji ani v nejmenším, že bych si byl o tom členu rodiny utvořil mínění co nejhorší. Také náboženské zásady, ke kterým mě zavazoval můj katechismus, jsem chápal rozhodně ne správně; mám totiž živou vzpomínku, že jsem se domníval, jako by mi slib, že „po všechny dny svého života budu vždy kráčeti touž cestou“, ukládal za povinnost chodit od našeho domu vesnicí vždycky jedním určitým směrem a nikdy si neobměnit cestu tím, že bych zabočil kolem kolářových nebo dál kolem mlýna.
 
 Měl jsem se stát Joeovým učedníkem, až dosáhnu patřičného věku, a dokud jsem se nemohl této hodnosti podejmout, nesměl jsem být, jak tomu říkala kovářka „rozmazávanej“, čili (jak to tlumočím já) rozmazlován. Proto jsem byl nejenom poslíčkem pro kovárnu, ale kdykoli některý soused náhodou potřeboval na výpomoc chlapce, aby mu plašil ptáky nebo vybíral kamení nebo konal nějakou jinou podobnou práci, milostivě dopřáli takové zaměstnání mně. Aby tím však neutrpěla naše vysoká společenská prestiž, stála na krbové římse v kuchyni pokladnička, o níž bylo veřejně uvedeno ve známost, že se do ní ukládají všechny mé výdělky. Mám dojem, že nakonec měly být darovány jako příspěvek k umoření státního dluhu; určitě však vím, že jsem neměl nejmenší naději, že se sám kdy budu na tom pokladě nějak podílet.
@@ -17,12 +15,16 @@ Hlavně sám, jen vlastními silami, a spíš s pomocí Biddy než pratety pan
 
 Jednou večer jsem seděl v koutku u krbu se svou tabulkou a velmi usilovně jsem se namáhal vyrobit dopis Joeovi. Myslím, že to muselo být plný rok od naší honby na blatech, protože od té doby uplynula dlouhá doba a byla zima a tuhý mráz. S abecedou položenou u nohou na dlážkách krbu, abych do ní mohl nahlédnout, se mi tak za hodinku za dvě podařilo tiskacím písmem sesmolit a rozmazat list tohoto znění:
 
+  
+
 > „MiLi JO doFaM Žse MaŠ o 5 docLa  
 > doBřE doFaM Ž brZi bUd UMocT  
 > UčiT tb JO to BudmE jaKo bRa 3  
 > Co aaŠ bUdU tVui uČeňik to bUd  
 > tPRF lEGraC viť sRDčňe ť zDRaviJO  
 > tvUi vJRni PiP.“
+
+  
 
 Nebylo nijak nevyhnutelně nutné, abych se s Joem dorozumíval dopisem, poněvadž seděl vedle mne a byli jsme spolu sami. Ale odevzdal jsem mu toto psané sdělení (tabulku se vším všudy) vlastnoručně, a Joe je přijal jako učiněný zázrak učenosti.
 

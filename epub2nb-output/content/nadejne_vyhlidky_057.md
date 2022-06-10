@@ -3,8 +3,6 @@ title: Kapitola padesátá třetí
 contentType: prose
 ---
 
-  
-
 Byla tmavá noc, přestože se vyhoupl úplněk, když jsem vyšel z ohrazených polí a vkročil na volná blata. Za jejich temnou linií se táhl pás jasné oblohy, ale byl sotva dost široký, aby pojal rudý kotouč měsíce. V několika minutách vyplul z onoho jasného pruhu a vznesl se mezi navršené kupy mračen.
 
 Vál teskný vítr a blata byla tísnivě neutěšená. Cizímu by byla připadala nesnesitelná a i na mne působila dojmem tak skličujícím, že jsem váhal a napůl měl chuť se vrátit. Ale znal jsem je a byl bych se na nich vyznal i za noci mnohem temnější, a když už jsem tam jednou byl, neměl jsem žádnou omluvu, proč se vracet. A tak, jak nevolky jsem tam přišel, tak nevolky jsem kráčel dál.

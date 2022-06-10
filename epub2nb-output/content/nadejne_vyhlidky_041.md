@@ -3,8 +3,6 @@ title: Kapitola třicátá sedmá
 contentType: prose
 ---
 
-  
-
 Poněvadž jsem soudil, že nejlepší den k vyslechnutí páně Wemmicko­vých walworthských názorů bude neděle, věnoval jsem hned příští nedělní odpoledne pouti do Hradu. Když jsem došel k opevnění, spatřil jsem na stožáru vlát britskou vlajku a padací most zdvižený; nenechal jsem se však těmito známkami vzdoru a odporu zastrašit, zazvonil jsem u branky a v duchu nejvýš mírumilovném mě vpustil Děda.
 
 „Můj syn, pane,“ řekl stařec, když opět zajistil padací most ve zdvižené poloze, „si vzal nějak do hlavy, že byste mohl náhodou zaskočit, a nechal tady pro vás vzkaz, že se z odpolední procházky vrátí brzo. Je moc přesný ve svých procházkách, ten můj syn, věruže. Je moc přesný ve všem, ten můj syn, věruže.“

@@ -3,8 +3,6 @@ title: Kapitola třicátá devátá
 contentType: prose
 ---
 
-  
-
 Bylo mi třiadvacet let. Neslyšel jsem už jediné další slovo, které by mi objasnilo otázku mých vyhlídek, a od mých třiadvacátých narozenin uplynul již týden. Déle než před rokem jsme se odstěhovali z Barnardova dvora a bydleli jsme nyní v Templu. Náš byt byl v Zahradním dvoře, dole u řeky.
 
 S panem Pocketem jsem se co do našeho původního vztahu před nějakým časem rozešel, ale jinak jsme i nadále zůstávali v nejlepším přátelském poměru. Přes svou neschopnost pustit se do něčeho vážného – která, doufám, vyvěrala z vratkosti a neúplnosti držby, na jejímž podkladě jsem pobíral svůj příjem – jsem měl zálibu ve čtení a čítal jsem pravidelně kolik hodin denně. Ta věc s Herbertem se stále příznivě vyvíjela a se mnou dopadalo všechno tak, jak jsem to vylíčil ke konci předminulé kapitoly.
@@ -212,6 +210,8 @@ V každém poryvu větru a náporu deště jsem slyšel pronásledovatele. Pod
 S překotnou spletí těchto úvah se vyrojila i úvaha, že ho moje dětské oči kdysi viděly, jaký je bezohledný násilník; že jsem slyšel onoho druhého trestance vytrvale opakovat, jak se ho pokoušel zavraždit; že jsem ho viděl na dně příkopu se bít a rvát jako divé zvíře. Z takových vzpomínek jsem na světlo ohně vynesl zárodek nejasného děsu, že zůstávat s ním zamčený v jednom bytě uprostřed takové divoké, pusté noci by nemuselo být bezpečné. Děs narůstal, až naplnil celý pokoj a vtiskl mi do ruky svíčku, abych zašel vedle do pokoje a podíval se na své strašlivé břímě.
 
 Měl hlavu ovinutou šátkem a jeho tvář byla ve spánku odhodlaná a hrozivě mračná. Ale spal, a to docela pokojně, ačkoli měl na polštáři ležet pistoli. Když jsem se ujistil, že opravdu spí, přendal jsem tichounce klíč z vnitřní strany dveří na vnější a zamkl jsem ho, dřív než jsem se znovu usadil ke krbu. Ponenáhlu jsem klouzal ze židle, až jsem se svezl na podlahu. Když jsem se probudil – a ani ve spánku jsem nepozbyl vědomí o své bědnosti –, kostelní hodiny na východě města odbíjely pátou, svíčky byly vyhořelé, oheň vyhaslý a vítr a déšť jen ještě zesilovaly čerň hluboké tmy.
+
+  
 
 TOTO JE KONEC
 

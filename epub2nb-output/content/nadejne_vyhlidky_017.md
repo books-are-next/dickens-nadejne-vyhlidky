@@ -3,8 +3,6 @@ title: Kapitola třináctá
 contentType: prose
 ---
 
-  
-
 Byla to zkouška pro moje city, když jsem o dva dny později viděl Joea, jak se šňoří do svátečního, aby se mnou zašel k slečně Havishamové. Ale protože pokládal svůj slavnostní oděv pro tu návštěvu za nezbytný, nepatřilo se mi, abych mu říkal, že mnohem líp mu sluší jeho všední pracovní šaty; tím spíš, že jsem věděl, jak strašlivé si tím připravuje nepohodlí, a to výhradně kvůli mně, a že jenom pro mne si vytáhl vzadu límec od košile tak vysoko, až mu vlasy na temeni trčí jako chocholka z peří.
 
 Při snídani sestra ohlásila svůj úmysl jít do města s námi a počkat na nás v krámě u strýce Pumblechooka, kde se pro ni stavíme, „až budeme se svými fajnovými dámami hotovi“ – kteroužto stylizaci si Joe zjevně vykládal tak, že její rozhodnutí věstí to nejhorší. Kovárna zůstala pro ten den zavřená a Joe napsal křídou na dveře (jak míval ve zvyku v oněch velice řídkých případech, kdy nestál u práce) jednoslabičné slovo PRIČ, doplněné náčrtem šipky, o níž se mělo předpokládat, že míří směrem, kterým se vydal.

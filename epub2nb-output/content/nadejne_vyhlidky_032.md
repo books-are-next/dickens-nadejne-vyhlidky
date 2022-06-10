@@ -3,8 +3,6 @@ title: Kapitola dvacátá osmá
 contentType: prose
 ---
 
-  
-
 Bylo jasné, že na druhý den musím odjet do našeho městečka, a v prvním návalu kajícnosti mi bylo stejně jasné, že musím zůstávat u Joea.
 
 Ale když jsem si zajistil místo na kozlíku zítřejšího dostavníku a zašel si za panem Pocketem a zase se vrátil, nebyl jsem o druhé nutnosti již nijak pevně přesvědčen a začal jsem si vymýšlet důvody a hledat omluvy pro ubytování u Modrého kance. V Joeově domácnosti bych byl na obtíž; nečekají mě a neměl bych přichystanou postel; byl bych tuze daleko od slečny Havishamové a ta je puntičkářsky přísná a třeba by se jí to nezamlouvalo.

@@ -3,8 +3,6 @@ title: Kapitola první
 contentType: prose
 ---
 
-  
-
 Poněvadž otcovo rodové jméno znělo Pirrip a moje křestní Filip, nedovedl můj dětský jazyk z obou jmen vytvořit nic delšího ani urči­tějšího než Pip. Říkal jsem si tedy Pip a jméno Pip mi už napotom také zůstalo.
 
 Údaj, že se otec jmenoval příjmením Pirrip, zakládám na svědectví jeho náhrobku a své sestry – paní Gargeryové, která se vdala za našeho kováře Joea Gargeryho. Protože jsem otce ani matku jaktěživ nespatřil a nikdy ani neviděl žádnou jejich podobiznu (neboť jejich čas se naplnil dávno před časem fotografie), první své představy o tom, jak vypadali, jsem si pošetile odvodil z jejich náhrobků. Tvar písmen na otcově náhrobním kameni mi vnukl podivnou domněnku, že otec byl hranatý, statný a snědý muž s kudrnatými černými vlasy. Z celkového vzhledu a rázu nápisu _rovněž Georgiana, manželka výše uvedeného_, jsem došel k dětinskému závěru, že matka byla pihovatá a neduživá. Pěti malým kamenným kosočtvercům, asi po půl druhé stopě dlouhým, vyrovnaným pěkně v řádce vedle hrobu rodičů a zasvěceným věčné památce mých pěti malých bratříčků – kteří se ve všeobecném zápase smrtelníků vzdali nesmírně záhy všech pokusů udržet se při životě – vděčím za víru, na níž jsem lpěl jako na evangeliu: že se všichni narodili v poloze na zádech s rukama v kapsách u kalhot a že za svého pozemského bytí jaktěživo ty ruce nevytáhli.

@@ -3,8 +3,6 @@ title: Kapitola padesátá devátá
 contentType: prose
 ---
 
-  
-
 Po jedenáct let jsem nespatřil Joea ani Biddy tělesným zrakem – třebaže moje obraznost je na Východě vídala oba často –, až jsem jednoho prosincového večera, hodinu nebo dvě po setmění, položil zlehka ruku na kliku našich starých kuchyňských dveří. Stiskl jsem ji tak zlehka, že mě nikdo neslyšel, a já nahlédl dovnitř, aniž mě kdo spatřil. Tam na starém místě u světla kuchyňského krbu, stejně svěží a stejně silný jako kdy předtím, ač trochu prošedivělý, seděl Joe a pokuřoval si z dýmky; a vedle, zahrazeno v koutku Joeovou nohou, sedělo na mé vlastní stoličce a dívalo se do ohně – opět moje Já!
 
 „Dali jsme mu jméno Pip pro památku na tebe, chlapče milá zlatá,“ řekl Joe celý rozradostněný, když jsem si vzal jinou stoličku a přisedl si k dítěti (ale vlasy jsem mu necuchal), „a doufali jsme, že možná poroste trošku do tvé podoby, a myslíme, že jako jo.“

@@ -3,8 +3,6 @@ title: Kapitola druhá
 contentType: prose
 ---
 
-  
-
 Moje sestra, žena Joea Gargeryho, byla víc než o dvacet let starší než já a sama u sebe i u sousedů si vydobyla velkou vážnost tím, že mě vychovala „vlastníma rukama“. Poněvadž jsem se v oné době musel významu toho výrazu dopátrat pouze sám a sám a poněvadž jsem o ní věděl, že má ruku těžkou a tvrdou a že má často ve zvyku ji vztahovat stejně na svého manžela jako na mne, měl jsem za to, že vlastníma rukama vychovala nás oba, jak Joea Gargeryho, tak i mne.
 
 Moje sestra nebyla žena zrovna pohledná a já měl takový po­všechný dojem, že k tomu, aby si ji Joe Gargery vzal, musela svého muže nepochybně přimět vlastníma rukama. Joe byl hezký muž s hladkou tváří z obou stran ověnčenou kudrnami vlasů plavých jako len a s očima zbarvenýma modří tak velice neurčitou, že se zdálo, jako by mu zorničky a bělmo málem splývaly. Byl to mírný, dobrosrdečný, vlídný, bezstarostný, pošetilý, milý člověk – něco jako Herkules co do síly i co do slabosti.

@@ -3,8 +3,6 @@ title: Kapitola osmnáctá
 contentType: prose
 ---
 
-  
-
 Bylo to ve čtvrtém roce mého učení u Joea, a bylo to v sobotu večer. Kolem ohně u Tří veselých bárkařů seděl hlouček vesničanů a pozorně naslouchal panu Wopslovi, kterak předčítá z novin. Jedním z toho hloučku jsem byl já.
 
 Byla spáchána vražda, těšící se širokému zájmu veřejnosti, a pan Wopsle se brodil v krvi až po krk. Pásl se na každém odporném přívlastku v jejím popise a ztotožňoval se s každým svědkem při soudním vyšetřování. Chabě sténal: „To je můj konec!“ jako oběť a zvířecky řval: „Já tě zřídím!“ jako vrah. Lékařský posudek podal s přiléhavým napodobením našeho místního doktora a jako stařičký mýtný, který slyšel rány, se třásl a kvičel měrou tak vysloveně para­lytickou, že až vnukal pochybnosti, je-li ten svědek vůbec duševně způsobilý. Z vyšetřujícího soudce se v rukou páně Wopslových stal Timon Athénský, ze soudního sluhy Coriolanus. Bavil se znamenitě a bavili jsme se všichni s ním a měli jsme báječně příjemnou chvíli. V takovém libém rozpoložení mysli jsme došli až k výroku poroty, že jde o záměrnou vraždu.

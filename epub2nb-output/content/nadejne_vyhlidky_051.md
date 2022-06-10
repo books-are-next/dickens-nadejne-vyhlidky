@@ -3,8 +3,6 @@ title: Kapitola čtyřicátá sedmá
 contentType: prose
 ---
 
-  
-
 Uběhlo několik týdnů, aniž přinesly nějakou změnu. Čekali jsme na Wemmicka, a ten o sobě nedával vědět. Kdybych ho nebyl znal odnikud než z Malé Britské a kdybych se nikdy nebyl těšil výsadě být s ním v Hradě v přátelsky důvěrném poměru, byl bych o něm možná pochyboval; ale protože jsem ho už tolik poznal, nezapochyboval jsem ani na okamžik.
 
 Moje hmotné poměry začaly nabývat chmurné tvářnosti a nejeden věřitel ode mne naléhavě žádal zaplacení. I já sám jsem už začal pociťovat nedostatek peněz (mám na mysli hotovost v kapse) a odpomáhat tomu proměňováním některých snadno postradatelných kousků klenotů v peníze. Ale nezvratně jsem již u sebe rozhodl, že by to byl bezcitný podvod, kdybych při stávající rozhárané nejistotě svých myšlenek a záměrů bral od svého příznivce ještě další částky. Poslal jsem mu proto po Herbertovi zpátky jeho netknutou tobolku, aby ji opatroval sám, a měl jsem jakýsi pocit uspokojení – ačkoli stěží vím, byl-li to pocit falešný nebo upřímný –, že jsem od chvíle, kdy se mi projevil, nijak nevyužil jeho velkodušnosti.

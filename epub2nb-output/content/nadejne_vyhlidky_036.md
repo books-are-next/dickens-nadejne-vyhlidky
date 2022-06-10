@@ -3,11 +3,13 @@ title: Kapitola třicátá druhá
 contentType: prose
 ---
 
-  
-
 Jednoho dne, kdy jsem se pilně zabýval knihami a panem Pocketem, jsem poštou dostal psaní, jehož pouhý zevnějšek mě uvrhl do silného vzrušení – neboť ačkoli jsem ještě nikdy neviděl rukopis, kterým byla psána adresa, vytušil jsem, čí ruka to je. Sdělení nezačínalo žádným ustáleným oslovením, jako Milý pane Pipe, nebo Milý Pipe, nebo Vážený pane, nebo Milý nevímco, ale znělo takto:
 
+  
+
 „Pozítří mám poledním dostavníkem přijet do Londýna. Bylo myslím ujednáno, že mi přijdete naproti, je to správné? Buď jak buď, slečna Havishamová ten dojem má a já píši na její přání. Posílá Vám pozdrav. – Vaše Estella.“
+
+  
 
 Kdyby na to bývalo dost času, byl bych si pro tu událost pravděpodobně dal ušít několik obleků; ale čas nebyl a já se musel spokojit s těmi, které jsem měl. V mžiku jsem ztratil všechnu chuť k jídlu, a dokud ten den nenastal, nepoznal jsem chviličku klidu ani odpočinku. Ne že by mi jeho příchod byl přinesl to či ono, poněvadž pak jsem na tom byl ještě hůř než předtím, a začal jsem se potulovat kolem dostavníkové stanice ve Wood Street u Cheapside, ještě než dostavník vůbec od Modrého kance v našem městečku vyjel. Ačkoli jsem to úplně dobře věděl, přese všechno jsem měl pocit, jako by nebylo docela jisté pouštět dostavníkovou stanici z očí na delší dobu než vždy na pět minut; a v tomto pošetilém duševním stavu jsem absolvoval první půlhodinu ze své čtyřhodinové nebo pětihodinové hlídky, když vtom se proti mně znenadání vynořil Wemmick.
 
