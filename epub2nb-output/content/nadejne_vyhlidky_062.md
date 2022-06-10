@@ -3,6 +3,8 @@ title: Kapitola padesátá osmá
 contentType: prose
 ---
 
+<section>
+
 Zvěst o tom, že moje úžasné štěstí stihla těžká pohroma, se dostala do mé rodné vsi a jejího okolí dřív, než jsem se tam dostal já.
 
 Shledal jsem, že Modrý kanec je s tou novinou již obeznalý, a shledal jsem také, že v chování Kance způsobila velkou změnu. Dříve, když jsem měl majetku nabýt, hleděl si mne Kanec s vřelou úslužností předcházet a usilovat o moje dobré mínění, kdežto nyní, když jsem měl majetku pozbýt, byl Kanec po té stránce nesmírně chladný.
@@ -101,7 +103,9 @@ Díval jsem se na oba dva, z jednoho na druhého, a pak –
 
 „Dnes je můj svatební den,“ zvolala Biddy v náhlém přívalu štěstí, „ráno jsem se vdala za Joea!“
 
-  
+</section>
+
+<section>
 
 Odvedli mě do kuchyně a já si položil hlavu na starý prkenný stůl. Biddy si zdvihla jednu mou ruku ke rtům a na rameně jsem cítil Joeův posilující dotyk. „Cožto jako nebyl dost silný, má milá, aby snesl takové překvapení,“ pravil Joe. A Biddy řekla: „Měla jsem na to myslet, milý Joe, ale já byla tak šťastná.“
 
@@ -140,3 +144,5 @@ Netrvalo měsíc, a opustil jsem Anglii, a netrvalo dva měsíce, a byl jsem 
 Uplynul mnohý rok, než jsem byl společníkem firmy; ale žil jsem s Herbertem a s jeho ženou šťastně a žil jsem střídmě, poplatil jsem všechny dluhy a udržoval jsem stálou korespondenci s Biddy a s Joem. Teprve až jsem se stal třetím společníkem firmy, vyzradil mě Clarriker Herbertovi; ale pak prohlásil, že tajemství Herbertova společenství mu leželo na svědomí už dost dlouho a že je prostě vypovědět musí. A tak je také vypověděl, a Herbert byl stejně dojatý jako užaslý, a moje přátelství s tím milým hochem pro to dlouhé zatajování nijak neutrpělo.
 
 Nesmím dopustit, aby se kdokoli domníval, že jsme kdy byli velká firma nebo že jsme vydělávali hory peněz. Nedělali jsme žádné závratné obchody, ale měli jsme dobré jméno a pracovali jsme se ziskem a vedlo se nám velmi dobře. Tolik jsme vděčili Herbertově věčné radostné přičinlivosti a obratnosti, že jsem se často divil, jak jsem kdy mohl připadnout na onu dávnou představu o jeho neschopnosti, až mě jednoho dne osvítila myšlenka, že ta nezpůsobilost možná nebyla nikdy vůbec v něm, nýbrž že byla ve mně.
+
+</section>

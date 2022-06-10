@@ -3,6 +3,8 @@ title: Kapitola třicátá devátá
 contentType: prose
 ---
 
+<section>
+
 Bylo mi třiadvacet let. Neslyšel jsem už jediné další slovo, které by mi objasnilo otázku mých vyhlídek, a od mých třiadvacátých narozenin uplynul již týden. Déle než před rokem jsme se odstěhovali z Barnardova dvora a bydleli jsme nyní v Templu. Náš byt byl v Zahradním dvoře, dole u řeky.
 
 S panem Pocketem jsem se co do našeho původního vztahu před nějakým časem rozešel, ale jinak jsme i nadále zůstávali v nejlepším přátelském poměru. Přes svou neschopnost pustit se do něčeho vážného – která, doufám, vyvěrala z vratkosti a neúplnosti držby, na jejímž podkladě jsem pobíral svůj příjem – jsem měl zálibu ve čtení a čítal jsem pravidelně kolik hodin denně. Ta věc s Herbertem se stále příznivě vyvíjela a se mnou dopadalo všechno tak, jak jsem to vylíčil ke konci předminulé kapitoly.
@@ -211,10 +213,14 @@ S překotnou spletí těchto úvah se vyrojila i úvaha, že ho moje dětské 
 
 Měl hlavu ovinutou šátkem a jeho tvář byla ve spánku odhodlaná a hrozivě mračná. Ale spal, a to docela pokojně, ačkoli měl na polštáři ležet pistoli. Když jsem se ujistil, že opravdu spí, přendal jsem tichounce klíč z vnitřní strany dveří na vnější a zamkl jsem ho, dřív než jsem se znovu usadil ke krbu. Ponenáhlu jsem klouzal ze židle, až jsem se svezl na podlahu. Když jsem se probudil – a ani ve spánku jsem nepozbyl vědomí o své bědnosti –, kostelní hodiny na východě města odbíjely pátou, svíčky byly vyhořelé, oheň vyhaslý a vítr a déšť jen ještě zesilovaly čerň hluboké tmy.
 
-  
+</section>
+
+<section>
 
 TOTO JE KONEC
 
 DRUHÉHO ÚDOBÍ
 
 PIPOVÝCH VYHLÍDEK.
+
+</section>

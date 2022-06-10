@@ -3,6 +3,8 @@ title: Kapitola čtyřicátá sedmá
 contentType: prose
 ---
 
+<section>
+
 Uběhlo několik týdnů, aniž přinesly nějakou změnu. Čekali jsme na Wemmicka, a ten o sobě nedával vědět. Kdybych ho nebyl znal odnikud než z Malé Britské a kdybych se nikdy nebyl těšil výsadě být s ním v Hradě v přátelsky důvěrném poměru, byl bych o něm možná pochyboval; ale protože jsem ho už tolik poznal, nezapochyboval jsem ani na okamžik.
 
 Moje hmotné poměry začaly nabývat chmurné tvářnosti a nejeden věřitel ode mne naléhavě žádal zaplacení. I já sám jsem už začal pociťovat nedostatek peněz (mám na mysli hotovost v kapse) a odpomáhat tomu proměňováním některých snadno postradatelných kousků klenotů v peníze. Ale nezvratně jsem již u sebe rozhodl, že by to byl bezcitný podvod, kdybych při stávající rozhárané nejistotě svých myšlenek a záměrů bral od svého příznivce ještě další částky. Poslal jsem mu proto po Herbertovi zpátky jeho netknutou tobolku, aby ji opatroval sám, a měl jsem jakýsi pocit uspokojení – ačkoli stěží vím, byl-li to pocit falešný nebo upřímný –, že jsem od chvíle, kdy se mi projevil, nijak nevyužil jeho velkodušnosti.
@@ -86,3 +88,5 @@ Vyptával jsem se pana Wopsla asi podobně: Kdy ten člověk přišel? To mi nem
 Jakmile mi pan Wopsle pověděl všechno, co si dovedl sám připamatovat nebo já z něho vytáhnout, a já ho po únavě večera pohostil menším přiměřeným občerstvením, rozešli jsme se. Bylo mezi dvanáctou a jednou hodinou, než jsem došel do Templu, a brány byly zavřené. Nikdo mi nebyl nablízku, když jsem vcházel dovnitř a šel domů.
 
 Herbert už byl doma a zahájili jsme spolu u krbu velice vážnou poradu. Ale nedalo se nic dělat kromě zpravit Wemmicka, co jsem ten večer zjistil, a připomenout mu, že čekáme na jeho pokyn. Protože jsem se domníval, že bych mu mohl uškodit, kdybych tuze často docházel do Hradu, podal jsem mu tuto zprávu dopisem. Napsal jsem ho, ještě než jsem si lehl, a hned jsem s ním šel ven a hodil ho – a zas mi nablízku nebyla živá duše. Byli jsme s Herbertem zajedno, že nemůžeme dělat nic jiného než být velmi opatrní. A byli jsme skutečně velmi opatrní – opatrnější než předtím, bylo-li to vůbec možné –, a pokud se týče mne, nikdy jsem se neukázal v blízkosti Čínské rejdy, leč když jsem plul s loďkou kolem, a i pak jsem se díval na Mlýnský náhon pouze tak, jak jsem se díval na cokoli jiného.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola padesátá šestá
 contentType: prose
 ---
 
+<section>
+
 Po celou dobu od odevzdání porotnímu soudu až po začátek nejbližšího porotního období ležel ve vězení těžce nemocný. Zlomil si dvě žebra a ta mu poranila jednu stranu plic, takže dýchal s velkou bolestí a námahou, která se denně stupňovala. Právě bolestivost jeho zranění byla příčinou, proč mluvil tak tiše, že ho bylo sotva slyšet; proto také mluvil jen velmi málo. Ale byl vždycky ochoten mě poslouchat a stalo se hlavní povinností mého života mu povídat a předčítat, co jsem věděl, že by měl slyšet.
 
 Protože byl přespříliš nemocný, aby mohl zůstat v obecném vězení, někdy hned v prvních dnech ho dopravili do vězeňské nemocnice. To mi poskytlo častou příležitost být s ním, kterou bych jinak nebyl mohl mít. A nebýt jeho nemoci, byli by mu nasadili železa, protože platil za nenapravitelného zarputilce, který notoricky utíká z vězení, a kdoví za co jiného ještě.
@@ -84,3 +86,5 @@ Silnější přitlačení na mou ruku.
 S posledním chabým vypětím sil, které by bývalo marné, kdybych mu nebyl povolil a nepomohl, zdvihl mou ruku ke rtům. Potom si ji zlehounka spustil zase na prsa a překryl ji oběma rukama. Poklidný pohled do bílého stropu se zase vrátil a rozplynul se a hlava mu tiše klesla na prsa.
 
 Pamětliv v té chvíli toho, co jsme spolu čítali, pomyslel jsem na ty dva muže, kteří vstupovali do chrámu, aby se modlili, a vím, že nebylo lepších slov, jež bych byl mohl u jeho lože pronést, než slova: „Bože, buď milostiv jemu hříšnému!“
+
+</section>

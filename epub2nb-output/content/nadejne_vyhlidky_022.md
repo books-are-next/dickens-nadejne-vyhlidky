@@ -3,6 +3,8 @@ title: Kapitola osmnáctá
 contentType: prose
 ---
 
+<section>
+
 Bylo to ve čtvrtém roce mého učení u Joea, a bylo to v sobotu večer. Kolem ohně u Tří veselých bárkařů seděl hlouček vesničanů a pozorně naslouchal panu Wopslovi, kterak předčítá z novin. Jedním z toho hloučku jsem byl já.
 
 Byla spáchána vražda, těšící se širokému zájmu veřejnosti, a pan Wopsle se brodil v krvi až po krk. Pásl se na každém odporném přívlastku v jejím popise a ztotožňoval se s každým svědkem při soudním vyšetřování. Chabě sténal: „To je můj konec!“ jako oběť a zvířecky řval: „Já tě zřídím!“ jako vrah. Lékařský posudek podal s přiléhavým napodobením našeho místního doktora a jako stařičký mýtný, který slyšel rány, se třásl a kvičel měrou tak vysloveně para­lytickou, že až vnukal pochybnosti, je-li ten svědek vůbec duševně způsobilý. Z vyšetřujícího soudce se v rukou páně Wopslových stal Timon Athénský, ze soudního sluhy Coriolanus. Bavil se znamenitě a bavili jsme se všichni s ním a měli jsme báječně příjemnou chvíli. V takovém libém rozpoložení mysli jsme došli až k výroku poroty, že jde o záměrnou vraždu.
@@ -270,3 +272,5 @@ Na střechu mé podkrovní komůrky svítilo celý den jasně slunce a v komů
 Stál nyní u dveří přímo pode mnou a pokuřoval si z dýmky a Biddy u nich stála také a tiše s ním rozmlouvala a já věděl, že rozmlouvají o mně, protože jsem oba zaslechl nejednou milým tónem vyslovit moje jméno. Nebyl bych poslouchal dál, i kdybych byl mohl zaslechnout víc; odešel jsem tedy od okna a posadil se na svou jedinou židli vedle postele s pocitem velkého smutku a podivení, že tato první noc mého báječného štěstí asi bude nejtesklivější, jakou jsem kdy prožil.
 
 Když jsem se podíval k otevřenému oknu, viděl jsem, jak se tam vznášejí lehounké obláčky z Joeovy dýmky, a mé fantazii připadaly jako požehnání od Joea – nikoli mně vnucované ani okázale mi stavěné na odiv, nýbrž prostě prosycující vzduch, který spolu sdílíme. Zhasl jsem světlo a zalezl jsem do postele; ale byla to teď postel tísnivá a já v ní už víckrát nespal oním starým hlubokým spánkem jako dříve.
+
+</section>

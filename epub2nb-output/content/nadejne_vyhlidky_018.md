@@ -3,6 +3,8 @@ title: Kapitola čtrnáctá
 contentType: prose
 ---
 
+<section>
+
 Je věru žalostné, stydí-li se člověk za domov. Skrývá se v tom možná černý nevděk a trest za to je možná odvetný a plně zasloužený, ale že to je žalostné, to mohu potvrdit.
 
 Pro povahu mé sestry pro mne domov nikdy nebyl místem zvlášť příjemným. Ale Joe je posvětil a já v ně věřil. Věřil jsem v náš parádní pokoj jako v nejelegantnější salón; věřil jsem v hlavní dveře jako v tajuplný portál chrámu vznešenosti, jehož slavnostní otevření provází vždy oběť pečených kuřat; věřil jsem v kuchyň jako v příbytek slušný a čistý, i když nijak nádherný; věřil jsem v kovárnu jako v cestu k mužnosti a samostatnosti. Během jediného roku se to všechno změnilo. Teď to všechno bylo sprosté a obyčejné a za žádnou cenu bych nebyl chtěl, aby to slečna Havishamová a Estella viděly.
@@ -18,3 +20,5 @@ Je v tom sice už zahrnuto i to, co právě hodlám dodat, ale všechna záslu
 Kdo může říci, co jsem chtěl? Jak to mohu říci já, když jsem to sám nikdy nevěděl? Smrtelně jsem se bál, že v nějakou nešťastnou hodinu, až budu zrovna nejzmazanější a vypadat praobyčejný až běda, zdvihnu oči a spatřím Estellu, jak se na mne dívá jedním z dřevěných oken kovárny. Pronásledoval mě strach, že mne dříve nebo později přistihne, jak s ukoptěným obličejem i rukama konám právě svou nejhrubší práci, a bude nade mnou zlomyslně jásat a mnou opovrhovat. Častokráte, když se setmělo a já tahal Joeovi měchy a my spolu zpívali Našeho Klema a když mi při vzpomínce, jak jsme to zpívávali u slečny Havishamové, připadalo, jako by přede mnou z ohně vyvstával Estellin obličej s těmi jejími hezkými vlasy čechranými větrem a s očima plnýma pohrdání ke mně – v takové chvíli jsem se častokrát zadíval do těch výplní černé noci ve zdi, jakými v ten čas ta dřevěná okna byla, a zdálo se mi, že ji vidím zrovna odtahovat obličej, a věřil jsem, že konečně tedy přišla.
 
 Když jsme potom odešli do kuchyně k večeři, místnost i jídlo se mi jevily prostší než jindy a já se v tom svém nevděčném nitru styděl za svůj domov ještě víc než jindy.
+
+</section>

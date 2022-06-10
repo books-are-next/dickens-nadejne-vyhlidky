@@ -3,6 +3,8 @@ title: Kapitola čtyřicátá devátá
 contentType: prose
 ---
 
+<section>
+
 Strčil jsem si lístek slečny Havishamové do kapsy, aby mi mohl posloužit jako omluvný průkaz pro to, že se tak brzy zase objevuji v Satisu, kdyby ji snad její rozmarnost svedla, aby projevila jakékoli překvapení nad mým příchodem, a nazítří jsem se tam opět rozjel dostavníkem. Vystoupil jsem však u hostince Na půl cestě, nasnídal jsem se tam a zbývající vzdálenost jsem urazil pěšky; snažil jsem se totiž dostat se do města bez povšimnutí po osamělých cestách a potom stejným způsobem je zase opustit.
 
 Nejlepší světlo dne už bylo pryč, když jsem kráčel tichými uličkami za Hlavní třídou, oživenými jen ozvěnou. Zřícené kouty, kde staří mnichové kdysi dávno měli refektáře a zahrady a kde tlusté zdi nyní musely sloužit za podporu skromných kůlniček a stájí, byly téměř stejně tiché jako ti staří mnichové ve svých hrobech. Jak jsem tak pospíchal, aby mě nikdo nezpozoroval, zvonková hra na katedrále mi pojednou připadala smutnější a vzdálenější, než jak mi zněla kdy předtím, a stejně i dunění starých varhan mi doléhalo k sluchu jako pohřební hudba. A kavky, které obletovaly šedou věž a houpaly se na vysokých holých stromech převorské zahrady, jako by na mne volaly, že celá ta končina se změnila a že Estella je pryč a odešla odtamtud navždy.
@@ -176,3 +178,5 @@ Dotazy mezi služebnictvem jsem zjistil, že Estella je v Paříži, a když j
 Později večer toho dne nastal stav, kdy slečna Havishamová hovořila o tom, co se stalo, docela příčetně, třebaže s jistou hroznou živostí. K půlnoci začala mluvit pomateně a potom se její řeč ponenáhlu omezila na to, že pouze nesčíslněkrát tichým, vážným hlasem opakovala: „Co jsem to udělala!“ A pak: „Když ke mně přišla, měla jsem první čas v úmyslu jenom ji uchránit před neštěstím, jako bylo moje.“ A pak: „Vezmi si tužku a pod mé jméno napiš: ‚Odpouštím jí!‘“ Ani jednou pořad těch tří vět nezměnila, ale občas v té či oné vynechala slovo; nikdy je nenahradila jiným, nýbrž pokaždé nechala mezeru a pokračovala nejbližším dalším slovem.
 
 Protože jsem tam nemohl být už nijak užitečný a protože jsem, blíž svého domova, měl onen naléhavý důvod ke starostem a strachu, který mi z hlavy nemohlo vypudit ani její blouznění, během noci jsem se rozhodl, že se časným ranním dostavníkem vrátím domů – že asi tak míli půjdu pěšky a až úplně za městem si ho zastavím a nasednu. Proto asi kolem šesté hodiny ráno jsem se nad ní sklonil a políbil jsem ji lehce na rty, zrovna když říkaly, aniž se při mém polibku odmlčely: „Vezmi si tužku a pod mé jméno napiš: ‚Odpouštím jí!‘“
+
+</section>

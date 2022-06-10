@@ -3,6 +3,8 @@ title: Kapitola padesátá
 contentType: prose
 ---
 
+<section>
+
 V noci mi dvakrát nebo třikrát převázali ruce a ráno pak ještě jednou. Levou ruku jsem měl silně popálenou až po loket a trochu lehčeji až k rameni; bylo to velmi bolestivé, ale plameny se již tím směrem daly a já byl vděčný, že to není horší. Pravou ruku jsem už neměl popálenou tak zle, abych nemohl vládnout prsty. Měl jsem ji samozřejmě také ovázanou, ale mnohem méně nepohodlně než levou ruku a paži; tu jsem měl v pásce, a kabát jsem proto mohl nosit jen jako pláštěnku, přehozený volně přes ramena a zapnutý u krku. Oheň mi opálil i vlasy, ale hlavu ani obličej mi nezasáhl.
 
 Když Herbert zajel do Hammersmithu a promluvil s otcem, vrátil se hned ke mně a celý den věnoval na to, aby o mně v našem bytě pečoval. Byl ošetřovatelem k pohledání laskavým a v udaných hodinách mi snímal obvazy a namáčel je v chladivém roztoku, který měl stále nachystaný, a zase mi je přikládal s trpělivou něžností, za niž jsem mu byl hluboce vděčný.
@@ -100,3 +102,5 @@ Herbert se nahnul, aby na mne viděl zblíž, jako by moje odpověď bývala pon
 „N-ne, milý kamaráde,“ řekl Herbert, když si dal chvíli na čas, aby si mě prohlédl. „Jste hodně rozčilený, ale jinak jste docela při smyslech.“
 
 „Vím, že jsem docela při smyslech. A ten muž, kterého skrýváme dole na řece, je Estellin otec.“
+
+</section>

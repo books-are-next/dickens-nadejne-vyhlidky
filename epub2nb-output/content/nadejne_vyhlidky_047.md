@@ -3,6 +3,8 @@ title: Kapitola čtyřicátá třetí
 contentType: prose
 ---
 
+<section>
+
 Proč bych se měl zastavovat u otázky, kolik z mého odporu k Provisovi by se dalo vysledovat k Estelle? Proč bych se měl na své cestě zdržovat srovnáváním myšlenkového stavu, v jakém jsem se pokoušel zbavit poskvrny vězení, než jsem se s ní setkal na dostavníkové stanici, se svým myšlenkovým stavem, v jakém jsem nyní v duchu měřil propast mezi Estellou, tak hrdou a krásnou, a mezi vypovězeným trestancem, kterého jsem po jeho návratu přechovával? Moje cesta by proto nebyla o nic hladší, konec by pro to nebyl o nic lepší; jemu by to nepomohlo, ani mně neulevilo.
 
 Jeho vyprávění zplodilo v mé mysli nový strach; nebo spíš, jeho vyprávění dalo tvar a smysl strachu, který v ní už dřímal. Je-li Compeyson naživu a objeví-li, že se Provis vrátil, těžko bych mohl pochybovat, jaké to bude mít následky. Že Compeyson z něho má smrtelný strach, to nemohl žádný z těch dvou vědět o mnoho lépe než já – a že kterýkoli člověk takové povahy, jak mi ho vylíčil Provis, by váhal jednou provždycky se osvobodit od obávaného protivníka způsobem tak spolehlivým a bezpečným, že ho prostě udá, to si bylo sotva možno představit.
@@ -118,3 +120,5 @@ Když číšník ohmatal dlaní můj rychle stydnoucí čajník a prosebně se 
 Viděl jsem ho oknem, jak chytá koně za hřívu a svým zbrklým a hromotluckým způsobem leze do sedla a jak se s koněm točí a couvá z dohledu. Myslel jsem, že už odjel, když vtom se vrátil a žádal si oheň pro doutník v ústech, protože si ho předtím zapomněl zapálit. Přiběhl muž v šedavém obleku a přinesl žádané – nebyl bych mohl říci odkud, zda ze zájezdního dvora nebo z ulice nebo bůhvíodkud –, a jak se Drummle nakláněl ze sedla a zapaloval si doutník a s pohozením hlavy směrem k oknům kavárny se zasmál, nachoulená ramena a rozježená hlava toho muže, který stál ke mně zády, mi připomínaly Orlicka.
 
 Byl jsem příliš silně rozladěný, než aby mi v tu chvíli nějak tuze záleželo na tom, je-li to on či ne, nebo než abych se vůbec dotkl snídaně, a smyl jsem si tedy nepohodu i cestu z obličeje i z rukou a vydal jsem se k pamětihodnému starému domu, do kterého jsem, jak by pro mne bývalo o tolik lepší, neměl nikdy vkročit, který jsem nikdy neměl spatřit.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola druhá
 contentType: prose
 ---
 
+<section>
+
 Moje sestra, žena Joea Gargeryho, byla víc než o dvacet let starší než já a sama u sebe i u sousedů si vydobyla velkou vážnost tím, že mě vychovala „vlastníma rukama“. Poněvadž jsem se v oné době musel významu toho výrazu dopátrat pouze sám a sám a poněvadž jsem o ní věděl, že má ruku těžkou a tvrdou a že má často ve zvyku ji vztahovat stejně na svého manžela jako na mne, měl jsem za to, že vlastníma rukama vychovala nás oba, jak Joea Gargeryho, tak i mne.
 
 Moje sestra nebyla žena zrovna pohledná a já měl takový po­všechný dojem, že k tomu, aby si ji Joe Gargery vzal, musela svého muže nepochybně přimět vlastníma rukama. Joe byl hezký muž s hladkou tváří z obou stran ověnčenou kudrnami vlasů plavých jako len a s očima zbarvenýma modří tak velice neurčitou, že se zdálo, jako by mu zorničky a bělmo málem splývaly. Byl to mírný, dobrosrdečný, vlídný, bezstarostný, pošetilý, milý člověk – něco jako Herkules co do síly i co do slabosti.
@@ -130,3 +132,5 @@ Pokud jsem oné noci vůbec spal, mělo to pouze ten výsledek, že jsem viděl 
 Sotva širým černým sametovým příkrovem venku za mým okénkem prokmitla prvá šeď, hned jsem vstal a sešel dolů; každé prkno po cestě a každé zavrzání každého prkna za mnou volalo: „Chyťte zloděje!“ a „Vstávejte, paní kovářko!“ Ve spíži, která se zřetelem k sváteční době chovala zásoby mnohem bohatší než obvykle, mě ukrutně vylekal zajíc, pověšený tam za zadní běhy, kterého jsem vážně podezříval, že jsem ho přistihl, jak po mně mrká, když jsem se k němu napůl pootočil zády. Neměl jsem čas se o tom přesvědčit, neměl jsem čas něco vybírat, neměl jsem čas vůbec na nic, protože jsem neměl chviličku času nazbyt. Ukradl jsem kus chleba a kus sýra od kůry, z kamenného hrnku jsem vybral asi půlku masitého hašé (tu jsem nabral do kapesníku a spolu s včerejším krajícem zavázal na uzel) a z kamenné butely jsem vzal trochu žitné (kterou jsem odlil do skleněné lahvičky, jíž jsem ve své podkrovní komůrce nahoře potají používal k výrobě opojného nápoje ze sladkého dřeva, totiž lékořicové vody, a pálenku v kamenné butele jsem dolil vodou z kuchyňského džbánu v misníku); dále jsem vzal ještě kost od pečeně, na které zbyl už jen malý drobet masa, a potom krásnou kulatou, vypečenou sekanou. Užuž bych byl odešel bez ní, ale nedalo mi to, abych se nevyhoupl na polici a nepodíval se, co to kovářka tak pečlivě uschovala pod poklicí v kamenném kastrole, zastrčeném do kouta, a objevil jsem, že to je sekaná; vzal jsem ji tedy také, protože jsem spoléhal, že není určena pro potřebu nejbližších dnů, a že ji proto nebude nikdo tuze brzy pohřešovat.
 
 Z kuchyně vedly dveře také do kovárny; ty dveře jsem odemkl a odsunul závoru a mezi Joeovými nástroji jsem vyhledal pilník. Potom jsem zase zámek i závoru zajistil, jako byly předtím, otevřel jsem dveře, jimiž jsem vešel, když jsem minulého večera přiběhl domů, zavřel jsem a rozběhl se do mlhavých blat.
+
+</section>

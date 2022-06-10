@@ -3,6 +3,8 @@ title: Kapitola třináctá
 contentType: prose
 ---
 
+<section>
+
 Byla to zkouška pro moje city, když jsem o dva dny později viděl Joea, jak se šňoří do svátečního, aby se mnou zašel k slečně Havishamové. Ale protože pokládal svůj slavnostní oděv pro tu návštěvu za nezbytný, nepatřilo se mi, abych mu říkal, že mnohem líp mu sluší jeho všední pracovní šaty; tím spíš, že jsem věděl, jak strašlivé si tím připravuje nepohodlí, a to výhradně kvůli mně, a že jenom pro mne si vytáhl vzadu límec od košile tak vysoko, až mu vlasy na temeni trčí jako chocholka z peří.
 
 Při snídani sestra ohlásila svůj úmysl jít do města s námi a počkat na nás v krámě u strýce Pumblechooka, kde se pro ni stavíme, „až budeme se svými fajnovými dámami hotovi“ – kteroužto stylizaci si Joe zjevně vykládal tak, že její rozhodnutí věstí to nejhorší. Kovárna zůstala pro ten den zavřená a Joe napsal křídou na dveře (jak míval ve zvyku v oněch velice řídkých případech, kdy nestál u práce) jednoslabičné slovo PRIČ, doplněné náčrtem šipky, o níž se mělo předpokládat, že míří směrem, kterým se vydal.
@@ -138,3 +140,5 @@ Ale oni byli dospělí a mohli si dělat, co chtěli, a hleděli toho využít
 Moje jediné další vzpomínky na tu velkou oslavu jsou ještě ty, že mě nenechali usnout, ale kdykoli viděli, že začínám dřímat, hned mě vyburcovali a vyzývali mě, abych se bavil. Že už hodně pozdě večer nám pan Wopsle přednesl Collinsovu ódu a odhodil svůj krví zbrocený meč hromově na zem s takovým efektem, že k nám přišel číšník a vyřizoval: „Páni cestující dole se dávají poroučet a vzkazují, že tady není žádná komediantská menažérie.“ Že cestou domů byli všichni ve skvělé náladě a zpívali: „Ó paní krásná!“ přičemž pan Wopsle obstarával bas a strašlivě silným hlasem ujišťoval (v odpověď onomu zvědavému hlupákovi, který si v této sborové písni vede s dotěrností věru nestoudnou, neboť chce vědět všechno o soukromých záležitostech každého člověka), že _on_ je ten muž s vlajícími bílými kadeřemi a že je, celkem vzato, nejslabším poutníkem na světě.
 
 A konečně si ještě pamatuji, že když jsem se dostal do své komůrky, byl jsem bezedně nešťastný a choval jsem pevné přesvědčení, že Joeovo řemeslo se mi jaktěživo nebude líbit. Kdysi se mi líbívalo, ale kdysi nebylo teď.
+
+</section>

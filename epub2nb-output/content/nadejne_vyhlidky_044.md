@@ -3,6 +3,8 @@ title: Kapitola čtyřicátá
 contentType: prose
 ---
 
+<section>
+
 Bylo pro mne štěstí, že jsem musel učinit opatření, jak zajistit (pokud to bylo v mé moci) bezpečnost svého obávaného návštěvníka; ta myšlenka mě totiž tak tížila, když jsem se probudil, že zatlačovala zmatený rej ostatních myšlenek do pozadí.
 
 Nemožnost natrvalo ho ukrýt v našem bytě byla očividná. Nedalo se to provést a pokus o to by byl nevyhnutelně vyvolal podezření. Je pravda, neměl jsem už ve svých službách žádného Mstitele, ale posluhovala mi jedna hartusivá stařena spolu s čiperným hastrošem, kterého nazývala svou neteří, a nepouštět je do některého pokoje by bylo znamenalo provokovat jejich zvědavost a bujnou fantazii. Obě měly slabý zrak, což jsem již dlouho přičítal jejich chronickému civění do klíčových dírek, a obě byly vždycky nablízku, když o to nikdo nestál; to jediné také spolehlivě dovedly kromě okrádání. Abych si u těch ženských nezačínal s žádným tajemstvím, rozhodl jsem se ráno oznámit, že mi nečekaně přijel z venkova strýc.
@@ -240,3 +242,5 @@ Náhle se v dalším řečnění a potřásání rukou se mnou zarazil, neboť
 „Všechno v pořádku, hochu drahá!“ ozval se Provis, přistoupil se svou zapjatou černou knížkou k nám a potom se obrátil k Herbertovi. „Vemte to do pravý ruky. Ať vás Bůh na místě ztrestá smrtí, jestli kdy co komu píchnete. Polibte ji!“
 
 „Udělejte, co si přeje,“ požádal jsem Herberta. A tak Herbert, s přátelsky znepokojeným a užaslým pohledem upřeným na mne, mu vyhověl a Provis mu vzápětí stiskl ruku a pravil: „Teď vás váže přísaha, víme? A nikdy nemusíte věřit mý přísaze, jestli tuhle Pip z vás neudělá pána!“
+
+</section>

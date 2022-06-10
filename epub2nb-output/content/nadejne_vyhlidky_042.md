@@ -3,6 +3,8 @@ title: "Kapitola třicátá\_osmá"
 contentType: prose
 ---
 
+<section>
+
 Dojde-li kdy po mé smrti k tomu, že oním usedlým starým domem poblíž Parku v Richmondu bude obcházet strašidlo, pak tím strašidlem bude dozajista můj přízrak. Ach, ty mnohé, přemnohé noci a dny, kolik jich neklidný duch v mém nitru proobcházel po tom domě, když tam bydlela Estella! Ať bylo moje tělo kdekoli, můj duch povždy bloudil a bloudil a bloudil po onom domě.
 
 Dáma, jíž slečna Havishamová Estellu svěřila, jistá paní Brand­leyová, byla vdova a měla jedinou dceru o několik roku starší než Estella. Matka vypadala mladá a dcera vypadala stará; matčina pleť byla růžová a dceřina žlutá; matka tíhla k frivolnosti a dcera k bohosloví. Byly, jak se říká, v dobrém postavení a chodily na četné návštěvy i přijímaly četné návštěvy. Je a Estellu k sobě navzájem poutalo málo společných citů, pakli vůbec nějaké, ale vládlo jakési dorozumění, ony že jsou potřebné jí a ona že je potřebná jim. Paní Brandleyová bývala přítelkyní slečny Havishamové, než ta se uchýlila do ústraní.
@@ -223,8 +225,12 @@ Nu, kdybych byl mohl uvěřit, že tak vyznamenává Drummla i jen se sebeslab�
 
 „Ano, jeho a mnoho jiných – všechny, jenom vás ne. Tady jde paní Brandleyová. Víc už neřeknu.“
 
-  
+</section>
+
+<section>
 
 A když jsem tedy námětu, jenž tak dlouho naplňoval mé srdce a tak často mu znovu a znovu působil bolest, nyní tu jednu kapitolu věnoval, přecházím bez překážky k události, která nade mnou visela ještě déle; k události, která se začala připravovat dříve, než jsem vůbec věděl, že svět hostí Estellu, a v čase, kdy její dětský rozoumek a duch přijímal z pustošivých rukou slečny Havishamové první pokřiveniny.
 
 V orientální pohádce pomalu vytesají v lomu těžkou kamennou desku, která má v opojném okamžiku vrcholného vítězství spadnout na vladařské lože, pomalu prorazí mílemi skály průkop pro lano, které ji má držet ve výši na místě, pomalu zdvihnou desku a zapustí ji do střechy, obtočí kolem ní lano a pomalu je provlečou mnohamílovou dutinou k velikému železnému kruhu. Když je všechno s velkou námahou hotovo a nadejde určená chvíle, probudí v hloubi noci sultána, vloží mu do ruky nabroušenou sekeru, která má odetnout lano od velkého železného kruhu, sultán tne sekerou, lano se rozskočí ve dví, šust, a je pryč, a strop spadne. Tak tomu bylo i v mém případě; všechna práce, blízko i daleko, jež směřovala k tomu cíli, byla dokonána – a v okamžení rána ťala a střecha mé pevnosti se zřítila na mne.
+
+</section>

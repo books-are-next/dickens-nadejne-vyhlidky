@@ -3,6 +3,8 @@ title: Kapitola padesátá třetí
 contentType: prose
 ---
 
+<section>
+
 Byla tmavá noc, přestože se vyhoupl úplněk, když jsem vyšel z ohrazených polí a vkročil na volná blata. Za jejich temnou linií se táhl pás jasné oblohy, ale byl sotva dost široký, aby pojal rudý kotouč měsíce. V několika minutách vyplul z onoho jasného pruhu a vznesl se mezi navršené kupy mračen.
 
 Vál teskný vítr a blata byla tísnivě neutěšená. Cizímu by byla připadala nesnesitelná a i na mne působila dojmem tak skličujícím, že jsem váhal a napůl měl chuť se vrátit. Ale znal jsem je a byl bych se na nich vyznal i za noci mnohem temnější, a když už jsem tam jednou byl, neměl jsem žádnou omluvu, proč se vracet. A tak, jak nevolky jsem tam přišel, tak nevolky jsem kráčel dál.
@@ -186,3 +188,5 @@ Svítalo středeční ráno, když jsem vyhlédl z okna. Blikavá světla na mo
 Herbert ležel ve své posteli a náš bývalý spolužák ze studií na pohovce. Oba ještě spali. Nemohl jsem se obléknout bez pomoci, ale prohrabal jsem oheň, který ještě hořel, a připravil jsem jim trochu kávy. Dost brzy vyskočili i oni silní a zdraví a okny jsme vpustili ostrý ranní vzduch a dívali se na příliv, který dosud stoupal k nám.
 
 „Až se v devět hodin obrátí,“ řekl zvesela Herbert, „tak nás vyhlížejte a čekejte připravený, vy tam dole na Mlýnském náhonu!“
+
+</section>

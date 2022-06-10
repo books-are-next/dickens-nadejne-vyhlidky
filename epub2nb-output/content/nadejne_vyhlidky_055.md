@@ -3,6 +3,8 @@ title: Kapitola padesátá první
 contentType: prose
 ---
 
+<section>
+
 Jaký cíl jsem sledoval, když jsem se tak horlivě snažil vypátrat a prokázat Estellin původ, nemohu říci. Co nevidět se ukáže, že jsem tu otázku neměl před očima v žádné jasné podobě, dokud mi ji nepředložila hlava moudřejší než moje.
 
 Ale když jsme s Herbertem skončili svou závažnou rozmluvu, zachvátilo mě horečné přesvědčení, že musím tu věc propátrat až ke kořenům, že ji nesmím nechat spát, nýbrž že si musím promluvit s panem Jaggersem a dopídit se čisté pravdy. Opravdu nevím, měl-li jsem pocit, že to dělám kvůli Estelle, nebo byl-li jsem rád, že mohu trochu záře oné romantické zajímavosti, která tak dlouho obklopovala mne, přenést na muže, o jehož záchranu jsem měl tak velkou starost. Tato druhá možnost se snad blíží pravdě víc.
@@ -146,3 +148,5 @@ Toto individuum, jak se zdálo, vězelo, ať už ve vlastní osobě nebo v osob
 „Dobře vám tak,“ dodal Wemmick. „Kliďte se.“
 
 A tak se tedy nešťastný Mike velmi zkroušeně vzdálil a pan Jaggers a Wemmick, mezi nimiž opět zjevně zavládla bývalá dobrá shoda, se znovu pustili do práce s tak osvěženým výrazem v tváři, jako kdyby právě byli vstali od polední přesnídávky.
+
+</section>

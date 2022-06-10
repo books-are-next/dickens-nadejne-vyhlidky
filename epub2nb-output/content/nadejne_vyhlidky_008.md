@@ -3,6 +3,8 @@ title: Kapitola čtvrtá
 contentType: prose
 ---
 
+<section>
+
 Očekával jsem s určitostí, že v kuchyni zastihnu čekat strážníka, aby mě sebral. Ale nejenže tam nečekal žádný strážník, nýbrž dokonce se dosud na tu krádež vůbec ani nepřišlo. Kovářka se horečně zabývala uklízením domu co přípravou na sváteční den a Joea vystrnadila na schůdek před kuchyňskými dveřmi, aby nepřišel do styku s lopatkou na smetí – s předmětem, do něhož mu osud dříve nebo později zavedl kroky pokaždé, kdykoli sestra s vervou uklízela podlahy ve své domácnosti.
 
 „A kde jsi, u všech kozlů, byl ty?“ zněl kovářčin vánoční pozdrav, když jsem se spolu se svým svědomím ukázal doma.
@@ -112,3 +114,5 @@ Hosté zadrmolili zdvořilou pochvalu. Strýc Pumblechook u vědomí, že se za
 Sestra odešla pro sekanou. Slyšel jsem, jak se její kroky blíží ke spíži. Viděl jsem pana Pumblechooka pohupovat nožem. Viděl jsem na římských nozdrách pana Wopsla, jak se znovu probouzí jeho apetýt. Slyšel jsem páně Hubblovu poznámku, že „ždibec chutné vepřové fašírky se může sníst navrch na všechno, co by koho napadlo, a nemůže uškodit“, a slyšel jsem Joea, jak říká: „Taky dostaneš kousek, Pipe.“ Nikdy jsem se nedověděl s úplnou jistotou, zaječel-li jsem pronikavě hrůzou pouze v duchu, nebo zda jsem ten výkřik vyrazil tak, že jej hosté vskutku slyšeli. Cítil jsem, že to již déle nesnesu a že musím utéci. Pustil jsem se nohy stolu a utíkal jsem jako o život.
 
 Ale nedoběhl jsem dál než k domovním dveřím, neboť tam jsem vrazil hlavou do čety vojáků s mušketami; jeden z nich proti mně napřáhl želízka na ruce a řekl: „Tady jsme, tak pozor, jdeme!“
+
+</section>

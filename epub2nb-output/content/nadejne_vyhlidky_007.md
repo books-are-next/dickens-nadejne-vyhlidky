@@ -3,6 +3,8 @@ title: Kapitola třetí
 contentType: prose
 ---
 
+<section>
+
 Bylo jinovaté ráno a sychravě mokré. Viděl jsem tu mokrost lpět už hned na vnější straně svého okénka, jako by tam byl celou noc plakal nějaký skřítek a používal okenní tabulky místo kapesníku. Teď jsem viděl mokrotu lpět na holých keřích a sporé trávě jako nějaké hrubší pavučí; táhla se jíním od větévky k větévce a od stébla k stéblu. Lepkavé mokro lpělo na každičkém břevnu a na každé brance a mlha z blat byla tak hustá, že jsem dřevěnou šipku na kůlu, která lidem ukazovala směr k naší vesnici – směr, jímž se nikdy neřídili, protože k nám jaktěživo nikdo nechodil –, vůbec neviděl, dokud jsem se neoctl až těsně pod ní. Když jsem k ní pak zdvihl oči, tu, jak z ní kapalo, připadala mému stísněnému svědomí jako přízrak, který mě zatracuje na galeje.
 
 Jakmile jsem doběhl na volná blata, mlha ještě zhoustla, takže místo abych se já hnal proti všemu, všechno jako by se hnalo proti mně. To bylo pro provinilcovu mysl velmi nepříjemné. Stavidla a strouhy a hráze se na mne vrhaly z mlhy, jako by jasně a zřetelně křičely: „Kluk s ukradenou fašírkou! Zadržte ho!“ Se stejnou náhlostí mě přepadal dobytek, poulil na mne oči a z nozder kouřil slova: „Vida ho, zlodějíčka!“ Jeden černý volek s bílou náprsenkou – v jehož vzhledu bylo pro mé pobouřené svědomí takřka cosi kněžského – na mne upíral oči tak vytrvale a komíhal svou nemotornou hlavou, když jsem běžel kolem, tak žalobně a káravě, že jsem na něho plačtivě vyhrkl: „Já nemohl jinak, prosím! Nevzal jsem to pro sebe!“ Nato sklonil hlavu, vyfrkl z chřípí oblak páry, vyhodil zadníma nohama, švihl oháňkou a zmizel.
@@ -92,3 +94,5 @@ Popadl mě za límec a probodával mě očima tak, až mi přišlo na mysl, že
 „Kde je?“ Hrstku jídla, která mu ještě zbývala, si nacpal do záňadří šedivé kazajky. „Ukaž mi, kam šel. Uženu ho jak pes. Hrom do toho železa na tom bolavým hnátě. Podej sem ten pilník, hochu!“
 
 Naznačil jsem mu, v kterém směru mlha pohltila druhého muže, a on se v tu stranu na okamžik zadíval. Ale již klečel v přerostlé mokré trávě a piloval na svém železe jako šílenec bez ohledu na mne i bez ohledu na svou nohu; měl na ní staré zranění, které mu nyní krvácelo, ale zacházel s ní tak neurvale, jako by v ní nebylo o nic víc citu než v tom pilníku. Znovu jsem se ho začal hrozně bát, když se teď vydráždil do toho zběsilého chvatu, a rovněž jsem se hrozně bál zůstat ještě déle z domova. Řekl jsem mu, že už musím jít, ale on si toho nevšímal, a proto jsem usoudil, že nejlepší, co mohu udělat, je nepozorovaně se vytratit. Naposledy jsem ho viděl, jak se s hlavou schýlenou nad koleno horečně pachtí se svým poutem a přitom netrpělivě huhlá kletby na tu nohu i železo. Naposledy jsem ho slyšel, když jsem se zastavil v mlze a zaposlouchal se – pilník dosud skřípal.
+
+</section>

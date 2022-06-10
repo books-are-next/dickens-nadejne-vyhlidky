@@ -3,6 +3,8 @@ title: Kapitola dvacátá šestá
 contentType: prose
 ---
 
+<section>
+
 Dopadlo to tak, jak mi Wemmick předpověděl, že to dopadne, a tak jsem záhy měl příležitost porovnat domácnost svého poručníka s domácností jeho pokladníka a písaře. Můj poručník byl ve svém pokoji a myl si ruce svým příznačným voňavým mýdlem, když jsem po návratu z Walworthu vkročil do písárny; zavolal si mě k sobě a vyslovil pozvání pro mne i pro mé přátele, na které mě už Wemmick připravil. „Žádná obřadnost,“ vymiňoval si, „žádný salonní úbor a řekněme zítra.“ Zeptal jsem se ho, kam máme přijít (neboť jsem neměl ani ponětí, kde bydlí), a mám dojem, že pouze ze všeobecného odporu říci cokoli, co by se podobalo přiznání, mi odpověděl: „Přijďte sem a já vás vezmu domů s sebou.“ Využívám této příležitosti k poznámce, že si své klienty smýval z rukou, jako kdyby byl nějaký chirurg nebo zubní lékař. Měl u sebe v pokoji komůrku, zvlášť k tomu účelu vybavenou, která byla cítit voňavým mýdlem jako voňavkářský krám. Na válečku na vnitřní straně jejích dveří visel neobyčejně dlouhý, do kruhu sešitý ručník, a kdykoli pan Jaggers přišel od policejního soudu nebo propustil klienta ze svého pokoje, vždycky si myl ruce a utíral si je a osušoval po celé délce toho ručníku. Když jsem nazítří v šest hodin s přáteli k němu přišel, zdálo se, že se právě obíral nějakým případem povahy temnější než obvykle, poněvadž jsme ho zastihli, jak má hlavu vraženou do komůrky a umývá si nejen ruce, ale oplachuje si i obličej a kloktá. A i když už se vším tím skončil a sjel kolem dokola celý ručník, ještě vytáhl perořízek a vyškrábal si případ zpod nehtů, dřív než si oblékl kabát.
 
 Když jsme vyšli ven na ulici, ploužilo se kolem domu jako obyčejně několik lidí, kteří očividně toužili s ním mluvit; avšak v oparu voňavého mýdla, jenž obestíral jeho osobu, bylo něco tak nezvratného, že se pro ten den svého úmyslu vzdali. Jak jsme se tak ubírali západním směrem, co chvíli se v davu na ulici vyskytla nějaká tvář, která ho poznala, a kdykoli se tak stalo, vždycky na mne zahovořil hlasitěji; ale jinak vůbec nikoho nezdravil, ani nevěnoval pozornost tomu, když někdo pozdravil jeho.
@@ -114,3 +116,5 @@ Vyhlédl z ručníku a zachytil můj pohled.
 „Dobrou noc, pane Jaggersi.“
 
 Asi tak za měsíc po tom vypršela doba Pavoukova pobytu u pana Pocketa a k nesmírné úlevě celého domu, vyjímajíc paní Pocketovou, se odebral domů do rodinné díry.
+
+</section>

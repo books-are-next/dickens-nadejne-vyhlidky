@@ -3,6 +3,8 @@ title: Kapitola padesátá druhá
 contentType: prose
 ---
 
+<section>
+
 S šekem v kapse jsem z Malé Britské zamířil k bratrovi slečny Skiffinsové, účetnímu znalci, a když se bratr slečny Skiffinsové, účetní znalec, odebral rovnou k firmě Clarriker a Clarrikera přivedl za mnou, ke svému velkému uspokojení jsem celou záležitost vyřídil. Byla to jediná dobrá věc, kterou jsem udělal, a jediná dokončená věc, kterou jsem udělal od chvíle, kdy jsem se o svých nadějných vyhlídkách dověděl.
 
 Když mi Clarriker při té příležitosti sdělil, že situace firmy se vyvíjí stále příznivě, takže nyní bude moci na Východě otevřít malý pobočný závod, jehož je naléhavě zapotřebí k dalšímu rozšíření obchodu, a že Herbert ve svém novém postavení společníka tam pojede a ujme se vedení pobočky, uvědomil jsem si, že jsem se měl už dávno připravit na odloučení od přítele, i kdyby mé osobní záležitosti bývaly uspořádanější. A teď jsem vskutku cítil, jako by se uvolňovala moje poslední kotva a já se měl co nevidět stát hříčkou větrů a vln.
@@ -13,11 +15,15 @@ Vkročili jsme zatím již do měsíce března. Moje levá ruka, ačkoli nejevil
 
 Jednou v pondělí ráno, když jsme s Herbertem právě seděli u snídaně, jsem od Wemmicka dostal poštou následující dopis:
 
-  
+</section>
+
+<section>
 
 „Walworth. Spalte ihned po přečtení. Začátkem týdne, nebo řekněme ve středu, můžete podniknout to, o čem víte, máte-li chuť to zkusit. Teď spalte.“
 
-  
+</section>
+
+<section>
 
 Když jsem to ukázal Herbertovi a potom strčil do ohně – ale ne dříve, dokud jsme to oba neuměli nazpaměť –, uvažovali jsme, co počít. Neboť to se rozumí, teď už jsme si nemohli zakrývat, že jsem pro tu chvíli invalidní.
 
@@ -45,11 +51,15 @@ Jakmile jsme si tato bezpečnostní opatření oba dobře zopakovali, šel jsem 
 
 Když jsem si klíčem otevřel vnější dveře našeho bytu, našel jsem ve schránce dopis, adresovaný mně; dopis velmi ušpiněný, třebaže nijak špatně napsaný. Přinesl ho posel, (ovšem až po mém odchodu z domova), a stálo tam:
 
-  
+</section>
+
+<section>
 
 _„Nebojíte-li se přijít dnes nebo zítra večer v devět hodin na stará blata do domku hrázného u vápenky, uděláte dobře, když přijdete. Chcete-li nějaké informace_ o svém strýci Provisovi, _uděláte nejlíp, když přijdete, nikomu nic neřeknete a nebudete ztrácet čas._ Musíte přijít sám. _Toto přineste s sebou.“_
 
-  
+</section>
+
+<section>
 
 Měl jsem hlavu dost plnou těžkých starostí už před tím, než přišel ten podivný dopis. Co si počít teď, to jsem věru nemohl říci. A nejhorší bylo, že jsem se musel rozhodnout rychle, nebo jinak bych zmeškal odpolední dostavník, který by mě tam stačil dovézt včas pro ten večer. Nebylo ani pomyšlení, abych tam jel až zítra večer, protože to by bylo tuze krátce před dobou stanovenou k útěku. A dál, nemohl jsem vědět, nemají-li nabízené informace třebas nějaký důležitý vztah právě k tomu útěku.
 
@@ -96,3 +106,5 @@ Pomyslel jsem si: „A ty, Joe, drahý Joe, ty o tom nemluvíš nikdy. Ty, lá
 Žádná odplata za můj nevděk k Joeovi mě ještě v životě nezasáhla bolestněji než tato fáma nestydatého podvodníka Pumblechooka. Oč falešnější on, o to věrnější Joe; oč podlejší on, o to ušlechtilejší Joe.
 
 Se srdcem hluboce a věru zaslouženě pokořeným jsem u krbu produmal snad hodinu, snad víc. Bití hodin mě vytrhlo, nikoli však z mé skleslosti a výčitek svědomí, a vstal jsem tedy, dal si přehodit plášť a zapnout u krku a vyšel jsem ven. Už předtím jsem hledal v kapsách onen dopis, abych si ho mohl ještě jednou přečíst, ale nemohl jsem ho najít a znepokojovala mě myšlenka, že jsem ho nejspíš vytrousil do slámy v dostavníku. Ale věděl jsem docela dobře, že určené místo je domek hrázného u vápenky na blatech a určená hodina že je devět. Zamířil jsem tedy nyní rovnou na blata, protože času nebylo nazbyt.
+
+</section>
