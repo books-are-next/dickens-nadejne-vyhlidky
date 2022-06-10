@@ -3,9 +3,13 @@ title: Kapitola patnáctá
 contentType: prose
 ---
 
+<section>
+
 Začínal jsem být pomalu už tuze velký pro světnici páně Wopslovy pratety, a moje učení pod vedením té zpozdilé babky proto skončilo. Ne však dříve, než se Biddy se mnou podělila o všechno, co znala sama, od sešitkového ceníku až po veselou písničku, kterou si koupila za půlpenci. Ačkoli jedinou souvislou částí posledně jmenovaného literárního výplodu byly počáteční řádky:
 
-  
+</section>
+
+<section>
 
 „Když já do Londýna jel, páni,
 
@@ -19,7 +23,9 @@ tú – rul, lú – rul,
 
 tú – rul, lú – rul!“,
 
-  
+</section>
+
+<section>
 
 přesto jsem se v touze po větší moudrosti s krajní vážností naučil tuto skladbu nazpaměť; také si ani nevzpomínám, že bych kdy byl zapochyboval o její hodnotě, až na to, že jsem myslel (jak si myslím až dodneška), že toho tú-rul je v poměru k počtu verši poněkud mnoho. Ve své lačnosti po poučení jsem opětovně žádal pana Wopsla, aby mě podaroval nějakými drobty vzdělání, k čemuž se vskutku také laskavě uvolil. Poněvadž se však ukázalo, že ve mně hledá pouze divadelního panáka, s kterým by se mohl přít a objímat ho a lkát nad ním a dštít na něj hrůzu a nejrůznějším způsobem se na něho sápat, bodat ho a otloukat, brzy jsem se tohoto vzdělávacího kurzu zřekl – třebaže ne dříve, dokud mě pan Wopsle ve svém básnickém rozběsnění těžce nepohmoždil.
 
@@ -206,3 +212,5 @@ Utíkali jsme příliš rychle, než abychom mohli hovořit víc, a nezastavili
 * * *
 
 [1](./resources/undefined) Čti doldž. Zkomoleno z italského „dolce“ (čti dolče), jež znamená sladký, milý, jemný. Pozn. překl.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola třicátá šestá
 contentType: prose
 ---
 
+<section>
+
 Herbert a já jsme si vedli stále hůř a hůř v tom, jak jsme zabředali do nových a nových dluhů, zkoumali svou finanční situaci, nechávali si rezervu a prováděli podobné znamenité transakce. A čas si vedl svou, ať bylo jak bylo, a jak už je jeho zvykem, ubíhal. A já dosáhl plnoletosti – a naplnil tím Herbertovu předpověď, že k tomu dojde, dřív než se naděju.
 
 Herbert dosáhl plnoletosti osm měsíců přede mnou. Poněvadž neměl nic jiného co získat než svou zletilost, nevzbudila ta událost v Barnardově dvoře žádný velký rozruch. Ale moje jedenadvacáté narozeniny jsme vyhlíželi se spoustou dohadů a předtuch, protože jsme oba soudili, že se můj poručník stěží může vyhnout tomu, aby mi v ten den řekl něco určitého.
@@ -152,3 +154,5 @@ Byl bych mu mohl do úst hodit celé noviny, tak široce je roztáhl, když doml
 Tento rozhovor jsme vedli tlumeným hlasem, protože jsme dobře věděli, že můj poručník má ze všech uší ty nejtenčí. Když se nyní objevil ve dveřích svého pokoje a dřel si ruce ručníkem, oblékl si Wemmick plášť a čekal, aby mohl zhasit svíce. Všichni tři jsme vyšli společně na ulici a u domovního prahu zamířil Wemmick svou cestou a pan Jaggers a já jsme zamířili svou.
 
 Nejednou jsem se toho večera neubránil přání, aby pan Jaggers tak měl v Gerrard Street nějakého Dědu nebo nějakého „pašáka“ nebo Něco či Někoho, co by mu trochu vyjasnilo to zachmuřené čelo. Bylo to v den jedenadvacátých narozenin věru neutěšené pomyšlení, že nestojí skorem vůbec za námahu dosáhnout plnoletosti v takovém opatrném a podezíravém světě, jakým ho dělá on. Byl tisíckrát vzdělanější a chytřejší než Wemmick, a přesto bych býval měl u nás na oběd tisíckrát raději Wemmicka. A pan Jaggers nenakazil hlubokou zádumčivostí jedině mne, protože když odešel, Herbert s očima upřenýma do ohně o sobě řekl, že má dojem, že musel spáchat nějaký zločin a zapomenout na jeho podrobnosti, tak se prý cítí sklíčený a provinilý.
+
+</section>

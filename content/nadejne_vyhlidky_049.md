@@ -3,6 +3,8 @@ title: Kapitola čtyřicátá pátá
 contentType: prose
 ---
 
+<section>
+
 Jen jsem tu výstrahu dočetl, ihned jsem se obrátil k bráně Templu zády a pospíšil co nejrychleji do Fleet Street, a tam jsem sehnal opoz­dilou nájemnou dvoukolku a odjel do hotelu V lázních na Covent Garden. V těch dobách tam bylo vždycky možno dostat nocleh v kteroukoli hodinu noční a pokojský, který mě svými ochotnými dvířky pustil dovnitř, zapálil svíčku, která byla právě na řadě na jeho poličce, a rovnou mě uvedl do pokoje. Byla to jakási krypta v přízemí vzadu do dvora a v ní stála sloupková postel, hotový tyranský netvor rozkročený přes celou místnost, který stál jednou ze svých despotických noh v krbu a druhou ve dveřích a se spravedlností přímo bohorovnou utiskoval ubohé, nanicovaté umyvadélko.
 
 Protože jsem si vyžádal noční světlo, pokojský mi přinesl, dřív než mě nechal o samotě, obligátní lojový knůtek oněch starých poctivých časů – předmět podobný duchu vycházkové hůlky, který si okamžitě zlomil páteř, dotkl-li se ho někdo, o který se jaktěživo nedalo nic zapálit a který úpěl v samovazbě na dně vysoké plechové věže, proděravěné kulatými střílnami, jež házely po stěnách pravidelný vzorek mihotavých kol. Když jsem zalezl do postele a s rozbolenýma nohama, utrmácený a nešťastný jsem tam ležel, shledal jsem, že nemohu zavřít oči o nic snadněji, než mohu zavřít oči toho směšného argusa. A tak v ponurosti a mrtvosti noci jsme civěli jeden na druhého.
@@ -114,3 +116,5 @@ V úplné beznaději, že by se mi podařilo Wemmickovi vysvětlit svůj názor
 „Dobře, Jene, dobře, hochu!“ zapípal stařeček z vedlejšího pokoje.
 
 Za chviličku jsem před Wemmickovým krbem usnul a Děda a já jsme potom příjemně užívali vzájemné společnosti tím, že jsme před krbem usínali víceméně celý den. K obědu jsme měli vepřovou pečínku se zeleninou vypěstovanou na latifundiu a já přikyvoval Dědovi s přátelskou horlivostí, kdykoli jsem právě netloukl špačky. Když se docela setmělo, opustil jsem Dědu, který zrovna chystal oheň k opékání topinek, a podle počtu čajových šálků, jakož i podle jeho pohledů na dvojí dvířka ve stěně jsem usoudil, že očekává i slečnu Skiffinsovou.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola pátá
 contentType: prose
 ---
 
+<section>
+
 Nenadálý příchod čety vojáků a zařinčení, s nímž spustili pažby nabitých mušket na náš práh, způsobily, že hosté vstali ve zmatku od stolu a že kovářka, která se právě s prázdnýma rukama vracela do kuchyně, strnula na místě a vypoulila oči s užaslým nářkem: „Má ty dobroto přesvatá, kam se – poděla – ta sekaná?“
 
 Seržant a já jsme byli v kuchyni, když se kovářka tak vyjeveně zarazila, a já v té kritické chvíli opět nabyl jisté vlády nad smysly. Byl to právě seržant, kdo na mne promluvil, a ten se nyní rozhlížel po společnosti, v pravé ruce proti ní vybízivě napřahoval pouta a levou spočíval na mém rameni.
@@ -148,3 +150,5 @@ Můj trestanec se na mne, kromě toho jediného pohledu předtím, už víckrát
 „Ví Bůh, že vám ji přeju – pokud vůbec kdy byla moje,“ odpověděl Joe s omluvnou vzpomínkou na kovářku. „Nevíme, co jste komu udělal, ale stejně bysme vás za to nebyli nechali zajít hlady, náš ubohý spolubližní. – Co říkáš, Pipe, nechali?“
 
 To něco, čeho jsem si povšiml dříve, škytlo mužovi opět v hrdle, a odvrátil se zády. Člun se právě vrátil, mužova eskorta čekala připravena, a doprovodili jsme ho tedy na přístavní můstek, postavený z hrubých kůlů a kamenů, a viděli jsme, jak ho strkají do člunu obsazeného u vesel posádkou z trestanců, jako byl on. Nikdo se nezdál překvapený, že ho vidí, nikoho zjevně nezajímalo, že ho vidí, nikdo nejevil radost, že ho vidí, ani lítost, že ho vidí, a nikdo nepromluvil slůvko, až na to, že kdosi v člunu zavrčel jako na psy: „_Hněte sebou!_“, což byl rozkaz, aby veslaři zabrali. V záři pochodní jsme spatřili černou masu galeje pohupovat se kousek opodál od bahnitého břehu jako bohaprázdnou archu Noemovu. Zatarasená a zamřížovaná a zakotvená mohutnými rezavými řetězy, připadala ta vězeňská loď mým dětským zrakům stejně spoutaná okovy jako její vězňové. Viděli jsme člun přirazit ze strany ke galeji a viděli jsme, jak mého trestance vyvádějí po boku nahoru, až nám zmizel z očí. Potom zbytky pochodní, odhozené přes palubu, dopadly syčivě do vody a zhasly, jako by s ním byl navždy konec.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola dvacátá devátá
 contentType: prose
 ---
 
+<section>
+
 Časně ráno jsem byl vzhůru a venku. Bylo ještě tuze brzo, abych mohl jít k slečně Havishamové, proto jsem se zatoulal do kraje na té straně města, kde slečna Havishamová bydlela – což nebyla strana Joeova; tam jsem mohl jít zítra –, a přemýšlel jsem o své příznivkyni a maloval si duhovými barvami, jaké se mnou má plány.
 
 Estellu adoptovala, mne vlastně skorem adoptovala také, a nemůže být tedy jinak, než že má v úmyslu svést nás dohromady. Ponechává pro mne, abych ten pustý dům obnovil, vpustil do tmavých pokojů slunce, uvedl do chodu hodiny a roztopil studené krby, strhal pavučiny, vyhubil cizopasnou havěť – zkrátka abych vykonal všechny skvělé činy mladého rytíře z pohádky a oženil se s princeznou. Když jsem šel kolem domu, zastavil jsem se, abych se na něj podíval, a jeho vypráhlé zdi z červených cihel, zabedněná okna a mohutný zelený břečťan, obepínající svými větvemi a šlahouny jako žilnatými stařeckými pažemi i řady komínů, spřádaly velkolepé vábné tajemství, jehož hrdinou jsem byl já. Estella byla samozřejmě jeho duší i středem. Ačkoli si mě tak silně podmanila, ačkoli se moje fantazie i naděje tolik upínaly na ni, ačkoli její vliv na můj chlapecký život i charakter byl věru všemocný, ani toho romantického rána jsem ji nepřikrašloval žádnými jinými vlastnostmi, než jaké vskutku měla. Uvádím to na tomto místě naprosto záměrně, poněvadž to je klíč, s jehož pomocí mě lze sledovat do mého bědného labyrintu. Podle mé zkušenosti nemůže být konvenční představa o zamilovaných pokaždé pravdivá.
@@ -248,3 +250,5 @@ Hráli jsme do devíti hodin a pak bylo ujednáno, že až Estella pojede do Lo
 Můj poručník nocoval u Kance v pokoji, který sousedil s mým. Dlouho do noci mi v uších zněla slova slečny Havishamové: „Miluj ji, miluj ji, miluj ji!“ Přizpůsobil jsem si je, abych je mohl opakovat sám, a koliksetkrát jsem řekl do polštáře: „Miluju ji, miluju ji, miluju ji!“ Potom mě zachvátila vlna vděčnosti, že je přisouzena mně, kdysi kovářskému učni. Potom mě napadlo, není-li doposud – jak jsem se obával – za takové přisouzení rozhodně nijak nadšeně vděčná, kdy se asi začne o mne zajímat? Kdy v ní asi probudím to srdce, které je dosud němé a spí?
 
 Ach Bože! Domníval jsem se, že to jsou vznešené a ušlechtilé pocity. Ale vůbec jsem nepomyslel, že by v mém vyhýbání se Joeovi bylo něco nízkého a špatného; nepomyslel, protože jsem věděl, že by jím pohrdala. Uplynul teprve jediný den, a již mi Joe vehnal slzy do očí; ale kéž mi Bůh odpustí, oschly brzy, brzičko!
+
+</section>

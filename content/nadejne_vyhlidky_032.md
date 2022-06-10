@@ -3,6 +3,8 @@ title: Kapitola dvacátá osmá
 contentType: prose
 ---
 
+<section>
+
 Bylo jasné, že na druhý den musím odjet do našeho městečka, a v prvním návalu kajícnosti mi bylo stejně jasné, že musím zůstávat u Joea.
 
 Ale když jsem si zajistil místo na kozlíku zítřejšího dostavníku a zašel si za panem Pocketem a zase se vrátil, nebyl jsem o druhé nutnosti již nijak pevně přesvědčen a začal jsem si vymýšlet důvody a hledat omluvy pro ubytování u Modrého kance. V Joeově domácnosti bych byl na obtíž; nečekají mě a neměl bych přichystanou postel; byl bych tuze daleko od slečny Havishamové a ta je puntičkářsky přísná a třeba by se jí to nezamlouvalo.
@@ -90,3 +92,5 @@ Kavárna u Modrého kance byla prázdná a já si v ní nejenom objednal obě
 „Ve věci nedávného romantického povznesení osudu jistého mladého dovedného řemeslníka v železe z našeho okolí (mimochodem, jaký to námět pro magické pero našeho až dosud nikoli všeobecně uznávaného spoluměšťana Toobyho, básníka našich koutků!) se naši čtenáři jistě nikoli bez zájmu dovědí, že nejdávnějším příznivcem, společníkem a přítelem onoho mladíka je vysoce vážený muž nikoli zcela stranou stojící od obchodu s obilím a semeny, jehož výjimečně příhodné a pohodlné prodejní místnosti se nacházejí uvnitř stamílového okruhu od Hlavní třídy. Neděje se tak zcela bez zřetele na naše osobní cítění, chováme-li v paměti Jeho co Mentora našeho mladého Télemacha, neboť je dobře vědět, že naše město vydalo strůjce štěstí osoby posledně jmenované. Táže se snad myšlením svraštělé čelo místního Mudrce či bleskný zrak místní Krásky, čího štěstí? Domníváme se, že Quentin Matsys byl antverpským _kovářem_. Moudr. nap.“
 
 Chovám přesvědčení založené na bohaté zkušenosti, že kdybych se byl ve dnech svého blahobytu vypravil na severní točnu, byl bych se tam jistě setkal s někým, ať s kočovným Eskymákem nebo s civilizovaným člověkem, který by mi byl řekl, že Pumblechook byl můj nejdávnější příznivec a strůjce mého štěstí.
+
+</section>

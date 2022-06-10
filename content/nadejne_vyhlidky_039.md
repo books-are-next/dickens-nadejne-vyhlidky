@@ -3,6 +3,8 @@ title: Kapitola třicátá pátá
 contentType: prose
 ---
 
+<section>
+
 Bylo to poprvé, co se na mé životní cestě otevřel hrob, a propast, kterou vyhloubil v hladké půdě, byla úžasná. Postava mé sestry v její lenošce u kuchyňského ohně mě pronásledovala dnem i nocí. Že by to místo mohlo vůbec existovat, a ona ne, to byla představa, kterou můj rozum byl jaksi neschopen pochopit, a třebaže mi sestra poslední dobou přicházela na mysl zřídkakdy nebo vůbec ne, míval jsem nyní prapodivný dojem, že přichází proti mně po ulici nebo že každou chvíli zaklepe na dveře. I v mém bytě, s nímž jaktěživo nebyla v pražádné spojitosti, okamžitě zavládla prázdnota smrti a ustavičné zdání, že slyším zvuk jejího hlasu nebo vidím pohyb její tváře či postavy, jako kdyby dosud žila a často tam byla chodila.
 
 Ať se už mé předchozí osudy vyvíjely jakkoli, stěží jsem mohl na sestru vzpomínat s velkou vroucností. Ale myslím, že existuje nával lítosti, jemuž můžeme propadnout i bez velké vroucnosti. Pod jeho vlivem (a možná náhradou za nedostatek něžnějšího citu) se mne zmocnilo prudké rozhořčení proti útočníkovi, který jí připravil tolik utrpení, a cítil jsem, že mít dostatečný důkaz, dovedl bych pomstylačně pronásledovat Orlicka nebo kohokoli jiného až po nejzazší mez.
@@ -124,3 +126,5 @@ Biddy na mne čekala u kuchyňských dveří se džbánečkem čerstvě nadojen
 „Ne, vás to bolet nemusí,“ prosila úplně dojemně, „ať to bolí jenom mne, jestli jsem se zachovala nešetrně.“
 
 A opět se vznášely mlhy, když jsem odcházel. Jestliže mi zjevovaly – jakože se domnívám, že ano –, že se vskutku nevrátím a že Biddy měla plnou pravdu, pak mohu dodat jen tolik: že plnou pravdu měly i ony.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola třicátá třetí
 contentType: prose
 ---
 
+<section>
+
 V cestovním plášti lemovaném kožešinou se krásná Estella zdála ještě půvabnější, než se až doposud kdy zdála i mým očím. Její chování bylo líbeznější, než jak si kdy předtím zamanula se vůči mně chovat, a já se domníval, že v té změně poznávám vliv slečny Havishamové.
 
 Stáli jsme spolu na zájezdním dvoře a ona mi ukazovala, která jsou její zavazadla, a teprve když je měla pohromadě, upamatoval jsem se – neboť jsem zatím zapomněl na všechno kromě ní –, že nevím vůbec nic o cíli její cesty.
@@ -132,3 +134,5 @@ Nasedl jsem do kočáru, aby mě zavezl zpátky do Hammersmithu, a nastoupil-li
 Pan Pocket nebyl doma, měl kdesi přednášku; dovedl totiž přímo skvěle přednášet o vedení domácnosti a jeho pojednání o zacházení s dětmi a služebnictvem platila za vůbec nejlepší rukověti z těchto oborů. Ale paní Pocketová doma byla, a to v situaci trochu svízelné, neboť miminko, aby po dobu neodpovědné nepřítomnosti Millersové (s příbuznými od pěší gardy) nekřičelo, dostalo na hraní jehelníček. A nyní chybělo víc jehel, než se dalo považovat za docela zdravé pro pacienta věku tak útlého, ať jich už užil zevně nebo jako tonikum vnitřně.
 
 Poněvadž pan Pocket po právu slynul pověstí, že poskytuje vskutku znamenité praktické rady a má o všech věcech jasný a zdravý pojem, jakož i vysoce prozíravý úsudek, už mě při mém rozboleném srdci napadlo, že ho poprosím, smím-li se mu svěřit. Ale jak jsem tak náhodou vzhlédl a uviděl paní Pocketovou, kterak si sedí a studuje svůj šlechtický almanach, když předtím jako univerzální lék pro miminko naordinovala postýlku, pomyslel jsem si: „Hm – ne, raději ne.“
+
+</section>

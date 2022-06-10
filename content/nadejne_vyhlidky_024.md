@@ -3,6 +3,8 @@ title: Kapitola dvacátá
 contentType: prose
 ---
 
+<section>
+
 Cesta z našeho města do metropole trvala asi pět hodin. Bylo něco málo po poledni, když se čtyřspřežní dostavník, který mě vezl jako pasažéra, dostal do spleti dopravy, rozhemžené kolem Zkřížených klíčů ve Woodstreet u Cheapside v Londýně.
 
 My Britové jsme tenkrát byli obzvlášť pevně zajedno v tom, že je velezrádné pochybovat, že máme všechno nejlepší a jsme ze všech nejlepší; jinak, ačkoli mě nesmírnost Londýna děsila, bych myslím třeba byl docela malinko pochyboval, není-li Londýn vlastně notně šeredný, křivolaký, stěsnaný a špinavý.
@@ -148,3 +150,5 @@ Potom mě můj poručník zavedl k sobě do pokoje, a mezitímco se vstoje pos
 Když jsem si chviličku o tomto povzbudivém úsudku pouvažoval, zeptal jsem se pana Jaggerse, mohu-li si poslat pro drožku. Odpověděl, že to nestojí za to, protože jsem tuze blízko svého cíle; je-li mi libo, dovede mě tam prý Wemmick.
 
 Tehdy jsem poznal, že Wemmick je ten písař ve vedlejší místnosti. Zazvonili nahoru na jiného písaře, aby sešel dolů a zastupoval ho, zatímco bude pryč, a já si potřásl se svým poručníkem rukou a potom jsem doprovázel písaře ven na ulici. Venku jsme spatřili postávat nový hlouček lidí, ale Wemmick si proklestil cestu mezi ně tím, že řekl klidně, ale rozhodně: „Povídám vám, že to nemá smysl – ani pro jednoho z vás nebude mít slovíčko.“ A zakrátko jsme se jich zbavili a bok po boku jsme šli spolu dál.
+
+</section>

@@ -3,13 +3,19 @@ title: Kapitola třicátá druhá
 contentType: prose
 ---
 
+<section>
+
 Jednoho dne, kdy jsem se pilně zabýval knihami a panem Pocketem, jsem poštou dostal psaní, jehož pouhý zevnějšek mě uvrhl do silného vzrušení – neboť ačkoli jsem ještě nikdy neviděl rukopis, kterým byla psána adresa, vytušil jsem, čí ruka to je. Sdělení nezačínalo žádným ustáleným oslovením, jako Milý pane Pipe, nebo Milý Pipe, nebo Vážený pane, nebo Milý nevímco, ale znělo takto:
 
-  
+</section>
+
+<section>
 
 „Pozítří mám poledním dostavníkem přijet do Londýna. Bylo myslím ujednáno, že mi přijdete naproti, je to správné? Buď jak buď, slečna Havishamová ten dojem má a já píši na její přání. Posílá Vám pozdrav. – Vaše Estella.“
 
-  
+</section>
+
+<section>
 
 Kdyby na to bývalo dost času, byl bych si pro tu událost pravděpodobně dal ušít několik obleků; ale čas nebyl a já se musel spokojit s těmi, které jsem měl. V mžiku jsem ztratil všechnu chuť k jídlu, a dokud ten den nenastal, nepoznal jsem chviličku klidu ani odpočinku. Ne že by mi jeho příchod byl přinesl to či ono, poněvadž pak jsem na tom byl ještě hůř než předtím, a začal jsem se potulovat kolem dostavníkové stanice ve Wood Street u Cheapside, ještě než dostavník vůbec od Modrého kance v našem městečku vyjel. Ačkoli jsem to úplně dobře věděl, přese všechno jsem měl pocit, jako by nebylo docela jisté pouštět dostavníkovou stanici z očí na delší dobu než vždy na pět minut; a v tomto pošetilém duševním stavu jsem absolvoval první půlhodinu ze své čtyřhodinové nebo pětihodinové hlídky, když vtom se proti mně znenadání vynořil Wemmick.
 
@@ -98,3 +104,5 @@ Zchytralost mého poručníka na mne učinila, a to nikoli poprvé, velmi hlubo
 S panem Wemmickem jsem se rozloučil před písárnou v Malé Britské, kde jako obyčejně postávali pokorní uchazeči o páně Jaggersovo povšimnutí, a vrátil jsem se na svou hlídku do ulice s dostavníkovou stanicí ještě stále asi s třemi hodinami času k dobru. Celou tu dobu jsem strávil přemýšlením, jak je to divné, že mě ustavičně musí obklopovat všechna ta špína vězení a zločinu; že jsem se s ní musel prvně setkat už hned v dětství za jednoho zimního večera venku na našich osamělých blatech; že se musela znovu objevit ve dvou dalších případech, kdy vyvstala jako skvrna sice vybledlá, ale nikoli zmizelá; že musí i tímhle novým způsobem stále prolínat můj osud a životní vzestup. Mezitímco se moje mysl obírala těmito úvahami, myslel jsem i na krásnou mladou Estellu, pyšnou a uhlazenou, jak mi jde vstříc, a s propastným odporem jsem myslel na kontrast mezi ní a vězením. Přál jsem si, abych se nebyl s Wemmickem vůbec setkal, nebo abych mu nebyl povolil a nešel s ním, tak abych jako z udělání neměl právě v ten den dech i šaty nasáklé newgateským vězením. Jak jsem se tak volně procházel sem a tam, sklepával jsem si vězeňský prach z nohou a vytřásal jsem si ho ze šatů a vyfukoval jsem jeho pach z plic. Při tom, jak mi paměť neustále připomínala, kdo to má přijet, jsem se cítil tak pošpiněný, že dostavník nakonec přijel brzy, a já se dosud nezbavil poskvrňujícího vědomí o existenci páně Wemmickova skleníku, když jsem v okně dostavníku spatřil její tvář i její ruku, kterak mi mává.
 
 Co to jen bylo za bezejmenný stín, který se v tom jediném okamžiku opět mihl kolem?
+
+</section>

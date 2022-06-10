@@ -3,6 +3,8 @@ title: Kapitola dvacátá sedmá
 contentType: prose
 ---
 
+<section>
+
 „Milý pane Pipe,
 
 tohle píšu na žádost pana Gargeryho, abych Vám dala vědět, že spolu s panem Wopslem jedou do Londýna a byl by rád, jestli se Vám to bude hodit, kdybyste mu dovolil, aby Vás navštívil. V úterý ráno v devět hodin by se zastavil v Barnardově hotelu, kdyby se Vám to nehodilo, napište prosím. Chudinka Vaše sestra je na tom pořád stejně, jako když jste odjížděl. Každý večer o Vás v kuchyni mluvíme a jsme zvědaví, co říkáte a děláte. Kdyby Vám to teď připadalo jako dovolenost, omluvte to z lásky k chudobným starým časům. Víc už nic, milý pane Pipe, od
@@ -11,7 +13,9 @@ _Vaší stále vděčné a oddané služebnice Biddy._
 
 Douška. Přeje si zvlášť výslovně, abych napsala teprv legrace. Říká, že už budete rozumět. Doufám a nepochybuji, že Vám bude vhod se s ním vidět, třeba jste pán, protože jste měl odjakživa dobré srdce a on je zlatý, zlatý člověk. Přečtla jsem mu všechno, jenom ne tu poslední větičku, a on si přeje zvlášť výslovně, abych napsala ještě jednou teprv legrace.“
 
-  
+</section>
+
+<section>
 
 Tento dopis jsem dostal poštou v pondělí ráno, a proto schůzka platila pro příští den. Dovolte mi, abych poctivě přiznal, s jakými pocity jsem hleděl vstříc Joeově návštěvě.
 
@@ -136,3 +140,5 @@ Naše oči se setkaly a veškerá „pane“ se rozplynula ve vřelosti toho mu
 „Pipe, chlapče milá zlatá, život se skládá ze samých loučení svařených dohromady, abych se tak vyjádřil, a jeden člověk má řemeslo černé a jiný bílé a jiný zlaté a jiný stříbrné. Rozdíly mezi takovými se musejí objevit a je třeba je brát, jak se objeví. Jestli se tady dneska vůbec stala nějaká chyba, tak je moje. Ty a já nejsme dva takoví, co bychom spolu mohli být pohromadě v Londýně – a ani nikde jinde, leda tak v soukromí jako lidi, co se znají a rozumějí si jako kamarádi. Ne proto, že bych byl hrdý, ale že chci jednat správně, proto mě už víckrát v životě v těchhle šatech neuvidíš. V těchhle šatech nejsem svůj. Jinde než v kovárně, v kuchyni nebo tam venku na blatech nejsem svůj. Nenajdeš na mně ani zpolovice tolik chyb, když si mě představíš v mém kovářském oblečení v ruce s kladivem nebo i s tou mou faječkou. Nenajdeš na mně ani zpolovice tolik chyb, pakliže bys mě chtěl někdy vidět, když přijdeš a strčíš hlavu do okna u kovárny a uvidíš tam Joea kováře u té staré kovadliny, v té staré propálené zástěře, jak se drží své staré práce. Jsem ukrutně hloupý, ale doufám, že tentokrát jsem konečně v téhle věci trefil hodně blízko k pravdě. A tak ti žehnej Bůh, můj milý Pipe, chlapče zlatá, žehnej ti Bůh!“
 
 Nemýlil jsem se ve své domněnce, že v něm je jistá prostá důstojnost. Střih jeho šatu ji nemohl zastřít o nic víc, když pronášel tato slova, než by ji u něho mohl zastřít v nebi. Polaskal mě lehce na čele a odešel. Jen jsem se stačil sdostatek vzpamatovat, hned jsem vyběhl ven za ním a hledal ho v okolních ulicích – byl však už pryč.
+
+</section>

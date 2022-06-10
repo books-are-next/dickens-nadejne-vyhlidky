@@ -3,6 +3,8 @@ title: Kapitola třicátá
 contentType: prose
 ---
 
+<section>
+
 Když jsem si ráno mezi oblékáním u Modrého kance věc dobře rozvážil, rozhodl jsem se, že poručníkovi povím o svých pochybách, je-li Orlick ten pravý člověk, aby zaujímal důvěryhodné postavení v domě slečny Havishamové.
 
 „Ale ovšem, Pipe, samozřejmě to není ten pravý člověk,“ pravil můj poručník, již předem v hlavním bodě příjemně uspokojený, „protože člověk, který zaujímá důvěryhodné postavení, není nikdy ten pravý člověk.“ Zjištění, že právě toto postavení nezastává ten pravý člověk, ho přivedlo do docela dobré nálady, jak se zdálo, a s uspokojením poslouchal, zatímco jsem mu vyprávěl všechno, co jsem o Orlickovi věděl. „Výborně, Pipe,“ prohlásil, když jsem skončil, „hned tam zajdu a našeho přítele vyplatím.“ Tento krátký proces mě značně znepokojil, a přimlouval jsem se proto za menší odklad a dokonce jsem naznačil, že s naším přítelem bude možná obtížné jednání. „Ale kdepak, nebude,“ odpověděl mi poručník a s naprostou sebedůvěrou rozehrál svůj výmluvný kapesník, „rád bych ho viděl, jak se v té věci hádá _se mnou._“
@@ -152,3 +154,5 @@ Když se ještě jednou ze srdce zasmál, znovu pokrotl a prozradil mi, že má
 Jak jsme tak hleděli do ohně a já při tom přemítal, jaký to je někdy svízelný výhled, realizovat zmíněný kapitál, strčil jsem si ruce do kapes. V jedné z nich upoutal mou pozornost složený kus papíru, a když jsem ho rozevřel, poznal jsem, že to je divadelní plakátek, který jsem dostal od Joea a který ohlašuje vystoupení proslulého krajinského ochotníka Rosciova věhlasu. „A namoutě duchu,“ dodal jsem bezděky nahlas, „vždyť je to dnes večer!“
 
 To rázem změnilo směr hovoru a přimělo nás k spěšnému rozhodnutí, že se půjdeme na to představení podívat. A tak, když jsem ještě Herbertovi slíbil, že ho budu v záležitosti jeho srdce všemi proveditelnými i neproveditelnými způsoby utěšovat a podporovat, a když mi Herbert prozradil, že mě jeho snoubenka z řeči už zná a že mne jí představí, a když jsme si na dotvrzení vzájemné důvěry vřele potřásli rukou, sfoukli jsme svíčky, prohrábli oheň, zamkli dveře a vydali jsme se na cestu s cílem vyhledat pana Wopsla a Dánsko.
+
+</section>

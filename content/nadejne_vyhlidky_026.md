@@ -3,6 +3,8 @@ title: Kapitola dvacátá druhá
 contentType: prose
 ---
 
+<section>
+
 Bledolící mladý pán a já jsme stáli v Barnardově dvoře proti sobě a prohlíželi se navzájem, až jsme oba propukli v smích. „Ta myšlenka, že to jste vy!“ zvolal. „Ta myšlenka, že to jste _vy_!“ zvolal jsem já. A znovu jsme se navzájem prohlíželi a opět jsme se rozesmáli.
 
 „No,“ pravil bledolící mladý pán a vesele mi podával ruku, „to všechno je pryč, doufám, a bude to od vás velkodušné, jestliže mi odpustíte, že jsem vám tak natloukl.“
@@ -226,3 +228,5 @@ Millersová, což byla druhá chůva, se odebrala do domu a dětský nářek se
 Paní Pocketová se zachovala podle pokynu a s nezkušenou nešikovností dělala s robátkem na klíně tanyny, zatímco ostatní děti je laškovně obskakovaly. To však trvalo jen velmi krátkou dobu, neboť paní Pocketová náhle vydala rozkaz, aby chůvy odvedly všechny děti nahoru a nechaly je prospat. Takto jsem hned při první návštěvě učinil již druhý objev, že odchov malých Pocketčat se skládá ze střídavého kutálení a ležení.
 
 Když Flopsonová a Millersová zahnaly děti do domu jako stádečko ovcí a pan Pocket vyšel z domu, aby se se mnou seznámil, nijak zvlášť mě za daných okolností nepřekvapilo poznání, že pan Pocket je pán s poněkud zmateným výrazem ve tváři a se silně šedivými vlasy rozcuchanými po celé hlavě, jako by si dost dobře nevěděl rady, jak co uvést do patřičného pořádku.
+
+</section>

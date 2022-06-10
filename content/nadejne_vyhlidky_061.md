@@ -3,6 +3,8 @@ title: Kapitola padesátá sedmá
 contentType: prose
 ---
 
+<section>
+
 Když jsem teď zůstal odkázaný úplně sám na sebe, ohlásil jsem svůj úmysl vystěhovat se z bytu v Templu ihned, jakmile můj nájem podle nejkratší výpovědní lhůty zákonně vyprší, a mezitím dát byt do podnájmu. Okamžitě jsem do oken vyvěsil cedule, protože jsem byl zadlužený a neměl jsem už skorem vůbec žádné peníze a stav mých záležitostí mě začal vážně zneklidňovat. Měl bych spíš napsat, že by mě byl zneklidňoval, kdybych býval měl dost energie a schopnosti se soustředit, aby mi pomohly jasně si uvědomit také nějakou jinou pravdu kromě faktu, že na mne jde nějaká těžká nemoc. Nedávné vypětí sil pod tíhou starostí mi pomohlo nemoc oddálit, ale nikoli odvrátit; věděl jsem, že teď na mne přichází, a jiného jsem věděl moc málo, ba dokonce mi to bylo všechno jedno.
 
 Několik dní jsem proležel na pohovce nebo na podlaze – kdekoli, kde jsem se náhodou právě složil – s těžkou hlavou a s bolavými údy a beze vší vůle a beze vší síly. Pak jednou nadešla noc, která se zdála strašně dlouhá a která překypovala úzkostmi a hrůzami – a když jsem se ráno pokusil v posteli posadit a přemýšlet o ní, shledal jsem, že to nedokážu.
@@ -207,7 +209,9 @@ Když jsem ráno vstal, osvěžený a opět silnější, překypoval jsem rozho
 
 Pospíchal jsem tedy ke stolu, kde jsme snídali, a na něm jsem našel dopis. Jeho krátký obsah zněl takto:
 
-  
+</section>
+
+<section>
 
 Nerad bych obtěžoval a tak jsem odjel, ančto jsi už zase zdravý, Pipe milá, a bude ti líp bez
 
@@ -215,7 +219,9 @@ _Joea._
 
 Douška. Vždycky nejlepší kamarádi.
 
-  
+</section>
+
+<section>
 
 Jako přílohu jsem v dopise našel stvrzenku na dlužné peníze i výlohy, pro které mě zatkli. Až do toho okamžiku jsem se jalově domníval, že můj věřitel stáhl žalobu nebo odložil vymáhání, dokud se úplně neuzdravím. Ani ve snu mě nenapadlo, že by ten dluh byl zaplatil Joe; ale Joe ho zaplatil a stvrzenka zněla na jeho jméno.
 
@@ -224,3 +230,5 @@ Co mi nyní zbývalo jiného než rozjet se za ním do té milé staré kovárny
 A ten úmysl byl, že půjdu k Biddy, že jí ukážu, jak se vracím pokořený a kající, že jí vypovím, jak jsem ztratil všechno, v co jsem kdysi doufal, že jí připomenu naši dávnou důvěrnost za mých prvních nešťastných dnů. A potom že jí řeknu: „Myslím, Biddy, že jsi mě kdysi měla hodně ráda, zrovna tehdy, když mému pobloudilému srdci, třebaže se právě zatoulalo od tebe, bylo u tebe pokojněji a líp, než jak mu kdy bylo od těch časů. Jestli mě můžeš mít ještě jednou jen zpolovice tak ráda, jestli mě můžeš brát i se všemi mými chybami a zklamáními, za které nesu vinu, jestli mě můžeš přijmout jako dítě hodné odpuštění (a opravdu, Biddy, právě tolik jsem lítostivý a právě tolik mám zapotřebí chlácholivý hlas a konejšivou ruku), pak doufám, že jsem teď maličko hodnější, než jsem býval – ne mnoho, ale maličko. A Biddy, bude úplně na tobě, abys řekla, jestli mám jít pracovat do kovárny s Joem, nebo jestli se mám pokusit o jakékoli jiné zaměstnání tady u nás v zemi, nebo jestli spolu odjedeme do dalekého kraje, kde na mne čeká pěkná příležitost, kterou jsem prozatím odložil, když mi ji nabídli, dokud nebudu znát tvou odpověď. A teď, drahá Biddy, jestli mi můžeš říci, že půjdeš světem se mnou, určitě z něho uděláš lepší svět pro mne a ze mne lepšího člověka pro něj a já se ze všech sil vynasnažím udělat z něho lepší svět pro tebe.“
 
 Takový byl můj úmysl. Vyhradil jsem svému zotavování ještě další tři dny a potom jsem se rozjel do starého domova, abych to uvedl ve skutek. A jak jsem pořídil, to je všechno, co mi zbývá vypovědět.
+
+</section>

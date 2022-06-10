@@ -3,6 +3,8 @@ title: Kapitola devatenáctá
 contentType: prose
 ---
 
+<section>
+
 Ráno vneslo do mého celkového výhledu do života značnou změnu a zjasnilo jej takovou měrou, že mi stěží připadal týž. Největší tíha, která mi ležela na srdci, bylo pomyšlení, že mne ode dne odjezdu dělí ještě šest dní; nemohl jsem se totiž zbavit obav, že se mezitím třeba s Londýnem něco stane, a až tam dojedu, že možná bude buď z valné části v sutinách, nebo dočista tentam.
 
 Joe i Biddy jevili velký zájem a byli velmi milí, když jsem mluvil o našem brzkém rozloučení; sami se o něm však zmiňovali jen tehdy, když jsem tak učinil já. Po snídani přinesl Joe z prádelníku v parádním pokoji mou učební smlouvu a hodili jsme ji do ohně a já cítil, že jsem volný. Se srdcem omámeným vší novotou mého propuštění na svobodu jsem šel s Joem do kostela a myslel jsem si, že by farář možná nečetl to místo o bohatci a království nebeském, kdyby všechno tohle věděl.
@@ -227,8 +229,12 @@ Tyto slzy a to, že mi během té tiché cesty vytryskly znovu, mě tak udeptal
 
 Přepřáhli jsme znovu a ještě znovu a pak už bylo tuze pozdě a tuze daleko, abych mohl jít zpátky, a jel jsem tedy dál. A zatím se už velebně vznesla všechna ranní mlha a širý svět ležel přede mnou.
 
-  
+</section>
+
+<section>
 
 TOTO JE KONEC  
 PRVNÍHO ÚDOBÍ  
 PIPOVÝCH VYHLÍDEK.
+
+</section>

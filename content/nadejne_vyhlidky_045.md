@@ -3,6 +3,8 @@ title: Kapitola čtyřicátá první
 contentType: prose
 ---
 
+<section>
+
 Marně bych se pokoušel vylíčit Herbertův údiv a nepokoj, když jsme se on a já a Provis sesedli ke krbu a já mu vyprávěl celé tajemství. Stačí, že jsem v Herbertově tváři viděl zrcadlový odraz svých vlastních pocitů a jako nikoli nejslabší mezi nimi i svůj odpor k člověku, který pro mne tolik učinil.
 
 Nebýt ani žádných jiných okolností, jež by nás dělily, bylo by mezi tím člověkem a námi stačilo vykopat příkop již samo to, s jakou vítězoslávou poslouchal mé vyprávění. Kromě protivného vědomí, že v jednom případě byl po svém návratu „sprostý“ – o čemž začal Herbertovi vykládat, sotva jsem dopověděl své tajemství –, vůbec netušil, že bych mohl na svém šťastném údělu vidět nějaký kaz. Jeho chlouba, že ze mne udělal pána a že se přijel dívat, jak budu z jeho vydatných peněžních prostředků tu úlohu hrát, platila stejnou měrou mně jako jemu. A že to je chlouba nejvýš příjemná nám oběma a že oba musíme na ni být velice hrdí, to byl závěr pevně v jeho mysli zakotvený.
@@ -108,3 +110,5 @@ Přišel v určenou hodinu, vytáhl svůj velký zavírák a usadil se k jíd
 „Budiž!“
 
 Vytáhl svou černou dýmku a chystal se ji nacpat papuánem, ale jak pohlédl na chundel zcuchaného tabáku v dlani, pomyslel si patrně, že by mohl zamotat nit jeho vyprávění. Schoval tabák zase zpátky do kapsy, zarazil si dýmku do knoflíkové dírky na kabátě, s roztaženými prsty se opřel oběma rukama o kolena, a když se na několik němých okamžiků zadíval hněvivě do ohně, stočil konečně pohled na nás a vyprávěl, co následuje.
+
+</section>

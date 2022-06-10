@@ -3,6 +3,8 @@ title: Kapitola třicátá sedmá
 contentType: prose
 ---
 
+<section>
+
 Poněvadž jsem soudil, že nejlepší den k vyslechnutí páně Wemmicko­vých walworthských názorů bude neděle, věnoval jsem hned příští nedělní odpoledne pouti do Hradu. Když jsem došel k opevnění, spatřil jsem na stožáru vlát britskou vlajku a padací most zdvižený; nenechal jsem se však těmito známkami vzdoru a odporu zastrašit, zazvonil jsem u branky a v duchu nejvýš mírumilovném mě vpustil Děda.
 
 „Můj syn, pane,“ řekl stařec, když opět zajistil padací most ve zdvižené poloze, „si vzal nějak do hlavy, že byste mohl náhodou zaskočit, a nechal tady pro vás vzkaz, že se z odpolední procházky vrátí brzo. Je moc přesný ve svých procházkách, ten můj syn, věruže. Je moc přesný ve všem, ten můj syn, věruže.“
@@ -80,3 +82,5 @@ Celou věc jsme prováděli tak šikovně, že Herbert neměl ani nejmenší tu�
 Konečně bylo všechno pod pokličkou a toho dne, kdy Herbert vskutku vstoupil do Glarrikerovy firmy a potom mi, rozpálený radostí a úspěchem, celý večer o tom vykládal, jsem se opravdu docela vážně rozplakal, když jsem odcházel spát s myšlenkou, že moje vyhlídky přece někomu trochu prospěly.
 
 A nyní před mým zrakem vystupuje velká životní událost, okamžik rozhodného obratu v mém životě. Ale dřív než přikročím k jejímu vyprávění a dřív než přejdu ke všem změnám, které z ní vyplynuly, musím jednu kapitolu věnovat Estelle. Nevěnuji tím nijak mnoho námětu, jenž tak dlouho naplňoval mé srdce.
+
+</section>
