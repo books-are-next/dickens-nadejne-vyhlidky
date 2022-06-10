@@ -3,8 +3,6 @@ title: Kapitola třicátá
 contentType: prose
 ---
 
-  
-
 Když jsem si ráno mezi oblékáním u Modrého kance věc dobře rozvážil, rozhodl jsem se, že poručníkovi povím o svých pochybách, je-li Orlick ten pravý člověk, aby zaujímal důvěryhodné postavení v domě slečny Havishamové.
 
 „Ale ovšem, Pipe, samozřejmě to není ten pravý člověk,“ pravil můj poručník, již předem v hlavním bodě příjemně uspokojený, „protože člověk, který zaujímá důvěryhodné postavení, není nikdy ten pravý člověk.“ Zjištění, že právě toto postavení nezastává ten pravý člověk, ho přivedlo do docela dobré nálady, jak se zdálo, a s uspokojením poslouchal, zatímco jsem mu vyprávěl všechno, co jsem o Orlickovi věděl. „Výborně, Pipe,“ prohlásil, když jsem skončil, „hned tam zajdu a našeho přítele vyplatím.“ Tento krátký proces mě značně znepokojil, a přimlouval jsem se proto za menší odklad a dokonce jsem naznačil, že s naším přítelem bude možná obtížné jednání. „Ale kdepak, nebude,“ odpověděl mi poručník a s naprostou sebedůvěrou rozehrál svůj výmluvný kapesník, „rád bych ho viděl, jak se v té věci hádá _se mnou._“

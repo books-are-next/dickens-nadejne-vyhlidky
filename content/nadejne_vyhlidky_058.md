@@ -3,8 +3,6 @@ title: Kapitola padesátá čtvrtá
 contentType: prose
 ---
 
-  
-
 Byl jeden z oněch březnových dnů, kdy slunce svítí horce a vítr vane studeně; kdy ve světle je léto a ve stínu zima. Měli jsme s sebou své tlusté kazajky a já si vzal brašnu. Ze všeho svého pozemského majetku jsem si nevzal nic víc než onu hrstku nezbytností, která byla náplní mé brašny. Kam asi půjdu, co asi budu dělat nebo kdy se asi vrátím, to byly otázky pro mne zhola nezodpověditelné; také jsem si jimi vůbec netrápil hlavu, protože všechno moje myšlení se soustřeďovalo na Provisovo bezpečí. Pouze na ten letmý okamžik, kdy jsem se u dveří zastavil a ohlédl se, jsem zauvažoval, za jakých změněných okolností asi ty pokoje příště uvidím, uvidím-li je vůbec kdy.
 
 Loudavě jsme sešli k tempelským schůdkům a loudavě jsme tam přešlapovali, jako kdybychom se nemohli rozhodnout, máme-li vůbec jít na řeku. Samozřejmě jsem se předtím postaral, aby loďka byla připravená a všechno v pořádku. Po chvilce líčené nerozhodnosti, již neměl kdo pozorovat kromě dvou tří obojživelných tvorů, kteří patřili k našim tempelským schůdkům, jsme nasedli a odrazili; Herbert na přídi, já u kormidla. Byla asi právě nejvyšší voda – půl deváté.

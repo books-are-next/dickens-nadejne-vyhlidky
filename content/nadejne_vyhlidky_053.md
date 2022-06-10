@@ -3,8 +3,6 @@ title: Kapitola čtyřicátá devátá
 contentType: prose
 ---
 
-  
-
 Strčil jsem si lístek slečny Havishamové do kapsy, aby mi mohl posloužit jako omluvný průkaz pro to, že se tak brzy zase objevuji v Satisu, kdyby ji snad její rozmarnost svedla, aby projevila jakékoli překvapení nad mým příchodem, a nazítří jsem se tam opět rozjel dostavníkem. Vystoupil jsem však u hostince Na půl cestě, nasnídal jsem se tam a zbývající vzdálenost jsem urazil pěšky; snažil jsem se totiž dostat se do města bez povšimnutí po osamělých cestách a potom stejným způsobem je zase opustit.
 
 Nejlepší světlo dne už bylo pryč, když jsem kráčel tichými uličkami za Hlavní třídou, oživenými jen ozvěnou. Zřícené kouty, kde staří mnichové kdysi dávno měli refektáře a zahrady a kde tlusté zdi nyní musely sloužit za podporu skromných kůlniček a stájí, byly téměř stejně tiché jako ti staří mnichové ve svých hrobech. Jak jsem tak pospíchal, aby mě nikdo nezpozoroval, zvonková hra na katedrále mi pojednou připadala smutnější a vzdálenější, než jak mi zněla kdy předtím, a stejně i dunění starých varhan mi doléhalo k sluchu jako pohřební hudba. A kavky, které obletovaly šedou věž a houpaly se na vysokých holých stromech převorské zahrady, jako by na mne volaly, že celá ta končina se změnila a že Estella je pryč a odešla odtamtud navždy.

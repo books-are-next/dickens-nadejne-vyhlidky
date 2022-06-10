@@ -3,8 +3,6 @@ title: Kapitola dvacátá druhá
 contentType: prose
 ---
 
-  
-
 Bledolící mladý pán a já jsme stáli v Barnardově dvoře proti sobě a prohlíželi se navzájem, až jsme oba propukli v smích. „Ta myšlenka, že to jste vy!“ zvolal. „Ta myšlenka, že to jste _vy_!“ zvolal jsem já. A znovu jsme se navzájem prohlíželi a opět jsme se rozesmáli.
 
 „No,“ pravil bledolící mladý pán a vesele mi podával ruku, „to všechno je pryč, doufám, a bude to od vás velkodušné, jestliže mi odpustíte, že jsem vám tak natloukl.“

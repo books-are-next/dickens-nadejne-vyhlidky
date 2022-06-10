@@ -3,8 +3,6 @@ title: Kapitola padesátá šestá
 contentType: prose
 ---
 
-  
-
 Po celou dobu od odevzdání porotnímu soudu až po začátek nejbližšího porotního období ležel ve vězení těžce nemocný. Zlomil si dvě žebra a ta mu poranila jednu stranu plic, takže dýchal s velkou bolestí a námahou, která se denně stupňovala. Právě bolestivost jeho zranění byla příčinou, proč mluvil tak tiše, že ho bylo sotva slyšet; proto také mluvil jen velmi málo. Ale byl vždycky ochoten mě poslouchat a stalo se hlavní povinností mého života mu povídat a předčítat, co jsem věděl, že by měl slyšet.
 
 Protože byl přespříliš nemocný, aby mohl zůstat v obecném vězení, někdy hned v prvních dnech ho dopravili do vězeňské nemocnice. To mi poskytlo častou příležitost být s ním, kterou bych jinak nebyl mohl mít. A nebýt jeho nemoci, byli by mu nasadili železa, protože platil za nenapravitelného zarputilce, který notoricky utíká z vězení, a kdoví za co jiného ještě.

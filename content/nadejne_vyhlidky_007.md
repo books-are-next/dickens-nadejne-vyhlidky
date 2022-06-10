@@ -3,8 +3,6 @@ title: Kapitola třetí
 contentType: prose
 ---
 
-  
-
 Bylo jinovaté ráno a sychravě mokré. Viděl jsem tu mokrost lpět už hned na vnější straně svého okénka, jako by tam byl celou noc plakal nějaký skřítek a používal okenní tabulky místo kapesníku. Teď jsem viděl mokrotu lpět na holých keřích a sporé trávě jako nějaké hrubší pavučí; táhla se jíním od větévky k větévce a od stébla k stéblu. Lepkavé mokro lpělo na každičkém břevnu a na každé brance a mlha z blat byla tak hustá, že jsem dřevěnou šipku na kůlu, která lidem ukazovala směr k naší vesnici – směr, jímž se nikdy neřídili, protože k nám jaktěživo nikdo nechodil –, vůbec neviděl, dokud jsem se neoctl až těsně pod ní. Když jsem k ní pak zdvihl oči, tu, jak z ní kapalo, připadala mému stísněnému svědomí jako přízrak, který mě zatracuje na galeje.
 
 Jakmile jsem doběhl na volná blata, mlha ještě zhoustla, takže místo abych se já hnal proti všemu, všechno jako by se hnalo proti mně. To bylo pro provinilcovu mysl velmi nepříjemné. Stavidla a strouhy a hráze se na mne vrhaly z mlhy, jako by jasně a zřetelně křičely: „Kluk s ukradenou fašírkou! Zadržte ho!“ Se stejnou náhlostí mě přepadal dobytek, poulil na mne oči a z nozder kouřil slova: „Vida ho, zlodějíčka!“ Jeden černý volek s bílou náprsenkou – v jehož vzhledu bylo pro mé pobouřené svědomí takřka cosi kněžského – na mne upíral oči tak vytrvale a komíhal svou nemotornou hlavou, když jsem běžel kolem, tak žalobně a káravě, že jsem na něho plačtivě vyhrkl: „Já nemohl jinak, prosím! Nevzal jsem to pro sebe!“ Nato sklonil hlavu, vyfrkl z chřípí oblak páry, vyhodil zadníma nohama, švihl oháňkou a zmizel.

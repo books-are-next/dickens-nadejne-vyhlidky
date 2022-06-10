@@ -3,8 +3,6 @@ title: Kapitola padesátá pátá
 contentType: prose
 ---
 
-  
-
 Druhý den ho přivedli před policejní soud a byli by ho ihned odevzdali porotnímu soudu, nebýt toho, že bylo nutné napřed obeslat jednoho bývalého dozorce z vězeňské lodi, odkud kdysi uprchl, aby potvrdil jeho totožnost. Nikdo o ní nepochyboval; ale Compeyson, který ji hodlal přísežně dosvědčit, se převaloval mrtvý na vlnách a stalo se, že v té době v Londýně náhodou nebyl žádný vězeňský dozorce, který by mohl žádané svědectví podat. Hned ráno po nočním příjezdu jsem zašel rovnou k panu Jaggersovi do jeho soukromého bytu, abych si zajistil jeho pomoc, a pan Jaggers v zájmu vězně nechtěl nic připustit. Byla to prostě jediná možnost, neboť mi řekl, že až předvedou svědka, musí být případ v pěti minutách vyřízený a že žádná moc na světě nemůže zabránit, aby věc nedopadla v náš neprospěch.
 
 Oznámil jsem panu Jaggersovi, že mám v úmyslu ponechat Magwitche v nevědomosti o osudu jeho jmění. Pan Jaggers mě huboval a zlobil se na mne, že jsem si je nechal „proklouznout mezi prsty“, a pravil, že musíme co nejdříve sepsat žádost a rozhodně se pokusit z něho zachránit aspoň něco. Ale netajil přede mnou, že ačkoli snad je mnoho případů, kdy soud na propadnutí jmění netrvá, v našem případě není okolností, které by jej mezi podobné případy zařadily. To jsem velmi dobře chápal. Nebyl jsem s tím psancem příbuzný ani mě s ním nepojilo žádné uznatelné pouto; před svým zatčením nepřipojil podpis k žádnému písemnému prohlášení ani pořízení v můj prospěch, a učinit něco takového nyní by bylo marné. Neměl jsem žádný nárok a s konečnou platností jsem se rozhodl, a napotom jsem už vždycky v tom rozhodnutí také vytrval, že si nebudu kalit duši beznadějnou námahou a pokusy nějaký nárok prokázat.

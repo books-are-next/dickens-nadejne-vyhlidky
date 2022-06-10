@@ -11,6 +11,8 @@ _Vaší stále vděčné a oddané služebnice Biddy._
 
 Douška. Přeje si zvlášť výslovně, abych napsala teprv legrace. Říká, že už budete rozumět. Doufám a nepochybuji, že Vám bude vhod se s ním vidět, třeba jste pán, protože jste měl odjakživa dobré srdce a on je zlatý, zlatý člověk. Přečtla jsem mu všechno, jenom ne tu poslední větičku, a on si přeje zvlášť výslovně, abych napsala ještě jednou teprv legrace.“
 
+  
+
 Tento dopis jsem dostal poštou v pondělí ráno, a proto schůzka platila pro příští den. Dovolte mi, abych poctivě přiznal, s jakými pocity jsem hleděl vstříc Joeově návštěvě.
 
 Nikoli s radostí, ačkoli mě k němu poutalo tolik svazků; ne, nýbrž se značným rozrušením, s trochou zahanbení a s palčivým vědomím nesrovnalosti mezi námi. Kdybych ho byl mohl od sebe udržet zaplacením nějakých peněz, byl bych ty peníze zaplatil. Největším uklidněním pro mne bylo, že přijde do Barnardova dvora, a ne do Hammersmithu, a proto že se nenachomýtne do cesty Bentleymu Drummlovi. Měl jsem málo námitek proti tomu, aby ho viděl Herbert nebo jeho otec, protože k oběma jsem cítil úctu; ale nejvýš choulostivý jsem byl na to, aby ho neviděl Drummle, pro něhož jsem měl pouze pohrdání. Tak se po celý život dopouštíme nejhorších slabostí a nízkostí kvůli lidem, kterými nejvíc opovrhujeme.

@@ -3,8 +3,6 @@ title: Kapitola padesátá sedmá
 contentType: prose
 ---
 
-  
-
 Když jsem teď zůstal odkázaný úplně sám na sebe, ohlásil jsem svůj úmysl vystěhovat se z bytu v Templu ihned, jakmile můj nájem podle nejkratší výpovědní lhůty zákonně vyprší, a mezitím dát byt do podnájmu. Okamžitě jsem do oken vyvěsil cedule, protože jsem byl zadlužený a neměl jsem už skorem vůbec žádné peníze a stav mých záležitostí mě začal vážně zneklidňovat. Měl bych spíš napsat, že by mě byl zneklidňoval, kdybych býval měl dost energie a schopnosti se soustředit, aby mi pomohly jasně si uvědomit také nějakou jinou pravdu kromě faktu, že na mne jde nějaká těžká nemoc. Nedávné vypětí sil pod tíhou starostí mi pomohlo nemoc oddálit, ale nikoli odvrátit; věděl jsem, že teď na mne přichází, a jiného jsem věděl moc málo, ba dokonce mi to bylo všechno jedno.
 
 Několik dní jsem proležel na pohovce nebo na podlaze – kdekoli, kde jsem se náhodou právě složil – s těžkou hlavou a s bolavými údy a beze vší vůle a beze vší síly. Pak jednou nadešla noc, která se zdála strašně dlouhá a která překypovala úzkostmi a hrůzami – a když jsem se ráno pokusil v posteli posadit a přemýšlet o ní, shledal jsem, že to nedokážu.
@@ -209,11 +207,15 @@ Když jsem ráno vstal, osvěžený a opět silnější, překypoval jsem rozho
 
 Pospíchal jsem tedy ke stolu, kde jsme snídali, a na něm jsem našel dopis. Jeho krátký obsah zněl takto:
 
+  
+
 Nerad bych obtěžoval a tak jsem odjel, ančto jsi už zase zdravý, Pipe milá, a bude ti líp bez
 
 _Joea._
 
 Douška. Vždycky nejlepší kamarádi.
+
+  
 
 Jako přílohu jsem v dopise našel stvrzenku na dlužné peníze i výlohy, pro které mě zatkli. Až do toho okamžiku jsem se jalově domníval, že můj věřitel stáhl žalobu nebo odložil vymáhání, dokud se úplně neuzdravím. Ani ve snu mě nenapadlo, že by ten dluh byl zaplatil Joe; ale Joe ho zaplatil a stvrzenka zněla na jeho jméno.
 

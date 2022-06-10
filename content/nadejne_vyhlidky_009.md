@@ -3,8 +3,6 @@ title: Kapitola pátá
 contentType: prose
 ---
 
-  
-
 Nenadálý příchod čety vojáků a zařinčení, s nímž spustili pažby nabitých mušket na náš práh, způsobily, že hosté vstali ve zmatku od stolu a že kovářka, která se právě s prázdnýma rukama vracela do kuchyně, strnula na místě a vypoulila oči s užaslým nářkem: „Má ty dobroto přesvatá, kam se – poděla – ta sekaná?“
 
 Seržant a já jsme byli v kuchyni, když se kovářka tak vyjeveně zarazila, a já v té kritické chvíli opět nabyl jisté vlády nad smysly. Byl to právě seržant, kdo na mne promluvil, a ten se nyní rozhlížel po společnosti, v pravé ruce proti ní vybízivě napřahoval pouta a levou spočíval na mém rameni.

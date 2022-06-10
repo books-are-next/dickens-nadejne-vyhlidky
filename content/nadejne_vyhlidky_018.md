@@ -3,8 +3,6 @@ title: Kapitola čtrnáctá
 contentType: prose
 ---
 
-  
-
 Je věru žalostné, stydí-li se člověk za domov. Skrývá se v tom možná černý nevděk a trest za to je možná odvetný a plně zasloužený, ale že to je žalostné, to mohu potvrdit.
 
 Pro povahu mé sestry pro mne domov nikdy nebyl místem zvlášť příjemným. Ale Joe je posvětil a já v ně věřil. Věřil jsem v náš parádní pokoj jako v nejelegantnější salón; věřil jsem v hlavní dveře jako v tajuplný portál chrámu vznešenosti, jehož slavnostní otevření provází vždy oběť pečených kuřat; věřil jsem v kuchyň jako v příbytek slušný a čistý, i když nijak nádherný; věřil jsem v kovárnu jako v cestu k mužnosti a samostatnosti. Během jediného roku se to všechno změnilo. Teď to všechno bylo sprosté a obyčejné a za žádnou cenu bych nebyl chtěl, aby to slečna Havishamová a Estella viděly.

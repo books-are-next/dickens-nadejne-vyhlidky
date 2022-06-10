@@ -3,8 +3,6 @@ title: Kapitola třicátá šestá
 contentType: prose
 ---
 
-  
-
 Herbert a já jsme si vedli stále hůř a hůř v tom, jak jsme zabředali do nových a nových dluhů, zkoumali svou finanční situaci, nechávali si rezervu a prováděli podobné znamenité transakce. A čas si vedl svou, ať bylo jak bylo, a jak už je jeho zvykem, ubíhal. A já dosáhl plnoletosti – a naplnil tím Herbertovu předpověď, že k tomu dojde, dřív než se naděju.
 
 Herbert dosáhl plnoletosti osm měsíců přede mnou. Poněvadž neměl nic jiného co získat než svou zletilost, nevzbudila ta událost v Barnardově dvoře žádný velký rozruch. Ale moje jedenadvacáté narozeniny jsme vyhlíželi se spoustou dohadů a předtuch, protože jsme oba soudili, že se můj poručník stěží může vyhnout tomu, aby mi v ten den řekl něco určitého.

@@ -3,8 +3,6 @@ title: Kapitola čtyřicátá osmá
 contentType: prose
 ---
 
-  
-
 K druhému ze dvou setkání, o nichž jsem učinil zmínku v předešlé kapitole, došlo asi týden po příhodě první. Opět jsem nechal loďku u rampy pod Londýnským mostem; tentokrát bylo odpoledne, o hodinu dříve; a v nerozhodnosti, kde bych měl večeřet, jsem se zatoulal od řeky až na Cheapside a toulal jsem se bez cíle po ní, jistě nejnesoustředěnější člověk v celém tom rušném davu, když tu jsem na rameni pocítil velkou ruku kohosi, kdo mě dostihl.
 
 Byla to ruka pana Jaggerse a vzápětí se do mne zavěsil.

@@ -3,8 +3,6 @@ title: Kapitola čtyřicátá šestá
 contentType: prose
 ---
 
-  
-
 Odbila osmá hodina, než jsem vkročil do ovzduší, v němž se vznášel pach – nikoli nepříjemný – štěpin a hoblin z pobřežních stavenišť lodí a tesařských ohrad s výrobou stožárů, vesel a kladek. Celá ta říční končina horního i dolního přístavu od Londýnského mostu dolů byla pro mne úplně neznámou půdou, a když jsem vykročil dál po proudu řeky, poznal jsem, že místo, které hledám, není tam, kde jsem se domníval, že je, a že rozhodně nebude snadné je najít. Jmenovalo se Mlýnský náhon, bylo v okolí Čínské rejdy a já neměl žádný jiný orien­tační bod, který by mě k Čínské rejdě dovedl, než Starou kablovnu.
 
 Nezáleží na tom, mezi jakými poškozenými loďmi, opravovanými v suchých docích, mezi jakými lodními trupy, právě bouranými na kusy, mezi jakým bahnem a slizem a všelijakým spodním kalem přílivu, mezi jakými ohradami stavitelů i rozebíračů lodí, mezi jakými rezavými kotvami slepě zakousnutými do země, ač už léta vyřazenými ze služby, mezi jakou hornatinou navršených sudů a klád, mezi kolika provazárnami, které nebyly Stará kablovna, jsem bloudil. Když jsem se několikrát předčasně obrátil, ač jsem měl svůj cíl před sebou, a stejně často přešel až za něj, tu jsem za jedním rohem nečekaně vyšel na Mlýnský náhon.

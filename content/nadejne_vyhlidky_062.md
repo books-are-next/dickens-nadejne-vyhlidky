@@ -3,8 +3,6 @@ title: Kapitola padesátá osmá
 contentType: prose
 ---
 
-  
-
 Zvěst o tom, že moje úžasné štěstí stihla těžká pohroma, se dostala do mé rodné vsi a jejího okolí dřív, než jsem se tam dostal já.
 
 Shledal jsem, že Modrý kanec je s tou novinou již obeznalý, a shledal jsem také, že v chování Kance způsobila velkou změnu. Dříve, když jsem měl majetku nabýt, hleděl si mne Kanec s vřelou úslužností předcházet a usilovat o moje dobré mínění, kdežto nyní, když jsem měl majetku pozbýt, byl Kanec po té stránce nesmírně chladný.
@@ -102,6 +100,8 @@ Biddy nejdřív vykřikla, jako kdyby si myslela, že to je můj duch, ale vzáp
 Díval jsem se na oba dva, z jednoho na druhého, a pak –
 
 „Dnes je můj svatební den,“ zvolala Biddy v náhlém přívalu štěstí, „ráno jsem se vdala za Joea!“
+
+  
 
 Odvedli mě do kuchyně a já si položil hlavu na starý prkenný stůl. Biddy si zdvihla jednu mou ruku ke rtům a na rameně jsem cítil Joeův posilující dotyk. „Cožto jako nebyl dost silný, má milá, aby snesl takové překvapení,“ pravil Joe. A Biddy řekla: „Měla jsem na to myslet, milý Joe, ale já byla tak šťastná.“
 

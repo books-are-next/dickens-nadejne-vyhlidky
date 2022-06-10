@@ -3,8 +3,6 @@ title: Kapitola padesátá první
 contentType: prose
 ---
 
-  
-
 Jaký cíl jsem sledoval, když jsem se tak horlivě snažil vypátrat a prokázat Estellin původ, nemohu říci. Co nevidět se ukáže, že jsem tu otázku neměl před očima v žádné jasné podobě, dokud mi ji nepředložila hlava moudřejší než moje.
 
 Ale když jsme s Herbertem skončili svou závažnou rozmluvu, zachvátilo mě horečné přesvědčení, že musím tu věc propátrat až ke kořenům, že ji nesmím nechat spát, nýbrž že si musím promluvit s panem Jaggersem a dopídit se čisté pravdy. Opravdu nevím, měl-li jsem pocit, že to dělám kvůli Estelle, nebo byl-li jsem rád, že mohu trochu záře oné romantické zajímavosti, která tak dlouho obklopovala mne, přenést na muže, o jehož záchranu jsem měl tak velkou starost. Tato druhá možnost se snad blíží pravdě víc.

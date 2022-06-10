@@ -3,8 +3,6 @@ title: Kapitola devátá
 contentType: prose
 ---
 
-  
-
 Když jsem došel domů, hořela sestra zvědavostí, aby se o domě slečny Havishamové dověděla první poslední, a zasypala mě spoustou otázek. A brzy jsem pocítil, jak mi prudkými herdami valchuje záda od zátylku až po kříž a potupně mi otlouká obličej o kuchyňskou zeď, protože jsem její otázky nezodpověděl dost obšírně.
 
 Skrývá-li se v prsou ostatních mladých lidí strach z neporozumění alespoň přibližně v takové síle, v jaké se skrýval v prsou mých – což pokládám za pravděpodobné, poněvadž nemám žádný zvláštní důvod se domnívat, že jsem byl zrůdný –, pak to je klíč k mnoha případům uzavřenosti. Byl jsem přesvědčen, že kdybych popsal dům slečny Havishamové tak, jak ho moje oči viděly, setkal bych se s neporozuměním. Nejen to, ale byl jsem též přesvědčen, že ani slečně Havishamové by nikdo neporozuměl; a ač mě samému byla úplně nepochopitelná, měl jsem dojem, že by v tom bylo cosi hrubého a zrádného, kdybych ji takovou, jaká je vskutku (o slečně Estelle vůbec nemluvě), vydal napospas myšlenkovému pitvání kovářčinu. Proto jsem také řekl, co nejméně jsem mohl, a musel si nechat otloukat obličej o kuchyňskou zeď.

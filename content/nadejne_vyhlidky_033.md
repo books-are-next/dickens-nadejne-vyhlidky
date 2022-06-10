@@ -3,8 +3,6 @@ title: Kapitola dvacátá devátá
 contentType: prose
 ---
 
-  
-
 Časně ráno jsem byl vzhůru a venku. Bylo ještě tuze brzo, abych mohl jít k slečně Havishamové, proto jsem se zatoulal do kraje na té straně města, kde slečna Havishamová bydlela – což nebyla strana Joeova; tam jsem mohl jít zítra –, a přemýšlel jsem o své příznivkyni a maloval si duhovými barvami, jaké se mnou má plány.
 
 Estellu adoptovala, mne vlastně skorem adoptovala také, a nemůže být tedy jinak, než že má v úmyslu svést nás dohromady. Ponechává pro mne, abych ten pustý dům obnovil, vpustil do tmavých pokojů slunce, uvedl do chodu hodiny a roztopil studené krby, strhal pavučiny, vyhubil cizopasnou havěť – zkrátka abych vykonal všechny skvělé činy mladého rytíře z pohádky a oženil se s princeznou. Když jsem šel kolem domu, zastavil jsem se, abych se na něj podíval, a jeho vypráhlé zdi z červených cihel, zabedněná okna a mohutný zelený břečťan, obepínající svými větvemi a šlahouny jako žilnatými stařeckými pažemi i řady komínů, spřádaly velkolepé vábné tajemství, jehož hrdinou jsem byl já. Estella byla samozřejmě jeho duší i středem. Ačkoli si mě tak silně podmanila, ačkoli se moje fantazie i naděje tolik upínaly na ni, ačkoli její vliv na můj chlapecký život i charakter byl věru všemocný, ani toho romantického rána jsem ji nepřikrašloval žádnými jinými vlastnostmi, než jaké vskutku měla. Uvádím to na tomto místě naprosto záměrně, poněvadž to je klíč, s jehož pomocí mě lze sledovat do mého bědného labyrintu. Podle mé zkušenosti nemůže být konvenční představa o zamilovaných pokaždé pravdivá.

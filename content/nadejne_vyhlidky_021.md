@@ -3,8 +3,6 @@ title: Kapitola sedmnáctá
 contentType: prose
 ---
 
-  
-
 Zapadl jsem nyní do pravidelného pořádku učednického života, který mimo meze vsi a blat nezpestřila žádná pozoruhodnější událost než to, že přišel den mých narozenin a že jsem vykonal další návštěvu slečně Havishamové. Ve službě u brány jsem dosud zastihl slečnu Sáru Pocketovou; slečnu Havishamovou jsem shledal přesně takovou, jako když jsem od ní posledně odcházel, a hovořila o Estelle právě týmž způsobem, ne-li dokonce právě týmiž slovy. Rozhovor trval pouze několik minut, a když jsem odcházel, dala mi zlaťák a řekla mi, abych k ní na své příští narozeniny zase přišel. Zároveň snad mohu uvést, že se z toho vyvinul každoroční zvyk. Hned při první takové návštěvě jsem se pokusil ten zlaťák odmítnout, ale nedokázal jsem tím nic kloudnějšího, než že jsem ji přiměl k velmi hněvivé otázce, čekám-li snad víc? Tenkrát a napotom už vždycky jsem si peníz vzal.
 
 Tak neměnný byl ten šerý starý dům, to žluté světlo v ztemnělém pokoji, to zvadlé strašidlo v křesle před zrcadlem toaletního stolku, že jsem měl pocit, jako by to zastavení hodin bylo zastavilo sám čas v tom tajemném vnitřku a ten že nehybně stojí, zatímco já i všechno ostatní venku stárneme. Do toho domu nevnikl v mých myšlenkách i vzpomínkách na něj jaktěživo ani jediný paprsek denního světla, stejně jako do něho nevnikl ani ve skutečnosti. To ve mně budilo zmatený údiv a pod jeho vlivem jsem v duši dál nenáviděl své řemeslo a styděl se za domov.

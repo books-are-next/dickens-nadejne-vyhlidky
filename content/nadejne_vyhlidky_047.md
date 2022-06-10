@@ -3,8 +3,6 @@ title: Kapitola čtyřicátá třetí
 contentType: prose
 ---
 
-  
-
 Proč bych se měl zastavovat u otázky, kolik z mého odporu k Provisovi by se dalo vysledovat k Estelle? Proč bych se měl na své cestě zdržovat srovnáváním myšlenkového stavu, v jakém jsem se pokoušel zbavit poskvrny vězení, než jsem se s ní setkal na dostavníkové stanici, se svým myšlenkovým stavem, v jakém jsem nyní v duchu měřil propast mezi Estellou, tak hrdou a krásnou, a mezi vypovězeným trestancem, kterého jsem po jeho návratu přechovával? Moje cesta by proto nebyla o nic hladší, konec by pro to nebyl o nic lepší; jemu by to nepomohlo, ani mně neulevilo.
 
 Jeho vyprávění zplodilo v mé mysli nový strach; nebo spíš, jeho vyprávění dalo tvar a smysl strachu, který v ní už dřímal. Je-li Compeyson naživu a objeví-li, že se Provis vrátil, těžko bych mohl pochybovat, jaké to bude mít následky. Že Compeyson z něho má smrtelný strach, to nemohl žádný z těch dvou vědět o mnoho lépe než já – a že kterýkoli člověk takové povahy, jak mi ho vylíčil Provis, by váhal jednou provždycky se osvobodit od obávaného protivníka způsobem tak spolehlivým a bezpečným, že ho prostě udá, to si bylo sotva možno představit.

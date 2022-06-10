@@ -3,8 +3,6 @@ title: Kapitola dvacátá
 contentType: prose
 ---
 
-  
-
 Cesta z našeho města do metropole trvala asi pět hodin. Bylo něco málo po poledni, když se čtyřspřežní dostavník, který mě vezl jako pasažéra, dostal do spleti dopravy, rozhemžené kolem Zkřížených klíčů ve Woodstreet u Cheapside v Londýně.
 
 My Britové jsme tenkrát byli obzvlášť pevně zajedno v tom, že je velezrádné pochybovat, že máme všechno nejlepší a jsme ze všech nejlepší; jinak, ačkoli mě nesmírnost Londýna děsila, bych myslím třeba byl docela malinko pochyboval, není-li Londýn vlastně notně šeredný, křivolaký, stěsnaný a špinavý.

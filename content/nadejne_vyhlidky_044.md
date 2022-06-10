@@ -3,8 +3,6 @@ title: Kapitola čtyřicátá
 contentType: prose
 ---
 
-  
-
 Bylo pro mne štěstí, že jsem musel učinit opatření, jak zajistit (pokud to bylo v mé moci) bezpečnost svého obávaného návštěvníka; ta myšlenka mě totiž tak tížila, když jsem se probudil, že zatlačovala zmatený rej ostatních myšlenek do pozadí.
 
 Nemožnost natrvalo ho ukrýt v našem bytě byla očividná. Nedalo se to provést a pokus o to by byl nevyhnutelně vyvolal podezření. Je pravda, neměl jsem už ve svých službách žádného Mstitele, ale posluhovala mi jedna hartusivá stařena spolu s čiperným hastrošem, kterého nazývala svou neteří, a nepouštět je do některého pokoje by bylo znamenalo provokovat jejich zvědavost a bujnou fantazii. Obě měly slabý zrak, což jsem již dlouho přičítal jejich chronickému civění do klíčových dírek, a obě byly vždycky nablízku, když o to nikdo nestál; to jediné také spolehlivě dovedly kromě okrádání. Abych si u těch ženských nezačínal s žádným tajemstvím, rozhodl jsem se ráno oznámit, že mi nečekaně přijel z venkova strýc.

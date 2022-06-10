@@ -3,8 +3,6 @@ title: Kapitola dvacátá první
 contentType: prose
 ---
 
-  
-
 Jak jsme tak spolu šli, pokukoval jsem po očku po panu Wemmickovi, abych viděl, jak vypadá na denním světle, a shledal jsem, že to je suchý člověk trochu sražené postavy a s hranatou prkennou tváří, jejíž výraz vypadá, jako by ji kdosi byl nedokonale vydlabal tupým dlátem. Zračilo se v ní několik známek, jež mohly být důlky, kdyby materiál býval měkčí a nástroj jemnější, jež však takto byly pouze vruby. Dláto učinilo asi tři nebo čtyři takové pokusy o okrášlení jeho nosu, ale vzdalo se jich a ani se nesnažilo je zase uhladit. Podle otřepeného a ošumělého prádla jsem usoudil, že je starý mládenec, a zdálo se, že utrpěl hezkou řádku bolestných ztrát, neboť kromě brože, zobrazující dámu a smuteční vrbu u náhrobku s urnou, měl na ruce alespoň čtyři smuteční prsteny. Všiml jsem si také, že se mu na hodinkovém řetízku houpá ještě několik prstenů a přívěsků, jako by byl vzpomínkami na zesnulé přátele přímo obtížen. Měl jiskrné oči – malé, bystré a černé – a dlouhé, úzké skvrnité rty. Mohl je mít už tak padesát let.
 
 „Tak vy jste ještě nikdy předtím v Londýně nebyl?“ zeptal se mne pan Wemmick.

@@ -3,8 +3,6 @@ title: Kapitola padesátá druhá
 contentType: prose
 ---
 
-  
-
 S šekem v kapse jsem z Malé Britské zamířil k bratrovi slečny Skiffinsové, účetnímu znalci, a když se bratr slečny Skiffinsové, účetní znalec, odebral rovnou k firmě Clarriker a Clarrikera přivedl za mnou, ke svému velkému uspokojení jsem celou záležitost vyřídil. Byla to jediná dobrá věc, kterou jsem udělal, a jediná dokončená věc, kterou jsem udělal od chvíle, kdy jsem se o svých nadějných vyhlídkách dověděl.
 
 Když mi Clarriker při té příležitosti sdělil, že situace firmy se vyvíjí stále příznivě, takže nyní bude moci na Východě otevřít malý pobočný závod, jehož je naléhavě zapotřebí k dalšímu rozšíření obchodu, a že Herbert ve svém novém postavení společníka tam pojede a ujme se vedení pobočky, uvědomil jsem si, že jsem se měl už dávno připravit na odloučení od přítele, i kdyby mé osobní záležitosti bývaly uspořádanější. A teď jsem vskutku cítil, jako by se uvolňovala moje poslední kotva a já se měl co nevidět stát hříčkou větrů a vln.
@@ -15,7 +13,11 @@ Vkročili jsme zatím již do měsíce března. Moje levá ruka, ačkoli nejevil
 
 Jednou v pondělí ráno, když jsme s Herbertem právě seděli u snídaně, jsem od Wemmicka dostal poštou následující dopis:
 
+  
+
 „Walworth. Spalte ihned po přečtení. Začátkem týdne, nebo řekněme ve středu, můžete podniknout to, o čem víte, máte-li chuť to zkusit. Teď spalte.“
+
+  
 
 Když jsem to ukázal Herbertovi a potom strčil do ohně – ale ne dříve, dokud jsme to oba neuměli nazpaměť –, uvažovali jsme, co počít. Neboť to se rozumí, teď už jsme si nemohli zakrývat, že jsem pro tu chvíli invalidní.
 
@@ -43,7 +45,11 @@ Jakmile jsme si tato bezpečnostní opatření oba dobře zopakovali, šel jsem 
 
 Když jsem si klíčem otevřel vnější dveře našeho bytu, našel jsem ve schránce dopis, adresovaný mně; dopis velmi ušpiněný, třebaže nijak špatně napsaný. Přinesl ho posel, (ovšem až po mém odchodu z domova), a stálo tam:
 
+  
+
 _„Nebojíte-li se přijít dnes nebo zítra večer v devět hodin na stará blata do domku hrázného u vápenky, uděláte dobře, když přijdete. Chcete-li nějaké informace_ o svém strýci Provisovi, _uděláte nejlíp, když přijdete, nikomu nic neřeknete a nebudete ztrácet čas._ Musíte přijít sám. _Toto přineste s sebou.“_
+
+  
 
 Měl jsem hlavu dost plnou těžkých starostí už před tím, než přišel ten podivný dopis. Co si počít teď, to jsem věru nemohl říci. A nejhorší bylo, že jsem se musel rozhodnout rychle, nebo jinak bych zmeškal odpolední dostavník, který by mě tam stačil dovézt včas pro ten večer. Nebylo ani pomyšlení, abych tam jel až zítra večer, protože to by bylo tuze krátce před dobou stanovenou k útěku. A dál, nemohl jsem vědět, nemají-li nabízené informace třebas nějaký důležitý vztah právě k tomu útěku.
 

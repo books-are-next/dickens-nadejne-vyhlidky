@@ -3,8 +3,6 @@ title: Kapitola jedenáctá
 contentType: prose
 ---
 
-  
-
 V stanovený čas jsem se znovu octl před domem slečny Havishamové a moje rozpačité zazvonění u branky přivolalo Estellu. Když mě vpustila, zamkla ji za mnou, stejně jako ji zamkla minule, a opět šla přede mnou do tmavé chodby, kde nechala stát svíčku. Vůbec si mne nevšimla, dokud nevzala svíčku do ruky, a potom se ohlédla přes rameno, řekla nadutě: „Dnes máš jít sem,“ a vedla mě do úplně jiné části domu.
 
 Chodba byla dlouhá a zdálo se, že obíhá celý čtvercový základ Panského domu. Přešli jsme však pouze jednu stranu čtverce a na jejím konci se Estella zastavila, postavila svíčku a otevřela dveře. Za nimi se ukázalo opět denní světlo a já vkročil na malý dlážděný dvorek, jehož protilehlou stranu zaujímal samostatný obytný dům, který vypadal, jako by kdysi byl patřil správci nebo hlavnímu účetnímu zaniklého pivovaru. Na vnější stěně toho domu byly hodiny. Stejně jako hodiny v pokoji slečny Havishamové a stejně jako hodinky slečny Havishamové, i tyhle se zastavily na dvaceti minutách před devátou.

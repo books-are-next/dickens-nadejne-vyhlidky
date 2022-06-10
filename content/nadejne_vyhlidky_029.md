@@ -3,8 +3,6 @@ title: Kapitola dvacátá pátá
 contentType: prose
 ---
 
-  
-
 Bentley Drummle, který byl takový zarputilý mrzout, že i knihu bral do ruky, jako kdyby ho byl spisovatel nějak urazil, nebral ani novou známost s rozpoložením vlídnějším. Těžkopádný v postavě, pohybech i chápání – v neživé pleti obličeje i silném nemotorném jazyku, který jako by se mu v ústech válel, stejně jako on sám se válel po pokoji – byl líný, nafoukaný, skoupý, uzavřený a podezíravý. Pocházel z bohatých rodičů kdesi v Sommersetshiru, kteří hýčkali tuto snůšku vlastností tak dlouho, až učinili objev, že je zrovna plno­letá a tupohlavá. Takto přišel Bentley Drummle k panu Pocketovi, když vzrůstem přesahoval tohoto pána o hlavu a tupostí většinu pánů o půl tuctu hlav.
 
 Startopa zkazila slabošská matka, která ho držela doma, když už měl dávno být ve škole, ale lnul k ní oddaně a bezmezně ji zbožňoval. Měl žensky jemný obličej a byl – „jak můžete vidět, třeba jste nikdy neviděl ji,“ řekl mi Herbert – „navlas podobný své matce.“ Bylo jen přirozené, že jsem se s ním spřátelil mnohem snadněji než s Drummlem a že již hned za prvních našich večerních projížděk po řece jsme on a já veslovali domů vedle sebe a bavili se hovorem z loďky do loďky, kdežto Bentley Drummle plul vzadu za námi sám pod převislými břehy a mezi sítím. Ploužíval se vždycky podél břehu jako nějaký stísněný obojživelník, i když by ho byl proud unášel kupředu rychleji; a vždycky ho v mysli vidím, jak pluje za námi tmou nebo zahrazenou tišinou, zatímco loďky nás dvou rozrážejí odlesk západu slunce nebo měsíčního světla uprostřed řeky.
