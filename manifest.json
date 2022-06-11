@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-nadejne-vyhlidky-aa3a007",
-  "revision": "aa3a007",
+  "identifier": "dickens-nadejne-vyhlidky-823ce2e",
+  "revision": "823ce2e",
   "readingOrder": [
     "promo.html",
     "nadejne_vyhlidky_005.html",
@@ -73,8 +73,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:48:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883330760
+    "date": "Sat Jun 11 2022 11:55:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948514313
   },
   "documents": [
     {
