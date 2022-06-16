@@ -12,7 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-03-10T00:00:00.000Z'
   isbn: 978-80-274-1260-0; 978-80-274-1259-4; 978-80-274-1261-7
-  publisherShort: MKP
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - nadejne_vyhlidky_005.html
