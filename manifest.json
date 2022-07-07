@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-nadejne-vyhlidky-9bf2675",
-  "revision": "9bf2675",
+  "identifier": "dickens-nadejne-vyhlidky-713c919",
+  "revision": "713c919",
   "readingOrder": [
     "promo.html",
     "nadejne_vyhlidky_005.html",
@@ -74,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:21:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657182066315
+    "date": "Thu Jul 07 2022 09:59:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657187960824
   },
   "documents": [
     {
