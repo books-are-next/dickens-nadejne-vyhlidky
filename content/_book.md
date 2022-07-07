@@ -75,7 +75,7 @@ readingOrder:
   - nadejne_vyhlidky_061.html
   - nadejne_vyhlidky_062.html
   - nadejne_vyhlidky_063.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
