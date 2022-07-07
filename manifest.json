@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-nadejne-vyhlidky-42420fe",
-  "revision": "42420fe",
+  "identifier": "dickens-nadejne-vyhlidky-9bf2675",
+  "revision": "9bf2675",
   "readingOrder": [
     "promo.html",
     "nadejne_vyhlidky_005.html",
@@ -71,11 +71,11 @@
     "nadejne_vyhlidky_061.html",
     "nadejne_vyhlidky_062.html",
     "nadejne_vyhlidky_063.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:59:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978385669
+    "date": "Thu Jul 07 2022 08:21:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182066315
   },
   "documents": [
     {
@@ -1259,7 +1259,7 @@
       "role": "chapter",
       "order": 59,
       "prev": "nadejne_vyhlidky_062.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1272,11 +1272,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 140,
-      "chars": 968,
+      "chars": 967,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "nadejne_vyhlidky_063.html",
       "next": null,
@@ -1294,7 +1294,7 @@
   "totals": {
     "all": {
       "words": 173434,
-      "chars": 1008342,
+      "chars": 1008341,
       "ideas": 4019
     },
     "chapters": {
