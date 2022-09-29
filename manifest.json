@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-nadejne-vyhlidky-3df899b",
-  "revision": "3df899b",
+  "identifier": "dickens-nadejne-vyhlidky-3cf7ba4",
+  "revision": "3cf7ba4",
   "readingOrder": [
     "promo.html",
     "nadejne_vyhlidky_005.html",
@@ -74,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:40:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414451833
+    "date": "Thu Sep 29 2022 21:21:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486470177
   },
   "documents": [
     {
@@ -374,7 +374,7 @@
       "title": "Kapitola patnáctá",
       "file": "nadejne_vyhlidky_019.html",
       "words": 4077,
-      "chars": 23506,
+      "chars": 23507,
       "ideas": 100,
       "role": "chapter",
       "order": 15,
@@ -1294,12 +1294,12 @@
   "totals": {
     "all": {
       "words": 173434,
-      "chars": 1008342,
+      "chars": 1008343,
       "ideas": 4019
     },
     "chapters": {
       "words": 173288,
-      "chars": 1007332,
+      "chars": 1007333,
       "ideas": 3999
     }
   }
